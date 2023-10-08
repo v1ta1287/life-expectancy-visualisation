@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Global Life Expectancy At Birth (2021)",
-  "width": 800,
-  "height": 400,
+  "title": "Global Life Expectancy At Birth",
+  "width": 450,
+  "height": 300,
   "data": {
     "url": "ne_110m_admin_0_countries.topojson",
     "format": { "type": "topojson", "feature": "ne_110m_admin_0_countries" }
