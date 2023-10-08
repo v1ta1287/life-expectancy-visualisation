@@ -107,9 +107,9 @@
         "tooltip": [
           {"field": "Country", "type": "nominal"},
           {"field": "Continent", "type": "nominal"},
-          {"field": "Population", "type": "quantitative", "format": ","},
-          {"field": "Life expectancy", "type": "quantitative", "format": ","},
-          {"field": "Land Area(Km2)", "type": "quantitative", "format": ","},
+          {"field": "Population", "type": "quantitative", "format": ""},
+          {"field": "Life expectancy", "type": "quantitative", "format": ""},
+          {"field": "Land Area(Km2)", "type": "quantitative", "format": ""},
           {"field": "Capital/Major City", "type": "nominal"}
         ]
       }
@@ -123,7 +123,6 @@
         "fontSize": 11.5,
         "fontStyle": "italic",
         "fontWeight": "bold"
-        
       },
       "encoding": {
         "text": {"field": "Country", "type": "nominal"},
@@ -138,9 +137,9 @@
         "tooltip": [
           {"field": "Country", "type": "nominal"},
           {"field": "Continent", "type": "nominal"},
-          {"field": "Population", "type": "quantitative", "format": ","},
-          {"field": "Life expectancy", "type": "quantitative", "format": ","},
-          {"field": "Land Area(Km2)", "type": "quantitative", "format": ","},
+          {"field": "Population", "type": "quantitative", "format": ""},
+          {"field": "Life expectancy", "type": "quantitative", "format": ""},
+          {"field": "Land Area(Km2)", "type": "quantitative", "format": ""},
           {"field": "Capital/Major City", "type": "nominal"}
         ]
       }
