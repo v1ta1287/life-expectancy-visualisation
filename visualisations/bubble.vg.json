@@ -1,10 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 400,
-  "height": 300,
+  "config": {
+    "background": "transparent"
+  },
+  "width": "container",
   "title": "Life expectancy vs GDP Per Capita",
   "data": {
-    "url": "global_data.csv"
+    "url": "data/global_data.csv"
   },
   "params": [
     {
@@ -25,8 +27,7 @@
         "input": "select",
         "options": [
           null,
-          "North America",
-          "South America",
+          "America",
           "Europe",
           "Africa",
           "Asia",
@@ -34,8 +35,7 @@
         ],
         "labels": [
           "Show All",
-          "North America",
-          "South America",
+          "America",
           "Europe",
           "Africa",
           "Asia",
@@ -47,13 +47,14 @@
   ],
   "transform": [
     {"filter": "datum.Population > Population_Above"},
+    {"filter": "datum.GDPPerCapita < 100000"},
     {
       "filter": "Continent_selection == null || datum.Continent == Continent_selection"
     }
   ],
   "encoding": {
     "x": {
-      "field": "GDP Per Capita",
+      "field": "GDPPerCapita",
       "type": "quantitative",
       "axis": {"tickCount": 3},
       "scale": {"type": "log", "domain": [100, 100000]}
@@ -79,29 +80,28 @@
             "domain": [1000000, 10000000, 50000000, 100000000, 500000000],
             "range": [10, 50, 150, 200, 300, 400]
           },
-          "legend": { "format": ".1s" }
+          "legend": { "format": ".1s" , "labelFontSize": 10, "symbolSize":1, "titleFontSize":10}
         },
         "color": {
           "field": "Continent",
           "type": "nominal",
           "scale": {
             "domain": [
-              "North America",
-              "South America",
+              "America",
               "Europe",
               "Africa",
               "Asia",
               "Oceania"
             ],
             "range": [
-              "#e41a1c",
               "#984ea3",
               "#ff7f00",
               "#a6cee3",
               "#377eb8",
               "#a65628"
             ]
-          }
+          },
+          "legend": {"labelFontSize": 10, "symbolSize":10, "titleFontSize": 10}
         },
         "opacity": {"value": 0.6},
         "tooltip": [

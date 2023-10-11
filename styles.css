@@ -11,15 +11,23 @@ body {
 }
 
 .page {
-  width: 850px;
-  background-color: white;
+  width: 750px;
+  background-color: rgb(230, 239, 247);
   margin: auto;
   padding: 50px;
   padding-top: 35px;
 }
 
+.section {
+  margin-top: 40px;
+  background-color: rgb(248, 250, 252);
+  border-radius: 10px;
+}
 .vis-container {
   width: 100%;
+  background-color: rgb(248, 250, 252);
+  padding: 20px;
+  border-radius: 10px;
 }
 
 .description h2,
@@ -32,7 +40,10 @@ h1 {
 }
 
 .description-left {
-  padding-right: 20px;
+  width: 100%;
+  background-color: rgb(248, 250, 252);
+  padding: 10px;
+  height: 315px;
 }
 
 .pure-g {

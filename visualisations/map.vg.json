@@ -1,10 +1,13 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "background": "transparent"
+  },
   "title": "Global Life Expectancy At Birth",
-  "width": 450,
+  "width": "container",
   "height": 300,
   "data": {
-    "url": "ne_110m_admin_0_countries.topojson",
+    "url": "data/ne_110m_admin_0_countries.topojson",
     "format": { "type": "topojson", "feature": "ne_110m_admin_0_countries" }
   },
   "projection": { "type": "equalEarth" },
@@ -21,7 +24,7 @@
     },
     {
       "data": {
-        "url": "oceans.topojson",
+        "url": "data/oceans.topojson",
         "format": { "type": "topojson", "feature": "oceans" }
       },
       "mark": {
@@ -31,7 +34,7 @@
     },
     {
       "data": {
-        "url": "ne_110m_graticules_30.json",
+        "url": "data/ne_110m_graticules_30.json",
         "format": { "type": "topojson", "feature": "ne_110m_graticules_30" }
       },
       "mark": { "type": "geoshape", "fill": null, "stroke": "lightgray" }
@@ -42,7 +45,7 @@
           "lookup": "properties.NAME",
           "from": {
             "data": {
-              "url": "life.csv"
+              "url": "data/life.csv"
             },
             "key": "Country",
             "fields": ["Life Expectancy at Birth (2021)", "Country"]
@@ -55,11 +58,17 @@
           "field": "Life Expectancy at Birth (2021)",
           "type": "quantitative",
           "scale": {
-            "type": "threshold",
-            "domain": [60, 70, 80],
+            "type": "linear",
+            "domain": [50, 90],
             "range": ["#9fc489", "#67c72e", "#388f04", "#1c4702"]
           },
-          "title": "Life expectancy in years"
+          "legend": {
+            "format": ".1s",
+            "labelFontSize": 10,
+            "symbolSize": 100000  ,
+            "titleFontSize": 10
+          },
+          "title": "Years"
         },
         "tooltip": [
           {

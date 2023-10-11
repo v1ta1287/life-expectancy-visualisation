@@ -31,52 +31,73 @@
       <div class="pure-g">
         <div class="pure-u-1-1">
           <h1>Welcome to my visualisation</h1>
-          <p>
-            To-Do
-          </p>
+          <p>To-Do</p>
         </div>
       </div>
       <!-- end pure grid group -->
 
       <!-- pure grid group -->
+
       <div class="pure-g">
-        <div class="pure-u-1-3">
-          <div class="description description-left">
-            <h2>Chloropleth Map</h2>
-            <p>
-              To-Do
-            </p>
-          </div>
-        </div>
-        <div class="pure-u-1-3">
+        <div class="pure-u-1-1">
           <div id="map" class="vis-container"></div>
         </div>
       </div>
-      <!-- end pure grid group -->
-      <!-- pure grid group -->
-      <div class="pure-g">
-        <div class="pure-u-1-3">
-          <div class="description description-left">
-            <h2>Bubble plot</h2>
-            <p>
-              To-Do
-            </p>
+
+      <!-- Start section -->
+      <div class="section">
+        <div class="pure-g">
+          <div class="pure-u-16-24">
+            <div id="line" class="vis-container"></div>
+          </div>
+          <div class="pure-u-6-24">
+            <div class="description description-left">
+              <h2>Bubble plot</h2>
+              <p>To-Do</p>
+            </div>
           </div>
         </div>
-        <div class="pure-u-1-3">
-          <div id="bubble" class="vis-container"></div>
+
+      </div>
+      <!-- End section -->
+
+      <!-- Start section -->
+      <div class="section">
+        <div class="pure-g">
+          <div class="pure-u-16-24">
+            <div id="bubble" class="vis-container"></div>
+          </div>
+          <div class="pure-u-6-24">
+            <div class="description description-left">
+              <h2>Bubble plot</h2>
+              <p>To-Do</p>
+            </div>
+          </div>
+        </div>
+        <div class="pure-g">
+          <div class="pure-u-24-24">
+            <div id="parallel" class="vis-container"></div>
+          </div>
         </div>
       </div>
-      <!-- end pure grid group -->
+      <!-- End section -->
     </div>
     <!-- end page -->
     <script>
-      const map = "map.vg.json";
-      const bubble = "bubble.vg.json";
+      const map = "visualisations/map.vg.json";
+      const bubble = "visualisations/bubble.vg.json";
+      const parallel = "visualisations/parallel.vg.json";
+      const line = "visualisations/line.vg.json";
       vegaEmbed("#map", map, { mode: "vega-lite" })
         .then(console.log)
         .catch(console.warn);
       vegaEmbed("#bubble", bubble, { mode: "vega-lite" })
+        .then(console.log)
+        .catch(console.warn);
+      vegaEmbed("#parallel", parallel, { mode: "vega-lite" })
+        .then(console.log)
+        .catch(console.warn);
+      vegaEmbed("#line", line, { mode: "vega-lite" })
         .then(console.log)
         .catch(console.warn);
     </script>
