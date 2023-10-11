@@ -7,7 +7,7 @@ h1 {
 }
 
 body {
-  background-color: lightgray;
+  background-color: rgb(230, 239, 247);
 }
 
 .page {
@@ -44,7 +44,7 @@ h1 {
 .description-left {
   width: 100%;
   background-color: rgb(248, 250, 252);
-  height: 230px;
+  height: 250px;
 }
 
 .pure-g {

@@ -12,8 +12,8 @@
       "fold": [
         "Life expectancy",
         "Infant mortality",
-        "Fertility Rate",
-        "Birth Rate"
+        "Maternal mortality ratio",
+        "Physicians per thousand"
       ]
     },
     {
@@ -48,22 +48,14 @@
           "field": "Continent",
           "type": "nominal",
           "scale": {
-            "domain": [
-              "America",
-              "Europe",
-              "Africa",
-              "Asia",
-              "Oceania"
-            ],
-            "range": [
-              "#984ea3",
-              "#ff7f00",
-              "#a6cee3",
-              "#377eb8",
-              "#a65628"
-            ]
+            "domain": ["America", "Europe", "Africa", "Asia", "Oceania"],
+            "range": ["#984ea3", "#ff7f00", "#a6cee3", "#377eb8", "#a65628"]
           },
-          "legend": {"labelFontSize": 10, "symbolSize":10, "titleFontSize": 10}
+          "legend": {
+            "labelFontSize": 10,
+            "symbolSize": 10,
+            "titleFontSize": 10
+          }
         },
         "detail": { "type": "nominal", "field": "index" },
         "opacity": { "value": 0.3 },
@@ -77,10 +69,10 @@
             "field": "Infant mortality"
           },
           {
-            "field": "Fertility Rate"
+            "field": "Maternal mortality ratio"
           },
           {
-            "field": "Birth Rate"
+            "field": "Physicians per thousand"
           }
         ]
       }

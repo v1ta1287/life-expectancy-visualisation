@@ -3,36 +3,42 @@
   "config": {
     "background": "transparent"
   },
-  "title": "Top 5 life expectancies",
+  "title": "Continents by life expectancy",
   "width": "container",
   "height": 230,
+  "description": "Average Life Expectancy by Continent",
   "data": { "url": "data/global.json" },
-  "description": "A simple bar chart with embedded data.",
   "transform": [
     {
-      "window": [
+      "aggregate": [
         {
-          "op": "rank",
-          "as": "rank"
+          "op": "mean",
+          "field": "Life expectancy",
+          "as": "Average Life Expectancy"
         }
       ],
-      "sort": [{ "field": "Life expectancy", "order": "descending" }]
-    },
-    {
-      "filter": "datum.rank <= 5"
+      "groupby": ["Continent"]
     }
   ],
   "mark": "bar",
   "encoding": {
     "x": {
-      "field": "Life expectancy",
+      "field": "Average Life Expectancy",
       "type": "quantitative",
       "axis": { "tickCount": 6 , "format": ".2f"}
     },
     "y": {
-      "field": "Country",
+      "field": "Continent",
+      "type": "nominal"
+    },
+    "color": {
+      "field": "Continent",
       "type": "nominal",
-      "sort": { "field": "Life expectancy", "op": "average", "order": "descending" }
+      "scale": {
+        "domain": ["America", "Europe", "Africa", "Asia", "Oceania"],
+        "range": ["#984ea3", "#ff7f00", "#a6cee3", "#377eb8", "#a65628"]
+      },
+      "legend": { "labelFontSize": 10, "symbolSize": 10, "titleFontSize": 10 }
     }
   }
 }
