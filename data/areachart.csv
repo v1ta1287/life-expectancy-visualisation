@@ -1,0 +1,5860 @@
+﻿Country,Continent,Year,Population
+Afghanistan,Asia,1990,12412311
+Afghanistan,Asia,1991,13299016
+Afghanistan,Asia,1992,14485543
+Afghanistan,Asia,1993,15816601
+Afghanistan,Asia,1994,17075728
+Afghanistan,Asia,1995,18110662
+Afghanistan,Asia,1996,18853444
+Afghanistan,Asia,1997,19357126
+Afghanistan,Asia,1998,19737770
+Afghanistan,Asia,1999,20170847
+Afghanistan,Asia,2000,20779957
+Afghanistan,Asia,2001,21606992
+Afghanistan,Asia,2002,22600774
+Afghanistan,Asia,2003,23680871
+Afghanistan,Asia,2004,24726689
+Afghanistan,Asia,2005,25654274
+Afghanistan,Asia,2006,26433058
+Afghanistan,Asia,2007,27100542
+Afghanistan,Asia,2008,27722281
+Afghanistan,Asia,2009,28394806
+Afghanistan,Asia,2010,29185511
+Afghanistan,Asia,2011,30117411
+Afghanistan,Asia,2012,31161378
+Afghanistan,Asia,2013,32269592
+Afghanistan,Asia,2014,33370804
+Afghanistan,Asia,2015,34413603
+Afghanistan,Asia,2016,35383028
+Afghanistan,Asia,2017,36296111
+Afghanistan,Asia,2018,37171922
+Afghanistan,Asia,2019,38041757
+Afghanistan,Asia,2020,38928341
+Angola,Africa,1990,11848385
+Angola,Africa,1991,12248901
+Angola,Africa,1992,12657361
+Angola,Africa,1993,13075044
+Angola,Africa,1994,13503753
+Angola,Africa,1995,13945205
+Angola,Africa,1996,14400722
+Angola,Africa,1997,14871572
+Angola,Africa,1998,15359600
+Angola,Africa,1999,15866871
+Angola,Africa,2000,16395477
+Angola,Africa,2001,16945753
+Angola,Africa,2002,17519418
+Angola,Africa,2003,18121477
+Angola,Africa,2004,18758138
+Angola,Africa,2005,19433604
+Angola,Africa,2006,20149905
+Angola,Africa,2007,20905360
+Angola,Africa,2008,21695636
+Angola,Africa,2009,22514275
+Angola,Africa,2010,23356247
+Angola,Africa,2011,24220660
+Angola,Africa,2012,25107925
+Angola,Africa,2013,26015786
+Angola,Africa,2014,26941773
+Angola,Africa,2015,27884380
+Angola,Africa,2016,28842482
+Angola,Africa,2017,29816769
+Angola,Africa,2018,30809787
+Angola,Africa,2019,31825299
+Angola,Africa,2020,32866268
+Albania,Europe,1990,3286542
+Albania,Europe,1991,3266790
+Albania,Europe,1992,3247039
+Albania,Europe,1993,3227287
+Albania,Europe,1994,3207536
+Albania,Europe,1995,3187784
+Albania,Europe,1996,3168033
+Albania,Europe,1997,3148281
+Albania,Europe,1998,3128530
+Albania,Europe,1999,3108778
+Albania,Europe,2000,3089027
+Albania,Europe,2001,3060173
+Albania,Europe,2002,3051010
+Albania,Europe,2003,3039616
+Albania,Europe,2004,3026939
+Albania,Europe,2005,3011487
+Albania,Europe,2006,2992547
+Albania,Europe,2007,2970017
+Albania,Europe,2008,2947314
+Albania,Europe,2009,2927519
+Albania,Europe,2010,2913021
+Albania,Europe,2011,2905195
+Albania,Europe,2012,2900401
+Albania,Europe,2013,2895092
+Albania,Europe,2014,2889104
+Albania,Europe,2015,2880703
+Albania,Europe,2016,2876101
+Albania,Europe,2017,2873457
+Albania,Europe,2018,2866376
+Albania,Europe,2019,2854191
+Albania,Europe,2020,2837743
+Andorra,Europe,1990,54508
+Andorra,Europe,1991,56666
+Andorra,Europe,1992,58882
+Andorra,Europe,1993,60974
+Andorra,Europe,1994,62676
+Andorra,Europe,1995,63860
+Andorra,Europe,1996,64363
+Andorra,Europe,1997,64318
+Andorra,Europe,1998,64140
+Andorra,Europe,1999,64368
+Andorra,Europe,2000,65390
+Andorra,Europe,2001,67344
+Andorra,Europe,2002,70048
+Andorra,Europe,2003,73180
+Andorra,Europe,2004,76250
+Andorra,Europe,2005,78871
+Andorra,Europe,2006,80995
+Andorra,Europe,2007,82682
+Andorra,Europe,2008,83860
+Andorra,Europe,2009,84461
+Andorra,Europe,2010,84454
+Andorra,Europe,2011,83748
+Andorra,Europe,2012,82427
+Andorra,Europe,2013,80770
+Andorra,Europe,2014,79213
+Andorra,Europe,2015,77993
+Andorra,Europe,2016,77295
+Andorra,Europe,2017,76997
+Andorra,Europe,2018,77008
+Andorra,Europe,2019,77146
+Andorra,Europe,2020,77265
+United Arab Emirates,Asia,1990,1828437
+United Arab Emirates,Asia,1991,1937159
+United Arab Emirates,Asia,1992,2052892
+United Arab Emirates,Asia,1993,2173135
+United Arab Emirates,Asia,1994,2294377
+United Arab Emirates,Asia,1995,2415099
+United Arab Emirates,Asia,1996,2539121
+United Arab Emirates,Asia,1997,2671361
+United Arab Emirates,Asia,1998,2813214
+United Arab Emirates,Asia,1999,2966029
+United Arab Emirates,Asia,2000,3134067
+United Arab Emirates,Asia,2001,3302722
+United Arab Emirates,Asia,2002,3478769
+United Arab Emirates,Asia,2003,3711931
+United Arab Emirates,Asia,2004,4068577
+United Arab Emirates,Asia,2005,4588222
+United Arab Emirates,Asia,2006,5300172
+United Arab Emirates,Asia,2007,6168846
+United Arab Emirates,Asia,2008,7089486
+United Arab Emirates,Asia,2009,7917368
+United Arab Emirates,Asia,2010,8549998
+United Arab Emirates,Asia,2011,8946778
+United Arab Emirates,Asia,2012,9141598
+United Arab Emirates,Asia,2013,9197908
+United Arab Emirates,Asia,2014,9214182
+United Arab Emirates,Asia,2015,9262896
+United Arab Emirates,Asia,2016,9360975
+United Arab Emirates,Asia,2017,9487206
+United Arab Emirates,Asia,2018,9630966
+United Arab Emirates,Asia,2019,9770526
+United Arab Emirates,Asia,2020,9890400
+Argentina,America,1990,32618648
+Argentina,America,1991,33079002
+Argentina,America,1992,33529320
+Argentina,America,1993,33970103
+Argentina,America,1994,34402669
+Argentina,America,1995,34828168
+Argentina,America,1996,35246376
+Argentina,America,1997,35657438
+Argentina,America,1998,36063451
+Argentina,America,1999,36467218
+Argentina,America,2000,36870796
+Argentina,America,2001,37275644
+Argentina,America,2002,37681743
+Argentina,America,2003,38087866
+Argentina,America,2004,38491970
+Argentina,America,2005,38892924
+Argentina,America,2006,39289876
+Argentina,America,2007,39684303
+Argentina,America,2008,40080159
+Argentina,America,2009,40482786
+Argentina,America,2010,40788453
+Argentina,America,2011,41261490
+Argentina,America,2012,41733271
+Argentina,America,2013,42202935
+Argentina,America,2014,42669500
+Argentina,America,2015,43131966
+Argentina,America,2016,43590368
+Argentina,America,2017,44044811
+Argentina,America,2018,44494502
+Argentina,America,2019,44938712
+Argentina,America,2020,45376763
+Armenia,Asia,1990,3538164
+Armenia,Asia,1991,3505249
+Armenia,Asia,1992,3442820
+Armenia,Asia,1993,3363111
+Armenia,Asia,1994,3283664
+Armenia,Asia,1995,3217349
+Armenia,Asia,1996,3168213
+Armenia,Asia,1997,3133081
+Armenia,Asia,1998,3108691
+Armenia,Asia,1999,3089020
+Armenia,Asia,2000,3069597
+Armenia,Asia,2001,3050686
+Armenia,Asia,2002,3033976
+Armenia,Asia,2003,3017938
+Armenia,Asia,2004,3000715
+Armenia,Asia,2005,2981262
+Armenia,Asia,2006,2958301
+Armenia,Asia,2007,2932615
+Armenia,Asia,2008,2907615
+Armenia,Asia,2009,2888094
+Armenia,Asia,2010,2877314
+Armenia,Asia,2011,2876536
+Armenia,Asia,2012,2884239
+Armenia,Asia,2013,2897593
+Armenia,Asia,2014,2912403
+Armenia,Asia,2015,2925559
+Armenia,Asia,2016,2936147
+Armenia,Asia,2017,2944789
+Armenia,Asia,2018,2951741
+Armenia,Asia,2019,2957728
+Armenia,Asia,2020,2963234
+Antigua and Barbuda,America,1990,62533
+Antigua and Barbuda,America,1991,63363
+Antigua and Barbuda,America,1992,64459
+Antigua and Barbuda,America,1993,65777
+Antigua and Barbuda,America,1994,67201
+Antigua and Barbuda,America,1995,68672
+Antigua and Barbuda,America,1996,70176
+Antigua and Barbuda,America,1997,71707
+Antigua and Barbuda,America,1998,73219
+Antigua and Barbuda,America,1999,74674
+Antigua and Barbuda,America,2000,76007
+Antigua and Barbuda,America,2001,77212
+Antigua and Barbuda,America,2002,78298
+Antigua and Barbuda,America,2003,79311
+Antigua and Barbuda,America,2004,80347
+Antigua and Barbuda,America,2005,81462
+Antigua and Barbuda,America,2006,82715
+Antigua and Barbuda,America,2007,84029
+Antigua and Barbuda,America,2008,85394
+Antigua and Barbuda,America,2009,86743
+Antigua and Barbuda,America,2010,88030
+Antigua and Barbuda,America,2011,89250
+Antigua and Barbuda,America,2012,90407
+Antigua and Barbuda,America,2013,91510
+Antigua and Barbuda,America,2014,92562
+Antigua and Barbuda,America,2015,93571
+Antigua and Barbuda,America,2016,94520
+Antigua and Barbuda,America,2017,95425
+Antigua and Barbuda,America,2018,96282
+Antigua and Barbuda,America,2019,97115
+Antigua and Barbuda,America,2020,97928
+Australia,Oceania,1990,17065100
+Australia,Oceania,1991,17284000
+Australia,Oceania,1992,17495000
+Australia,Oceania,1993,17667000
+Australia,Oceania,1994,17855000
+Australia,Oceania,1995,18072000
+Australia,Oceania,1996,18311000
+Australia,Oceania,1997,18517000
+Australia,Oceania,1998,18711000
+Australia,Oceania,1999,18926000
+Australia,Oceania,2000,19153000
+Australia,Oceania,2001,19413000
+Australia,Oceania,2002,19651400
+Australia,Oceania,2003,19895400
+Australia,Oceania,2004,20127400
+Australia,Oceania,2005,20394800
+Australia,Oceania,2006,20697900
+Australia,Oceania,2007,20827600
+Australia,Oceania,2008,21249200
+Australia,Oceania,2009,21691700
+Australia,Oceania,2010,22031750
+Australia,Oceania,2011,22340024
+Australia,Oceania,2012,22733465
+Australia,Oceania,2013,23128129
+Australia,Oceania,2014,23475686
+Australia,Oceania,2015,23815995
+Australia,Oceania,2016,24190907
+Australia,Oceania,2017,24601860
+Australia,Oceania,2018,24982688
+Australia,Oceania,2019,25365745
+Australia,Oceania,2020,25687041
+Austria,Europe,1990,7677850
+Austria,Europe,1991,7754891
+Austria,Europe,1992,7840709
+Austria,Europe,1993,7905633
+Austria,Europe,1994,7936118
+Austria,Europe,1995,7948278
+Austria,Europe,1996,7959017
+Austria,Europe,1997,7968041
+Austria,Europe,1998,7976789
+Austria,Europe,1999,7992324
+Austria,Europe,2000,8011566
+Austria,Europe,2001,8042293
+Austria,Europe,2002,8081957
+Austria,Europe,2003,8121423
+Austria,Europe,2004,8171966
+Austria,Europe,2005,8227829
+Austria,Europe,2006,8268641
+Austria,Europe,2007,8295487
+Austria,Europe,2008,8321496
+Austria,Europe,2009,8343323
+Austria,Europe,2010,8363404
+Austria,Europe,2011,8391643
+Austria,Europe,2012,8429991
+Austria,Europe,2013,8479823
+Austria,Europe,2014,8546356
+Austria,Europe,2015,8642699
+Austria,Europe,2016,8736668
+Austria,Europe,2017,8797566
+Austria,Europe,2018,8840521
+Austria,Europe,2019,8879920
+Austria,Europe,2020,8917205
+Azerbaijan,Asia,1990,7159000
+Azerbaijan,Asia,1991,7271000
+Azerbaijan,Asia,1992,7382000
+Azerbaijan,Asia,1993,7495000
+Azerbaijan,Asia,1994,7597000
+Azerbaijan,Asia,1995,7685000
+Azerbaijan,Asia,1996,7763000
+Azerbaijan,Asia,1997,7838250
+Azerbaijan,Asia,1998,7913000
+Azerbaijan,Asia,1999,7982750
+Azerbaijan,Asia,2000,8048600
+Azerbaijan,Asia,2001,8111200
+Azerbaijan,Asia,2002,8171950
+Azerbaijan,Asia,2003,8234100
+Azerbaijan,Asia,2004,8306500
+Azerbaijan,Asia,2005,8391850
+Azerbaijan,Asia,2006,8484550
+Azerbaijan,Asia,2007,8581300
+Azerbaijan,Asia,2008,8763400
+Azerbaijan,Asia,2009,8947243
+Azerbaijan,Asia,2010,9054332
+Azerbaijan,Asia,2011,9173082
+Azerbaijan,Asia,2012,9295784
+Azerbaijan,Asia,2013,9416801
+Azerbaijan,Asia,2014,9535079
+Azerbaijan,Asia,2015,9649341
+Azerbaijan,Asia,2016,9757812
+Azerbaijan,Asia,2017,9854033
+Azerbaijan,Asia,2018,9939771
+Azerbaijan,Asia,2019,10024283
+Azerbaijan,Asia,2020,10110116
+Burundi,Africa,1990,5438959
+Burundi,Africa,1991,5564923
+Burundi,Africa,1992,5685569
+Burundi,Africa,1993,5798054
+Burundi,Africa,1994,5898964
+Burundi,Africa,1995,5987044
+Burundi,Africa,1996,6060110
+Burundi,Africa,1997,6122130
+Burundi,Africa,1998,6185564
+Burundi,Africa,1999,6267132
+Burundi,Africa,2000,6378871
+Burundi,Africa,2001,6525546
+Burundi,Africa,2002,6704118
+Burundi,Africa,2003,6909161
+Burundi,Africa,2004,7131688
+Burundi,Africa,2005,7364857
+Burundi,Africa,2006,7607850
+Burundi,Africa,2007,7862226
+Burundi,Africa,2008,8126104
+Burundi,Africa,2009,8397661
+Burundi,Africa,2010,8675606
+Burundi,Africa,2011,8958406
+Burundi,Africa,2012,9245992
+Burundi,Africa,2013,9540302
+Burundi,Africa,2014,9844301
+Burundi,Africa,2015,10160034
+Burundi,Africa,2016,10488002
+Burundi,Africa,2017,10827010
+Burundi,Africa,2018,11175379
+Burundi,Africa,2019,11530577
+Burundi,Africa,2020,11890781
+Belgium,Europe,1990,9967379
+Belgium,Europe,1991,10004486
+Belgium,Europe,1992,10045158
+Belgium,Europe,1993,10084475
+Belgium,Europe,1994,10115603
+Belgium,Europe,1995,10136811
+Belgium,Europe,1996,10156637
+Belgium,Europe,1997,10181245
+Belgium,Europe,1998,10203008
+Belgium,Europe,1999,10226419
+Belgium,Europe,2000,10251250
+Belgium,Europe,2001,10286570
+Belgium,Europe,2002,10332785
+Belgium,Europe,2003,10376133
+Belgium,Europe,2004,10421137
+Belgium,Europe,2005,10478617
+Belgium,Europe,2006,10547958
+Belgium,Europe,2007,10625700
+Belgium,Europe,2008,10709973
+Belgium,Europe,2009,10796493
+Belgium,Europe,2010,10895586
+Belgium,Europe,2011,11038264
+Belgium,Europe,2012,11106932
+Belgium,Europe,2013,11159407
+Belgium,Europe,2014,11209057
+Belgium,Europe,2015,11274196
+Belgium,Europe,2016,11331422
+Belgium,Europe,2017,11375158
+Belgium,Europe,2018,11427054
+Belgium,Europe,2019,11488980
+Belgium,Europe,2020,11555997
+Benin,Africa,1990,4978489
+Benin,Africa,1991,5149496
+Benin,Africa,1992,5331805
+Benin,Africa,1993,5521761
+Benin,Africa,1994,5714215
+Benin,Africa,1995,5905552
+Benin,Africa,1996,6094272
+Benin,Africa,1997,6281644
+Benin,Africa,1998,6470275
+Benin,Africa,1999,6664102
+Benin,Africa,2000,6865946
+Benin,Africa,2001,7076728
+Benin,Africa,2002,7295400
+Benin,Africa,2003,7520556
+Benin,Africa,2004,7750003
+Benin,Africa,2005,7982223
+Benin,Africa,2006,8216893
+Benin,Africa,2007,8454790
+Benin,Africa,2008,8696915
+Benin,Africa,2009,8944713
+Benin,Africa,2010,9199254
+Benin,Africa,2011,9460829
+Benin,Africa,2012,9729254
+Benin,Africa,2013,10004594
+Benin,Africa,2014,10286839
+Benin,Africa,2015,10575962
+Benin,Africa,2016,10872072
+Benin,Africa,2017,11175192
+Benin,Africa,2018,11485035
+Benin,Africa,2019,11801151
+Benin,Africa,2020,12123198
+Burkina Faso,Africa,1990,8811033
+Burkina Faso,Africa,1991,9050086
+Burkina Faso,Africa,1992,9297110
+Burkina Faso,Africa,1993,9552473
+Burkina Faso,Africa,1994,9816584
+Burkina Faso,Africa,1995,10089880
+Burkina Faso,Africa,1996,10372734
+Burkina Faso,Africa,1997,10665552
+Burkina Faso,Africa,1998,10968722
+Burkina Faso,Africa,1999,11282696
+Burkina Faso,Africa,2000,11607951
+Burkina Faso,Africa,2001,11944589
+Burkina Faso,Africa,2002,12293097
+Burkina Faso,Africa,2003,12654624
+Burkina Faso,Africa,2004,13030576
+Burkina Faso,Africa,2005,13421935
+Burkina Faso,Africa,2006,13829173
+Burkina Faso,Africa,2007,14252029
+Burkina Faso,Africa,2008,14689725
+Burkina Faso,Africa,2009,15141098
+Burkina Faso,Africa,2010,15605211
+Burkina Faso,Africa,2011,16081915
+Burkina Faso,Africa,2012,16571252
+Burkina Faso,Africa,2013,17072791
+Burkina Faso,Africa,2014,17586029
+Burkina Faso,Africa,2015,18110616
+Burkina Faso,Africa,2016,18646350
+Burkina Faso,Africa,2017,19193236
+Burkina Faso,Africa,2018,19751466
+Burkina Faso,Africa,2019,20321383
+Burkina Faso,Africa,2020,20903278
+Bangladesh,Asia,1990,103171957
+Bangladesh,Asia,1991,105599125
+Bangladesh,Asia,1992,107983708
+Bangladesh,Asia,1993,110350641
+Bangladesh,Asia,1994,112737684
+Bangladesh,Asia,1995,115169933
+Bangladesh,Asia,1996,117649927
+Bangladesh,Asia,1997,120160571
+Bangladesh,Asia,1998,122682818
+Bangladesh,Asia,1999,125189655
+Bangladesh,Asia,2000,127657862
+Bangladesh,Asia,2001,130088709
+Bangladesh,Asia,2002,132478077
+Bangladesh,Asia,2003,134791598
+Bangladesh,Asia,2004,136986429
+Bangladesh,Asia,2005,139035505
+Bangladesh,Asia,2006,140921154
+Bangladesh,Asia,2007,142660381
+Bangladesh,Asia,2008,144304164
+Bangladesh,Asia,2009,145924795
+Bangladesh,Asia,2010,147575433
+Bangladesh,Asia,2011,149273134
+Bangladesh,Asia,2012,151005733
+Bangladesh,Asia,2013,152761413
+Bangladesh,Asia,2014,154517385
+Bangladesh,Asia,2015,156256287
+Bangladesh,Asia,2016,157977151
+Bangladesh,Asia,2017,159685421
+Bangladesh,Asia,2018,161376713
+Bangladesh,Asia,2019,163046173
+Bangladesh,Asia,2020,164689383
+Bulgaria,Europe,1990,8718289
+Bulgaria,Europe,1991,8632367
+Bulgaria,Europe,1992,8540164
+Bulgaria,Europe,1993,8472313
+Bulgaria,Europe,1994,8443591
+Bulgaria,Europe,1995,8406067
+Bulgaria,Europe,1996,8362826
+Bulgaria,Europe,1997,8312068
+Bulgaria,Europe,1998,8256786
+Bulgaria,Europe,1999,8210624
+Bulgaria,Europe,2000,8170172
+Bulgaria,Europe,2001,8009142
+Bulgaria,Europe,2002,7837161
+Bulgaria,Europe,2003,7775327
+Bulgaria,Europe,2004,7716860
+Bulgaria,Europe,2005,7658972
+Bulgaria,Europe,2006,7601022
+Bulgaria,Europe,2007,7545338
+Bulgaria,Europe,2008,7492561
+Bulgaria,Europe,2009,7444443
+Bulgaria,Europe,2010,7395599
+Bulgaria,Europe,2011,7348328
+Bulgaria,Europe,2012,7305888
+Bulgaria,Europe,2013,7265115
+Bulgaria,Europe,2014,7223938
+Bulgaria,Europe,2015,7177991
+Bulgaria,Europe,2016,7127822
+Bulgaria,Europe,2017,7075947
+Bulgaria,Europe,2018,7025037
+Bulgaria,Europe,2019,6975761
+Bulgaria,Europe,2020,6927288
+Bahrain,Asia,1990,495927
+Bahrain,Asia,1991,509762
+Bahrain,Asia,1992,523082
+Bahrain,Asia,1993,536212
+Bahrain,Asia,1994,549590
+Bahrain,Asia,1995,563698
+Bahrain,Asia,1996,578661
+Bahrain,Asia,1997,594927
+Bahrain,Asia,1998,613697
+Bahrain,Asia,1999,636540
+Bahrain,Asia,2000,664610
+Bahrain,Asia,2001,697550
+Bahrain,Asia,2002,735140
+Bahrain,Asia,2003,778708
+Bahrain,Asia,2004,829846
+Bahrain,Asia,2005,889157
+Bahrain,Asia,2006,958423
+Bahrain,Asia,2007,1035924
+Bahrain,Asia,2008,1114645
+Bahrain,Asia,2009,1185075
+Bahrain,Asia,2010,1240864
+Bahrain,Asia,2011,1278153
+Bahrain,Asia,2012,1299942
+Bahrain,Asia,2013,1315029
+Bahrain,Asia,2014,1336073
+Bahrain,Asia,2015,1371853
+Bahrain,Asia,2016,1425793
+Bahrain,Asia,2017,1494077
+Bahrain,Asia,2018,1569440
+Bahrain,Asia,2019,1641164
+Bahrain,Asia,2020,1701583
+"Bahamas, The",America,1990,256227
+"Bahamas, The",America,1991,261007
+"Bahamas, The",America,1992,266028
+"Bahamas, The",America,1993,271065
+"Bahamas, The",America,1994,275849
+"Bahamas, The",America,1995,280179
+"Bahamas, The",America,1996,283980
+"Bahamas, The",America,1997,287363
+"Bahamas, The",America,1998,290600
+"Bahamas, The",America,1999,294063
+"Bahamas, The",America,2000,298045
+"Bahamas, The",America,2001,302618
+"Bahamas, The",America,2002,307657
+"Bahamas, The",America,2003,313123
+"Bahamas, The",America,2004,318893
+"Bahamas, The",America,2005,324848
+"Bahamas, The",America,2006,331032
+"Bahamas, The",America,2007,337387
+"Bahamas, The",America,2008,343680
+"Bahamas, The",America,2009,349600
+"Bahamas, The",America,2010,354936
+"Bahamas, The",America,2011,359583
+"Bahamas, The",America,2012,363581
+"Bahamas, The",America,2013,367162
+"Bahamas, The",America,2014,370625
+"Bahamas, The",America,2015,374200
+"Bahamas, The",America,2016,377923
+"Bahamas, The",America,2017,381749
+"Bahamas, The",America,2018,385635
+"Bahamas, The",America,2019,389486
+"Bahamas, The",America,2020,393248
+Bosnia and Herzegovina,Europe,1990,4463422
+Bosnia and Herzegovina,Europe,1991,4369320
+Bosnia and Herzegovina,Europe,1992,4233673
+Bosnia and Herzegovina,Europe,1993,4078940
+Bosnia and Herzegovina,Europe,1994,3936527
+Bosnia and Herzegovina,Europe,1995,3829049
+Bosnia and Herzegovina,Europe,1996,3764419
+Bosnia and Herzegovina,Europe,1997,3736070
+Bosnia and Herzegovina,Europe,1998,3734338
+Bosnia and Herzegovina,Europe,1999,3743353
+Bosnia and Herzegovina,Europe,2000,3751176
+Bosnia and Herzegovina,Europe,2001,3755514
+Bosnia and Herzegovina,Europe,2002,3759389
+Bosnia and Herzegovina,Europe,2003,3762179
+Bosnia and Herzegovina,Europe,2004,3764194
+Bosnia and Herzegovina,Europe,2005,3765332
+Bosnia and Herzegovina,Europe,2006,3765422
+Bosnia and Herzegovina,Europe,2007,3762791
+Bosnia and Herzegovina,Europe,2008,3754261
+Bosnia and Herzegovina,Europe,2009,3735945
+Bosnia and Herzegovina,Europe,2010,3705478
+Bosnia and Herzegovina,Europe,2011,3661173
+Bosnia and Herzegovina,Europe,2012,3604972
+Bosnia and Herzegovina,Europe,2013,3542598
+Bosnia and Herzegovina,Europe,2014,3482106
+Bosnia and Herzegovina,Europe,2015,3429362
+Bosnia and Herzegovina,Europe,2016,3386263
+Bosnia and Herzegovina,Europe,2017,3351534
+Bosnia and Herzegovina,Europe,2018,3323929
+Bosnia and Herzegovina,Europe,2019,3300998
+Bosnia and Herzegovina,Europe,2020,3280815
+Belarus,Europe,1990,10189000
+Belarus,Europe,1991,10194000
+Belarus,Europe,1992,10216000
+Belarus,Europe,1993,10239000
+Belarus,Europe,1994,10227000
+Belarus,Europe,1995,10194000
+Belarus,Europe,1996,10160000
+Belarus,Europe,1997,10117000
+Belarus,Europe,1998,10069000
+Belarus,Europe,1999,10026738
+Belarus,Europe,2000,9979610
+Belarus,Europe,2001,9928549
+Belarus,Europe,2002,9865548
+Belarus,Europe,2003,9796749
+Belarus,Europe,2004,9730146
+Belarus,Europe,2005,9663915
+Belarus,Europe,2006,9604924
+Belarus,Europe,2007,9560953
+Belarus,Europe,2008,9527985
+Belarus,Europe,2009,9506765
+Belarus,Europe,2010,9490583
+Belarus,Europe,2011,9473172
+Belarus,Europe,2012,9464495
+Belarus,Europe,2013,9465997
+Belarus,Europe,2014,9474511
+Belarus,Europe,2015,9489616
+Belarus,Europe,2016,9501534
+Belarus,Europe,2017,9498264
+Belarus,Europe,2018,9483499
+Belarus,Europe,2019,9417849
+Belarus,Europe,2020,9398861
+Belize,America,1990,187554
+Belize,America,1991,191136
+Belize,America,1992,194324
+Belize,America,1993,197625
+Belize,America,1994,201679
+Belize,America,1995,206962
+Belize,America,1996,213660
+Belize,America,1997,221575
+Belize,America,1998,230248
+Belize,America,1999,238979
+Belize,America,2000,247310
+Belize,America,2001,255068
+Belize,America,2002,262387
+Belize,America,2003,269428
+Belize,America,2004,276516
+Belize,America,2005,283798
+Belize,America,2006,291338
+Belize,America,2007,299031
+Belize,America,2008,306822
+Belize,America,2009,314655
+Belize,America,2010,322465
+Belize,America,2011,330236
+Belize,America,2012,338001
+Belize,America,2013,345707
+Belize,America,2014,353366
+Belize,America,2015,360926
+Belize,America,2016,368399
+Belize,America,2017,375775
+Belize,America,2018,383071
+Belize,America,2019,390351
+Belize,America,2020,397621
+Bolivia,America,1990,6864839
+Bolivia,America,1991,7011456
+Bolivia,America,1992,7160917
+Bolivia,America,1993,7312857
+Bolivia,America,1994,7466792
+Bolivia,America,1995,7622334
+Bolivia,America,1996,7779268
+Bolivia,America,1997,7937453
+Bolivia,America,1998,8096761
+Bolivia,America,1999,8257066
+Bolivia,America,2000,8418270
+Bolivia,America,2001,8580244
+Bolivia,America,2002,8742822
+Bolivia,America,2003,8905820
+Bolivia,America,2004,9069044
+Bolivia,America,2005,9232301
+Bolivia,America,2006,9395449
+Bolivia,America,2007,9558438
+Bolivia,America,2008,9721457
+Bolivia,America,2009,9884790
+Bolivia,America,2010,10048597
+Bolivia,America,2011,10212951
+Bolivia,America,2012,10377677
+Bolivia,America,2013,10542375
+Bolivia,America,2014,10706517
+Bolivia,America,2015,10869732
+Bolivia,America,2016,11031822
+Bolivia,America,2017,11192853
+Bolivia,America,2018,11353140
+Bolivia,America,2019,11513102
+Bolivia,America,2020,11673029
+Brazil,America,1990,149003225
+Brazil,America,1991,151648007
+Brazil,America,1992,154259382
+Brazil,America,1993,156849086
+Brazil,America,1994,159432717
+Brazil,America,1995,162019889
+Brazil,America,1996,164614682
+Brazil,America,1997,167209046
+Brazil,America,1998,169785253
+Brazil,America,1999,172318674
+Brazil,America,2000,174790339
+Brazil,America,2001,177196051
+Brazil,America,2002,179537523
+Brazil,America,2003,181809244
+Brazil,America,2004,184006479
+Brazil,America,2005,186127108
+Brazil,America,2006,188167353
+Brazil,America,2007,190130445
+Brazil,America,2008,192030362
+Brazil,America,2009,193886505
+Brazil,America,2010,195713637
+Brazil,America,2011,197514541
+Brazil,America,2012,199287292
+Brazil,America,2013,201035904
+Brazil,America,2014,202763744
+Brazil,America,2015,204471759
+Brazil,America,2016,206163056
+Brazil,America,2017,207833825
+Brazil,America,2018,209469320
+Brazil,America,2019,211049519
+Brazil,America,2020,212559409
+Barbados,America,1990,260933
+Barbados,America,1991,261912
+Barbados,America,1992,262890
+Barbados,America,1993,263869
+Barbados,America,1994,264893
+Barbados,America,1995,265955
+Barbados,America,1996,267047
+Barbados,America,1997,268183
+Barbados,America,1998,269334
+Barbados,America,1999,270455
+Barbados,America,2000,271511
+Barbados,America,2001,272494
+Barbados,America,2002,273423
+Barbados,America,2003,274331
+Barbados,America,2004,275283
+Barbados,America,2005,276320
+Barbados,America,2006,277475
+Barbados,America,2007,278701
+Barbados,America,2008,279946
+Barbados,America,2009,281107
+Barbados,America,2010,282131
+Barbados,America,2011,282987
+Barbados,America,2012,283698
+Barbados,America,2013,284294
+Barbados,America,2014,284825
+Barbados,America,2015,285327
+Barbados,America,2016,285798
+Barbados,America,2017,286229
+Barbados,America,2018,286640
+Barbados,America,2019,287021
+Barbados,America,2020,287371
+Brunei Darussalam,Asia,1990,258714
+Brunei Darussalam,Asia,1991,266208
+Brunei Darussalam,Asia,1992,273888
+Brunei Darussalam,Asia,1993,281684
+Brunei Darussalam,Asia,1994,289452
+Brunei Darussalam,Asia,1995,297112
+Brunei Darussalam,Asia,1996,304620
+Brunei Darussalam,Asia,1997,311962
+Brunei Darussalam,Asia,1998,319135
+Brunei Darussalam,Asia,1999,326214
+Brunei Darussalam,Asia,2000,333166
+Brunei Darussalam,Asia,2001,340037
+Brunei Darussalam,Asia,2002,346777
+Brunei Darussalam,Asia,2003,353295
+Brunei Darussalam,Asia,2004,359434
+Brunei Darussalam,Asia,2005,365112
+Brunei Darussalam,Asia,2006,370262
+Brunei Darussalam,Asia,2007,374967
+Brunei Darussalam,Asia,2008,379418
+Brunei Darussalam,Asia,2009,383902
+Brunei Darussalam,Asia,2010,388634
+Brunei Darussalam,Asia,2011,393687
+Brunei Darussalam,Asia,2012,398997
+Brunei Darussalam,Asia,2013,404414
+Brunei Darussalam,Asia,2014,409778
+Brunei Darussalam,Asia,2015,414914
+Brunei Darussalam,Asia,2016,419791
+Brunei Darussalam,Asia,2017,424481
+Brunei Darussalam,Asia,2018,428960
+Brunei Darussalam,Asia,2019,433296
+Brunei Darussalam,Asia,2020,437483
+Bhutan,Asia,1990,530801
+Bhutan,Asia,1991,534637
+Bhutan,Asia,1992,534525
+Bhutan,Asia,1993,532590
+Bhutan,Asia,1994,531905
+Bhutan,Asia,1995,534629
+Bhutan,Asia,1996,541471
+Bhutan,Asia,1997,551713
+Bhutan,Asia,1998,564378
+Bhutan,Asia,1999,577886
+Bhutan,Asia,2000,591014
+Bhutan,Asia,2001,603643
+Bhutan,Asia,2002,616025
+Bhutan,Asia,2003,627840
+Bhutan,Asia,2004,638809
+Bhutan,Asia,2005,648744
+Bhutan,Asia,2006,657404
+Bhutan,Asia,2007,664873
+Bhutan,Asia,2008,671611
+Bhutan,Asia,2009,678329
+Bhutan,Asia,2010,685502
+Bhutan,Asia,2011,693297
+Bhutan,Asia,2012,701582
+Bhutan,Asia,2013,710235
+Bhutan,Asia,2014,719053
+Bhutan,Asia,2015,727885
+Bhutan,Asia,2016,736706
+Bhutan,Asia,2017,745563
+Bhutan,Asia,2018,754396
+Bhutan,Asia,2019,763094
+Bhutan,Asia,2020,771612
+Botswana,Africa,1990,1286756
+Botswana,Africa,1991,1326321
+Botswana,Africa,1992,1363541
+Botswana,Africa,1993,1399110
+Botswana,Africa,1994,1434061
+Botswana,Africa,1995,1469173
+Botswana,Africa,1996,1504724
+Botswana,Africa,1997,1540424
+Botswana,Africa,1998,1575827
+Botswana,Africa,1999,1610260
+Botswana,Africa,2000,1643333
+Botswana,Africa,2001,1674674
+Botswana,Africa,2002,1704637
+Botswana,Africa,2003,1734387
+Botswana,Africa,2004,1765533
+Botswana,Africa,2005,1799077
+Botswana,Africa,2006,1835911
+Botswana,Africa,2007,1875458
+Botswana,Africa,2008,1915636
+Botswana,Africa,2009,1953495
+Botswana,Africa,2010,1987106
+Botswana,Africa,2011,2015406
+Botswana,Africa,2012,2039551
+Botswana,Africa,2013,2062551
+Botswana,Africa,2014,2088619
+Botswana,Africa,2015,2120716
+Botswana,Africa,2016,2159925
+Botswana,Africa,2017,2205076
+Botswana,Africa,2018,2254067
+Botswana,Africa,2019,2303703
+Botswana,Africa,2020,2351625
+Central African Republic,Africa,1990,2806740
+Central African Republic,Africa,1991,2878507
+Central African Republic,Africa,1992,2959236
+Central African Republic,Africa,1993,3046148
+Central African Republic,Africa,1994,3135017
+Central African Republic,Africa,1995,3222662
+Central African Republic,Africa,1996,3308235
+Central African Republic,Africa,1997,3392432
+Central African Republic,Africa,1998,3475485
+Central African Republic,Africa,1999,3558019
+Central African Republic,Africa,2000,3640421
+Central African Republic,Africa,2001,3722016
+Central African Republic,Africa,2002,3802129
+Central African Republic,Africa,2003,3881185
+Central African Republic,Africa,2004,3959883
+Central African Republic,Africa,2005,4038380
+Central African Republic,Africa,2006,4118075
+Central African Republic,Africa,2007,4198004
+Central African Republic,Africa,2008,4273368
+Central African Republic,Africa,2009,4337623
+Central African Republic,Africa,2010,4386765
+Central African Republic,Africa,2011,4418639
+Central African Republic,Africa,2012,4436411
+Central African Republic,Africa,2013,4447945
+Central African Republic,Africa,2014,4464171
+Central African Republic,Africa,2015,4493171
+Central African Republic,Africa,2016,4537683
+Central African Republic,Africa,2017,4596023
+Central African Republic,Africa,2018,4666375
+Central African Republic,Africa,2019,4745179
+Central African Republic,Africa,2020,4829764
+Canada,America,1990,27691138
+Canada,America,1991,28037420
+Canada,America,1992,28371264
+Canada,America,1993,28684764
+Canada,America,1994,29000663
+Canada,America,1995,29302311
+Canada,America,1996,29610218
+Canada,America,1997,29905948
+Canada,America,1998,30155173
+Canada,America,1999,30401286
+Canada,America,2000,30685730
+Canada,America,2001,31020902
+Canada,America,2002,31360079
+Canada,America,2003,31644028
+Canada,America,2004,31940655
+Canada,America,2005,32243753
+Canada,America,2006,32571174
+Canada,America,2007,32889025
+Canada,America,2008,33247118
+Canada,America,2009,33628895
+Canada,America,2010,34004889
+Canada,America,2011,34339328
+Canada,America,2012,34714222
+Canada,America,2013,35082954
+Canada,America,2014,35437435
+Canada,America,2015,35702908
+Canada,America,2016,36109487
+Canada,America,2017,36545295
+Canada,America,2018,37065178
+Canada,America,2019,37593384
+Canada,America,2020,38005238
+Switzerland,Europe,1990,6715519
+Switzerland,Europe,1991,6799978
+Switzerland,Europe,1992,6875364
+Switzerland,Europe,1993,6938265
+Switzerland,Europe,1994,6993795
+Switzerland,Europe,1995,7040687
+Switzerland,Europe,1996,7071850
+Switzerland,Europe,1997,7088906
+Switzerland,Europe,1998,7110001
+Switzerland,Europe,1999,7143991
+Switzerland,Europe,2000,7184250
+Switzerland,Europe,2001,7229854
+Switzerland,Europe,2002,7284753
+Switzerland,Europe,2003,7339001
+Switzerland,Europe,2004,7389625
+Switzerland,Europe,2005,7437115
+Switzerland,Europe,2006,7483934
+Switzerland,Europe,2007,7551117
+Switzerland,Europe,2008,7647675
+Switzerland,Europe,2009,7743831
+Switzerland,Europe,2010,7824909
+Switzerland,Europe,2011,7912398
+Switzerland,Europe,2012,7996861
+Switzerland,Europe,2013,8089346
+Switzerland,Europe,2014,8188649
+Switzerland,Europe,2015,8282396
+Switzerland,Europe,2016,8373338
+Switzerland,Europe,2017,8451840
+Switzerland,Europe,2018,8514329
+Switzerland,Europe,2019,8575280
+Switzerland,Europe,2020,8636896
+Chile,America,1990,13274617
+Chile,America,1991,13495255
+Chile,America,1992,13719818
+Chile,America,1993,13944934
+Chile,America,1994,14166346
+Chile,America,1995,14380864
+Chile,America,1996,14587367
+Chile,America,1997,14786227
+Chile,America,1998,14977736
+Chile,America,1999,15162801
+Chile,America,2000,15342350
+Chile,America,2001,15516112
+Chile,America,2002,15684413
+Chile,America,2003,15849649
+Chile,America,2004,16014972
+Chile,America,2005,16182713
+Chile,America,2006,16354507
+Chile,America,2007,16530201
+Chile,America,2008,16708255
+Chile,America,2009,16886184
+Chile,America,2010,17062531
+Chile,America,2011,17233584
+Chile,America,2012,17400359
+Chile,America,2013,17571511
+Chile,America,2014,17758969
+Chile,America,2015,17969356
+Chile,America,2016,18209072
+Chile,America,2017,18470435
+Chile,America,2018,18729166
+Chile,America,2019,18952035
+Chile,America,2020,19116209
+China,Asia,1990,1135185000
+China,Asia,1991,1150780000
+China,Asia,1992,1164970000
+China,Asia,1993,1178440000
+China,Asia,1994,1191835000
+China,Asia,1995,1204855000
+China,Asia,1996,1217550000
+China,Asia,1997,1230075000
+China,Asia,1998,1241935000
+China,Asia,1999,1252735000
+China,Asia,2000,1262645000
+China,Asia,2001,1271850000
+China,Asia,2002,1280400000
+China,Asia,2003,1288400000
+China,Asia,2004,1296075000
+China,Asia,2005,1303720000
+China,Asia,2006,1311020000
+China,Asia,2007,1317885000
+China,Asia,2008,1324655000
+China,Asia,2009,1331260000
+China,Asia,2010,1337705000
+China,Asia,2011,1344130000
+China,Asia,2012,1350695000
+China,Asia,2013,1357380000
+China,Asia,2014,1364270000
+China,Asia,2015,1371220000
+China,Asia,2016,1378665000
+China,Asia,2017,1386395000
+China,Asia,2018,1392730000
+China,Asia,2019,1397715000
+China,Asia,2020,1402112000
+Cameroon,Africa,1990,11780086
+Cameroon,Africa,1991,12137912
+Cameroon,Africa,1992,12499499
+Cameroon,Africa,1993,12864091
+Cameroon,Africa,1994,13230978
+Cameroon,Africa,1995,13599984
+Cameroon,Africa,1996,13970812
+Cameroon,Africa,1997,14344444
+Cameroon,Africa,1998,14723772
+Cameroon,Africa,1999,15112598
+Cameroon,Africa,2000,15513944
+Cameroon,Africa,2001,15928910
+Cameroon,Africa,2002,16357605
+Cameroon,Africa,2003,16800869
+Cameroon,Africa,2004,17259322
+Cameroon,Africa,2005,17733408
+Cameroon,Africa,2006,18223677
+Cameroon,Africa,2007,18730283
+Cameroon,Africa,2008,19252674
+Cameroon,Africa,2009,19789922
+Cameroon,Africa,2010,20341236
+Cameroon,Africa,2011,20906392
+Cameroon,Africa,2012,21485267
+Cameroon,Africa,2013,22077300
+Cameroon,Africa,2014,22681853
+Cameroon,Africa,2015,23298376
+Cameroon,Africa,2016,23926549
+Cameroon,Africa,2017,24566070
+Cameroon,Africa,2018,25216261
+Cameroon,Africa,2019,25876387
+Cameroon,Africa,2020,26545864
+"Congo, Dem. Rep.",Africa,1990,34612023
+"Congo, Dem. Rep.",Africa,1991,35908240
+"Congo, Dem. Rep.",Africa,1992,37333917
+"Congo, Dem. Rep.",Africa,1993,38815835
+"Congo, Dem. Rep.",Africa,1994,40252973
+"Congo, Dem. Rep.",Africa,1995,41576239
+"Congo, Dem. Rep.",Africa,1996,42757239
+"Congo, Dem. Rep.",Africa,1997,43827191
+"Congo, Dem. Rep.",Africa,1998,44849968
+"Congo, Dem. Rep.",Africa,1999,45919615
+"Congo, Dem. Rep.",Africa,2000,47105830
+"Congo, Dem. Rep.",Africa,2001,48428534
+"Congo, Dem. Rep.",Africa,2002,49871670
+"Congo, Dem. Rep.",Africa,2003,51425583
+"Congo, Dem. Rep.",Africa,2004,53068869
+"Congo, Dem. Rep.",Africa,2005,54785894
+"Congo, Dem. Rep.",Africa,2006,56578046
+"Congo, Dem. Rep.",Africa,2007,58453687
+"Congo, Dem. Rep.",Africa,2008,60411195
+"Congo, Dem. Rep.",Africa,2009,62448572
+"Congo, Dem. Rep.",Africa,2010,64563853
+"Congo, Dem. Rep.",Africa,2011,66755151
+"Congo, Dem. Rep.",Africa,2012,69020749
+"Congo, Dem. Rep.",Africa,2013,71358804
+"Congo, Dem. Rep.",Africa,2014,73767445
+"Congo, Dem. Rep.",Africa,2015,76244532
+"Congo, Dem. Rep.",Africa,2016,78789130
+"Congo, Dem. Rep.",Africa,2017,81398765
+"Congo, Dem. Rep.",Africa,2018,84068092
+"Congo, Dem. Rep.",Africa,2019,86790568
+"Congo, Dem. Rep.",Africa,2020,89561404
+"Congo, Rep.",Africa,1990,2356740
+"Congo, Rep.",Africa,1991,2422312
+"Congo, Rep.",Africa,1992,2489945
+"Congo, Rep.",Africa,1993,2559880
+"Congo, Rep.",Africa,1994,2632345
+"Congo, Rep.",Africa,1995,2707532
+"Congo, Rep.",Africa,1996,2785815
+"Congo, Rep.",Africa,1997,2867283
+"Congo, Rep.",Africa,1998,2951651
+"Congo, Rep.",Africa,1999,3038432
+"Congo, Rep.",Africa,2000,3127420
+"Congo, Rep.",Africa,2001,3217930
+"Congo, Rep.",Africa,2002,3310376
+"Congo, Rep.",Africa,2003,3406915
+"Congo, Rep.",Africa,2004,3510468
+"Congo, Rep.",Africa,2005,3622775
+"Congo, Rep.",Africa,2006,3745143
+"Congo, Rep.",Africa,2007,3876123
+"Congo, Rep.",Africa,2008,4011487
+"Congo, Rep.",Africa,2009,4145400
+"Congo, Rep.",Africa,2010,4273738
+"Congo, Rep.",Africa,2011,4394842
+"Congo, Rep.",Africa,2012,4510197
+"Congo, Rep.",Africa,2013,4622757
+"Congo, Rep.",Africa,2014,4736965
+"Congo, Rep.",Africa,2015,4856093
+"Congo, Rep.",Africa,2016,4980996
+"Congo, Rep.",Africa,2017,5110701
+"Congo, Rep.",Africa,2018,5244363
+"Congo, Rep.",Africa,2019,5380504
+"Congo, Rep.",Africa,2020,5518092
+Colombia,America,1990,33102569
+Colombia,America,1991,33758328
+Colombia,America,1992,34422568
+Colombia,America,1993,35091272
+Colombia,America,1994,35758978
+Colombia,America,1995,36421438
+Colombia,America,1996,37076387
+Colombia,America,1997,37723803
+Colombia,America,1998,38364307
+Colombia,America,1999,38999468
+Colombia,America,2000,39629965
+Colombia,America,2001,40255956
+Colombia,America,2002,40875363
+Colombia,America,2003,41483872
+Colombia,America,2004,42075953
+Colombia,America,2005,42647731
+Colombia,America,2006,43200901
+Colombia,America,2007,43737512
+Colombia,America,2008,44254972
+Colombia,America,2009,44750054
+Colombia,America,2010,45222699
+Colombia,America,2011,45662747
+Colombia,America,2012,46075721
+Colombia,America,2013,46495492
+Colombia,America,2014,46967706
+Colombia,America,2015,47520667
+Colombia,America,2016,48175048
+Colombia,America,2017,48909844
+Colombia,America,2018,49661056
+Colombia,America,2019,50339443
+Colombia,America,2020,50882884
+Comoros,Africa,1990,411598
+Comoros,Africa,1991,423873
+Comoros,Africa,1992,436454
+Comoros,Africa,1993,449270
+Comoros,Africa,1994,462280
+Comoros,Africa,1995,475394
+Comoros,Africa,1996,488625
+Comoros,Africa,1997,501955
+Comoros,Africa,1998,515382
+Comoros,Africa,1999,528853
+Comoros,Africa,2000,542358
+Comoros,Africa,2001,555895
+Comoros,Africa,2002,569480
+Comoros,Africa,2003,583213
+Comoros,Africa,2004,597230
+Comoros,Africa,2005,611625
+Comoros,Africa,2006,626427
+Comoros,Africa,2007,641624
+Comoros,Africa,2008,657227
+Comoros,Africa,2009,673251
+Comoros,Africa,2010,689696
+Comoros,Africa,2011,706578
+Comoros,Africa,2012,723865
+Comoros,Africa,2013,741511
+Comoros,Africa,2014,759390
+Comoros,Africa,2015,777435
+Comoros,Africa,2016,795597
+Comoros,Africa,2017,813890
+Comoros,Africa,2018,832322
+Comoros,Africa,2019,850891
+Comoros,Africa,2020,869595
+Cabo Verde,Africa,1990,337953
+Cabo Verde,Africa,1991,346229
+Cabo Verde,Africa,1992,355763
+Cabo Verde,Africa,1993,366057
+Cabo Verde,Africa,1994,376409
+Cabo Verde,Africa,1995,386288
+Cabo Verde,Africa,1996,395533
+Cabo Verde,Africa,1997,404248
+Cabo Verde,Africa,1998,412513
+Cabo Verde,Africa,1999,420456
+Cabo Verde,Africa,2000,428178
+Cabo Verde,Africa,2001,435701
+Cabo Verde,Africa,2002,442955
+Cabo Verde,Africa,2003,449925
+Cabo Verde,Africa,2004,456619
+Cabo Verde,Africa,2005,463034
+Cabo Verde,Africa,2006,469171
+Cabo Verde,Africa,2007,475067
+Cabo Verde,Africa,2008,480846
+Cabo Verde,Africa,2009,486667
+Cabo Verde,Africa,2010,492644
+Cabo Verde,Africa,2011,498858
+Cabo Verde,Africa,2012,505241
+Cabo Verde,Africa,2013,511740
+Cabo Verde,Africa,2014,518276
+Cabo Verde,Africa,2015,524740
+Cabo Verde,Africa,2016,531140
+Cabo Verde,Africa,2017,537499
+Cabo Verde,Africa,2018,543764
+Cabo Verde,Africa,2019,549936
+Cabo Verde,Africa,2020,555988
+Costa Rica,America,1990,3119436
+Costa Rica,America,1991,3202083
+Costa Rica,America,1992,3286525
+Costa Rica,America,1993,3372298
+Costa Rica,America,1994,3458829
+Costa Rica,America,1995,3545524
+Costa Rica,America,1996,3632361
+Costa Rica,America,1997,3718952
+Costa Rica,America,1998,3803893
+Costa Rica,America,1999,3885428
+Costa Rica,America,2000,3962369
+Costa Rica,America,2001,4034074
+Costa Rica,America,2002,4100922
+Costa Rica,America,2003,4164053
+Costa Rica,America,2004,4225156
+Costa Rica,America,2005,4285504
+Costa Rica,America,2006,4345421
+Costa Rica,America,2007,4404626
+Costa Rica,America,2008,4463123
+Costa Rica,America,2009,4520739
+Costa Rica,America,2010,4577371
+Costa Rica,America,2011,4633086
+Costa Rica,America,2012,4688003
+Costa Rica,America,2013,4742111
+Costa Rica,America,2014,4795390
+Costa Rica,America,2015,4847805
+Costa Rica,America,2016,4899336
+Costa Rica,America,2017,4949955
+Costa Rica,America,2018,4999443
+Costa Rica,America,2019,5047561
+Costa Rica,America,2020,5094114
+Cuba,America,1990,10596986
+Cuba,America,1991,10673534
+Cuba,America,1992,10736386
+Cuba,America,1993,10789312
+Cuba,America,1994,10838461
+Cuba,America,1995,10888246
+Cuba,America,1996,10939285
+Cuba,America,1997,10989730
+Cuba,America,1998,11038706
+Cuba,America,1999,11084673
+Cuba,America,2000,11126423
+Cuba,America,2001,11164676
+Cuba,America,2002,11199664
+Cuba,America,2003,11229185
+Cuba,America,2004,11250369
+Cuba,America,2005,11261586
+Cuba,America,2006,11261241
+Cuba,America,2007,11251117
+Cuba,America,2008,11236975
+Cuba,America,2009,11226711
+Cuba,America,2010,11225833
+Cuba,America,2011,11236671
+Cuba,America,2012,11257112
+Cuba,America,2013,11282722
+Cuba,America,2014,11306909
+Cuba,America,2015,11324777
+Cuba,America,2016,11335108
+Cuba,America,2017,11339255
+Cuba,America,2018,11338146
+Cuba,America,2019,11333484
+Cuba,America,2020,11326616
+Cyprus,Asia,1990,766616
+Cyprus,Asia,1991,783121
+Cyprus,Asia,1992,800610
+Cyprus,Asia,1993,818750
+Cyprus,Asia,1994,837104
+Cyprus,Asia,1995,855391
+Cyprus,Asia,1996,873426
+Cyprus,Asia,1997,891190
+Cyprus,Asia,1998,908710
+Cyprus,Asia,1999,926049
+Cyprus,Asia,2000,943288
+Cyprus,Asia,2001,960274
+Cyprus,Asia,2002,976968
+Cyprus,Asia,2003,993562
+Cyprus,Asia,2004,1010410
+Cyprus,Asia,2005,1027657
+Cyprus,Asia,2006,1045508
+Cyprus,Asia,2007,1063708
+Cyprus,Asia,2008,1081568
+Cyprus,Asia,2009,1098089
+Cyprus,Asia,2010,1112617
+Cyprus,Asia,2011,1124837
+Cyprus,Asia,2012,1135046
+Cyprus,Asia,2013,1143866
+Cyprus,Asia,2014,1152297
+Cyprus,Asia,2015,1160987
+Cyprus,Asia,2016,1170189
+Cyprus,Asia,2017,1179685
+Cyprus,Asia,2018,1189262
+Cyprus,Asia,2019,1198574
+Cyprus,Asia,2020,1207361
+Czech Republic,Europe,1990,10333355
+Czech Republic,Europe,1991,10308578
+Czech Republic,Europe,1992,10319123
+Czech Republic,Europe,1993,10329855
+Czech Republic,Europe,1994,10333587
+Czech Republic,Europe,1995,10327253
+Czech Republic,Europe,1996,10315241
+Czech Republic,Europe,1997,10304131
+Czech Republic,Europe,1998,10294373
+Czech Republic,Europe,1999,10283860
+Czech Republic,Europe,2000,10255063
+Czech Republic,Europe,2001,10216605
+Czech Republic,Europe,2002,10196916
+Czech Republic,Europe,2003,10193998
+Czech Republic,Europe,2004,10197101
+Czech Republic,Europe,2005,10211216
+Czech Republic,Europe,2006,10238905
+Czech Republic,Europe,2007,10298828
+Czech Republic,Europe,2008,10384603
+Czech Republic,Europe,2009,10443936
+Czech Republic,Europe,2010,10474410
+Czech Republic,Europe,2011,10496088
+Czech Republic,Europe,2012,10510785
+Czech Republic,Europe,2013,10514272
+Czech Republic,Europe,2014,10525347
+Czech Republic,Europe,2015,10546059
+Czech Republic,Europe,2016,10566332
+Czech Republic,Europe,2017,10594438
+Czech Republic,Europe,2018,10629928
+Czech Republic,Europe,2019,10671870
+Czech Republic,Europe,2020,10698896
+Germany,Europe,1990,79433029
+Germany,Europe,1991,80013896
+Germany,Europe,1992,80624598
+Germany,Europe,1993,81156363
+Germany,Europe,1994,81438348
+Germany,Europe,1995,81678051
+Germany,Europe,1996,81914831
+Germany,Europe,1997,82034771
+Germany,Europe,1998,82047195
+Germany,Europe,1999,82100243
+Germany,Europe,2000,82211508
+Germany,Europe,2001,82349925
+Germany,Europe,2002,82488495
+Germany,Europe,2003,82534176
+Germany,Europe,2004,82516260
+Germany,Europe,2005,82469422
+Germany,Europe,2006,82376451
+Germany,Europe,2007,82266372
+Germany,Europe,2008,82110097
+Germany,Europe,2009,81902307
+Germany,Europe,2010,81776930
+Germany,Europe,2011,80274983
+Germany,Europe,2012,80425823
+Germany,Europe,2013,80645605
+Germany,Europe,2014,80982500
+Germany,Europe,2015,81686611
+Germany,Europe,2016,82348669
+Germany,Europe,2017,82657002
+Germany,Europe,2018,82905782
+Germany,Europe,2019,83092962
+Germany,Europe,2020,83240525
+Djibouti,Africa,1990,590393
+Djibouti,Africa,1991,606843
+Djibouti,Africa,1992,615050
+Djibouti,Africa,1993,618504
+Djibouti,Africa,1994,622364
+Djibouti,Africa,1995,630385
+Djibouti,Africa,1996,643649
+Djibouti,Africa,1997,660858
+Djibouti,Africa,1998,680465
+Djibouti,Africa,1999,699973
+Djibouti,Africa,2000,717577
+Djibouti,Africa,2001,733019
+Djibouti,Africa,2002,746947
+Djibouti,Africa,2003,759639
+Djibouti,Africa,2004,771599
+Djibouti,Africa,2005,783248
+Djibouti,Africa,2006,794554
+Djibouti,Africa,2007,805456
+Djibouti,Africa,2008,816361
+Djibouti,Africa,2009,827820
+Djibouti,Africa,2010,840194
+Djibouti,Africa,2011,853671
+Djibouti,Africa,2012,868136
+Djibouti,Africa,2013,883296
+Djibouti,Africa,2014,898707
+Djibouti,Africa,2015,913998
+Djibouti,Africa,2016,929117
+Djibouti,Africa,2017,944100
+Djibouti,Africa,2018,958923
+Djibouti,Africa,2019,973557
+Djibouti,Africa,2020,988002
+Dominica,America,1990,70422
+Dominica,America,1991,70377
+Dominica,America,1992,70546
+Dominica,America,1993,70818
+Dominica,America,1994,71044
+Dominica,America,1995,71105
+Dominica,America,1996,70933
+Dominica,America,1997,70592
+Dominica,America,1998,70183
+Dominica,America,1999,69828
+Dominica,America,2000,69650
+Dominica,America,2001,69671
+Dominica,America,2002,69840
+Dominica,America,2003,70102
+Dominica,America,2004,70387
+Dominica,America,2005,70580
+Dominica,America,2006,70718
+Dominica,America,2007,70797
+Dominica,America,2008,70829
+Dominica,America,2009,70848
+Dominica,America,2010,70877
+Dominica,America,2011,70912
+Dominica,America,2012,70954
+Dominica,America,2013,71019
+Dominica,America,2014,71091
+Dominica,America,2015,71175
+Dominica,America,2016,71307
+Dominica,America,2017,71460
+Dominica,America,2018,71626
+Dominica,America,2019,71808
+Dominica,America,2020,71991
+Denmark,Europe,1990,5140939
+Denmark,Europe,1991,5154298
+Denmark,Europe,1992,5171370
+Denmark,Europe,1993,5188628
+Denmark,Europe,1994,5206180
+Denmark,Europe,1995,5233373
+Denmark,Europe,1996,5263074
+Denmark,Europe,1997,5284991
+Denmark,Europe,1998,5304219
+Denmark,Europe,1999,5321799
+Denmark,Europe,2000,5339616
+Denmark,Europe,2001,5358783
+Denmark,Europe,2002,5375931
+Denmark,Europe,2003,5390574
+Denmark,Europe,2004,5404523
+Denmark,Europe,2005,5419432
+Denmark,Europe,2006,5437272
+Denmark,Europe,2007,5461438
+Denmark,Europe,2008,5493621
+Denmark,Europe,2009,5523095
+Denmark,Europe,2010,5547683
+Denmark,Europe,2011,5570572
+Denmark,Europe,2012,5591572
+Denmark,Europe,2013,5614932
+Denmark,Europe,2014,5643475
+Denmark,Europe,2015,5683483
+Denmark,Europe,2016,5728010
+Denmark,Europe,2017,5764980
+Denmark,Europe,2018,5793636
+Denmark,Europe,2019,5814422
+Denmark,Europe,2020,5831404
+Dominican Republic,America,1990,7133491
+Dominican Republic,America,1991,7270413
+Dominican Republic,America,1992,7408339
+Dominican Republic,America,1993,7546467
+Dominican Republic,America,1994,7683707
+Dominican Republic,America,1995,7819239
+Dominican Republic,America,1996,7952766
+Dominican Republic,America,1997,8084407
+Dominican Republic,America,1998,8214427
+Dominican Republic,America,1999,8343288
+Dominican Republic,America,2000,8471317
+Dominican Republic,America,2001,8598599
+Dominican Republic,America,2002,8724974
+Dominican Republic,America,2003,8850317
+Dominican Republic,America,2004,8974444
+Dominican Republic,America,2005,9097262
+Dominican Republic,America,2006,9218681
+Dominican Republic,America,2007,9338856
+Dominican Republic,America,2008,9458079
+Dominican Republic,America,2009,9576736
+Dominican Republic,America,2010,9695117
+Dominican Republic,America,2011,9813219
+Dominican Republic,America,2012,9930916
+Dominican Republic,America,2013,10048226
+Dominican Republic,America,2014,10165182
+Dominican Republic,America,2015,10281675
+Dominican Republic,America,2016,10397738
+Dominican Republic,America,2017,10513111
+Dominican Republic,America,2018,10627147
+Dominican Republic,America,2019,10738957
+Dominican Republic,America,2020,10847904
+Algeria,Africa,1990,25758872
+Algeria,Africa,1991,26400468
+Algeria,Africa,1992,27028330
+Algeria,Africa,1993,27635517
+Algeria,Africa,1994,28213777
+Algeria,Africa,1995,28757788
+Algeria,Africa,1996,29266415
+Algeria,Africa,1997,29742980
+Algeria,Africa,1998,30192750
+Algeria,Africa,1999,30623406
+Algeria,Africa,2000,31042238
+Algeria,Africa,2001,31451513
+Algeria,Africa,2002,31855110
+Algeria,Africa,2003,32264159
+Algeria,Africa,2004,32692153
+Algeria,Africa,2005,33149720
+Algeria,Africa,2006,33641007
+Algeria,Africa,2007,34166976
+Algeria,Africa,2008,34730604
+Algeria,Africa,2009,35333882
+Algeria,Africa,2010,35977451
+Algeria,Africa,2011,36661438
+Algeria,Africa,2012,37383899
+Algeria,Africa,2013,38140135
+Algeria,Africa,2014,38923688
+Algeria,Africa,2015,39728020
+Algeria,Africa,2016,40551398
+Algeria,Africa,2017,41389174
+Algeria,Africa,2018,42228415
+Algeria,Africa,2019,43053054
+Algeria,Africa,2020,43851043
+Ecuador,America,1990,10230931
+Ecuador,America,1991,10472476
+Ecuador,America,1992,10716131
+Ecuador,America,1993,10961460
+Ecuador,America,1994,11207999
+Ecuador,America,1995,11455205
+Ecuador,America,1996,11703169
+Ecuador,America,1997,11951457
+Ecuador,America,1998,12198449
+Ecuador,America,1999,12442109
+Ecuador,America,2000,12681123
+Ecuador,America,2001,12914660
+Ecuador,America,2002,13143465
+Ecuador,America,2003,13369678
+Ecuador,America,2004,13596390
+Ecuador,America,2005,13825839
+Ecuador,America,2006,14059379
+Ecuador,America,2007,14296554
+Ecuador,America,2008,14535740
+Ecuador,America,2009,14774412
+Ecuador,America,2010,15011114
+Ecuador,America,2011,15243885
+Ecuador,America,2012,15474099
+Ecuador,America,2013,15707473
+Ecuador,America,2014,15951832
+Ecuador,America,2015,16212022
+Ecuador,America,2016,16491116
+Ecuador,America,2017,16785356
+Ecuador,America,2018,17084359
+Ecuador,America,2019,17373657
+Ecuador,America,2020,17643060
+"Egypt, Arab Rep.",Africa,1990,56134478
+"Egypt, Arab Rep.",Africa,1991,57424552
+"Egypt, Arab Rep.",Africa,1992,58666812
+"Egypt, Arab Rep.",Africa,1993,59880656
+"Egypt, Arab Rep.",Africa,1994,61095804
+"Egypt, Arab Rep.",Africa,1995,62334025
+"Egypt, Arab Rep.",Africa,1996,63601632
+"Egypt, Arab Rep.",Africa,1997,64892269
+"Egypt, Arab Rep.",Africa,1998,66200259
+"Egypt, Arab Rep.",Africa,1999,67515591
+"Egypt, Arab Rep.",Africa,2000,68831561
+"Egypt, Arab Rep.",Africa,2001,70152662
+"Egypt, Arab Rep.",Africa,2002,71485044
+"Egypt, Arab Rep.",Africa,2003,72826102
+"Egypt, Arab Rep.",Africa,2004,74172073
+"Egypt, Arab Rep.",Africa,2005,75523576
+"Egypt, Arab Rep.",Africa,2006,76873670
+"Egypt, Arab Rep.",Africa,2007,78232124
+"Egypt, Arab Rep.",Africa,2008,79636081
+"Egypt, Arab Rep.",Africa,2009,81134789
+"Egypt, Arab Rep.",Africa,2010,82761244
+"Egypt, Arab Rep.",Africa,2011,84529251
+"Egypt, Arab Rep.",Africa,2012,86422240
+"Egypt, Arab Rep.",Africa,2013,88404652
+"Egypt, Arab Rep.",Africa,2014,90424668
+"Egypt, Arab Rep.",Africa,2015,92442549
+"Egypt, Arab Rep.",Africa,2016,94447071
+"Egypt, Arab Rep.",Africa,2017,96442590
+"Egypt, Arab Rep.",Africa,2018,98423602
+"Egypt, Arab Rep.",Africa,2019,100388076
+"Egypt, Arab Rep.",Africa,2020,102334403
+Spain,Europe,1990,38867322
+Spain,Europe,1991,38966376
+Spain,Europe,1992,39157685
+Spain,Europe,1993,39361262
+Spain,Europe,1994,39549108
+Spain,Europe,1995,39724050
+Spain,Europe,1996,39889852
+Spain,Europe,1997,40057389
+Spain,Europe,1998,40223509
+Spain,Europe,1999,40386875
+Spain,Europe,2000,40567864
+Spain,Europe,2001,40850412
+Spain,Europe,2002,41431558
+Spain,Europe,2003,42187645
+Spain,Europe,2004,42921895
+Spain,Europe,2005,43653155
+Spain,Europe,2006,44397319
+Spain,Europe,2007,45226803
+Spain,Europe,2008,45954106
+Spain,Europe,2009,46362946
+Spain,Europe,2010,46576897
+Spain,Europe,2011,46742697
+Spain,Europe,2012,46773055
+Spain,Europe,2013,46620045
+Spain,Europe,2014,46480882
+Spain,Europe,2015,46444832
+Spain,Europe,2016,46484062
+Spain,Europe,2017,46593236
+Spain,Europe,2018,46797754
+Spain,Europe,2019,47133521
+Spain,Europe,2020,47351567
+Estonia,Europe,1990,1569174
+Estonia,Europe,1991,1561314
+Estonia,Europe,1992,1533091
+Estonia,Europe,1993,1494128
+Estonia,Europe,1994,1462514
+Estonia,Europe,1995,1436634
+Estonia,Europe,1996,1415594
+Estonia,Europe,1997,1399535
+Estonia,Europe,1998,1386156
+Estonia,Europe,1999,1390244
+Estonia,Europe,2000,1396985
+Estonia,Europe,2001,1388115
+Estonia,Europe,2002,1379350
+Estonia,Europe,2003,1370720
+Estonia,Europe,2004,1362550
+Estonia,Europe,2005,1354775
+Estonia,Europe,2006,1346810
+Estonia,Europe,2007,1340680
+Estonia,Europe,2008,1337090
+Estonia,Europe,2009,1334515
+Estonia,Europe,2010,1331475
+Estonia,Europe,2011,1327439
+Estonia,Europe,2012,1322696
+Estonia,Europe,2013,1317997
+Estonia,Europe,2014,1314545
+Estonia,Europe,2015,1315407
+Estonia,Europe,2016,1315790
+Estonia,Europe,2017,1317384
+Estonia,Europe,2018,1321977
+Estonia,Europe,2019,1326898
+Estonia,Europe,2020,1331057
+Ethiopia,Africa,1990,47887864
+Ethiopia,Africa,1991,49609976
+Ethiopia,Africa,1992,51423591
+Ethiopia,Africa,1993,53295556
+Ethiopia,Africa,1994,55180993
+Ethiopia,Africa,1995,57047906
+Ethiopia,Africa,1996,58883531
+Ethiopia,Africa,1997,60697443
+Ethiopia,Africa,1998,62507724
+Ethiopia,Africa,1999,64343008
+Ethiopia,Africa,2000,66224809
+Ethiopia,Africa,2001,68159422
+Ethiopia,Africa,2002,70142090
+Ethiopia,Africa,2003,72170581
+Ethiopia,Africa,2004,74239508
+Ethiopia,Africa,2005,76346310
+Ethiopia,Africa,2006,78489205
+Ethiopia,Africa,2007,80674343
+Ethiopia,Africa,2008,82916236
+Ethiopia,Africa,2009,85233923
+Ethiopia,Africa,2010,87639962
+Ethiopia,Africa,2011,90139928
+Ethiopia,Africa,2012,92726982
+Ethiopia,Africa,2013,95385793
+Ethiopia,Africa,2014,98094264
+Ethiopia,Africa,2015,100835453
+Ethiopia,Africa,2016,103603461
+Ethiopia,Africa,2017,106399926
+Ethiopia,Africa,2018,109224410
+Ethiopia,Africa,2019,112078727
+Ethiopia,Africa,2020,114963583
+Finland,Europe,1990,4986431
+Finland,Europe,1991,5013740
+Finland,Europe,1992,5041992
+Finland,Europe,1993,5066447
+Finland,Europe,1994,5088333
+Finland,Europe,1995,5107790
+Finland,Europe,1996,5124573
+Finland,Europe,1997,5139835
+Finland,Europe,1998,5153498
+Finland,Europe,1999,5165474
+Finland,Europe,2000,5176209
+Finland,Europe,2001,5188008
+Finland,Europe,2002,5200598
+Finland,Europe,2003,5213014
+Finland,Europe,2004,5228172
+Finland,Europe,2005,5246096
+Finland,Europe,2006,5266268
+Finland,Europe,2007,5288720
+Finland,Europe,2008,5313399
+Finland,Europe,2009,5338871
+Finland,Europe,2010,5363352
+Finland,Europe,2011,5388272
+Finland,Europe,2012,5413971
+Finland,Europe,2013,5438972
+Finland,Europe,2014,5461512
+Finland,Europe,2015,5479531
+Finland,Europe,2016,5495303
+Finland,Europe,2017,5508214
+Finland,Europe,2018,5515525
+Finland,Europe,2019,5521606
+Finland,Europe,2020,5530719
+Fiji,Oceania,1990,728575
+Fiji,Oceania,1991,735398
+Fiji,Oceania,1992,744470
+Fiji,Oceania,1993,754962
+Fiji,Oceania,1994,765607
+Fiji,Oceania,1995,775428
+Fiji,Oceania,1996,784389
+Fiji,Oceania,1997,792736
+Fiji,Oceania,1998,800148
+Fiji,Oceania,1999,806302
+Fiji,Oceania,2000,811011
+Fiji,Oceania,2001,813923
+Fiji,Oceania,2002,815257
+Fiji,Oceania,2003,816078
+Fiji,Oceania,2004,817864
+Fiji,Oceania,2005,821606
+Fiji,Oceania,2006,827869
+Fiji,Oceania,2007,836185
+Fiji,Oceania,2008,845356
+Fiji,Oceania,2009,853636
+Fiji,Oceania,2010,859816
+Fiji,Oceania,2011,863451
+Fiji,Oceania,2012,865065
+Fiji,Oceania,2013,865602
+Fiji,Oceania,2014,866447
+Fiji,Oceania,2015,868632
+Fiji,Oceania,2016,872406
+Fiji,Oceania,2017,877460
+Fiji,Oceania,2018,883490
+Fiji,Oceania,2019,889955
+Fiji,Oceania,2020,896444
+France,Europe,1990,58235716
+France,Europe,1991,58559309
+France,Europe,1992,58851216
+France,Europe,1993,59106758
+France,Europe,1994,59327200
+France,Europe,1995,59541904
+France,Europe,1996,59753095
+France,Europe,1997,59964841
+France,Europe,1998,60186284
+France,Europe,1999,60496708
+France,Europe,2000,60912500
+France,Europe,2001,61357432
+France,Europe,2002,61805266
+France,Europe,2003,62244880
+France,Europe,2004,62704901
+France,Europe,2005,63179356
+France,Europe,2006,63621376
+France,Europe,2007,64016227
+France,Europe,2008,64374979
+France,Europe,2009,64707035
+France,Europe,2010,65027505
+France,Europe,2011,65342789
+France,Europe,2012,65659814
+France,Europe,2013,65998685
+France,Europe,2014,66312067
+France,Europe,2015,66548272
+France,Europe,2016,66724104
+France,Europe,2017,66918020
+France,Europe,2018,67101930
+France,Europe,2019,67248926
+France,Europe,2020,67391582
+"Micronesia, Fed. Sts.",Oceania,1990,96304
+"Micronesia, Fed. Sts.",Oceania,1991,98779
+"Micronesia, Fed. Sts.",Oceania,1992,101386
+"Micronesia, Fed. Sts.",Oceania,1993,103901
+"Micronesia, Fed. Sts.",Oceania,1994,106030
+"Micronesia, Fed. Sts.",Oceania,1995,107535
+"Micronesia, Fed. Sts.",Oceania,1996,108311
+"Micronesia, Fed. Sts.",Oceania,1997,108473
+"Micronesia, Fed. Sts.",Oceania,1998,108206
+"Micronesia, Fed. Sts.",Oceania,1999,107769
+"Micronesia, Fed. Sts.",Oceania,2000,107405
+"Micronesia, Fed. Sts.",Oceania,2001,107170
+"Micronesia, Fed. Sts.",Oceania,2002,107027
+"Micronesia, Fed. Sts.",Oceania,2003,106902
+"Micronesia, Fed. Sts.",Oceania,2004,106624
+"Micronesia, Fed. Sts.",Oceania,2005,106135
+"Micronesia, Fed. Sts.",Oceania,2006,105374
+"Micronesia, Fed. Sts.",Oceania,2007,104442
+"Micronesia, Fed. Sts.",Oceania,2008,103549
+"Micronesia, Fed. Sts.",Oceania,2009,102971
+"Micronesia, Fed. Sts.",Oceania,2010,102916
+"Micronesia, Fed. Sts.",Oceania,2011,103448
+"Micronesia, Fed. Sts.",Oceania,2012,104506
+"Micronesia, Fed. Sts.",Oceania,2013,105922
+"Micronesia, Fed. Sts.",Oceania,2014,107444
+"Micronesia, Fed. Sts.",Oceania,2015,108886
+"Micronesia, Fed. Sts.",Oceania,2016,110215
+"Micronesia, Fed. Sts.",Oceania,2017,111461
+"Micronesia, Fed. Sts.",Oceania,2018,112640
+"Micronesia, Fed. Sts.",Oceania,2019,113811
+"Micronesia, Fed. Sts.",Oceania,2020,115021
+Gabon,Africa,1990,949493
+Gabon,Africa,1991,975785
+Gabon,Africa,1992,1002573
+Gabon,Africa,1993,1029769
+Gabon,Africa,1994,1057252
+Gabon,Africa,1995,1084951
+Gabon,Africa,1996,1112944
+Gabon,Africa,1997,1141332
+Gabon,Africa,1998,1170061
+Gabon,Africa,1999,1199058
+Gabon,Africa,2000,1228359
+Gabon,Africa,2001,1258008
+Gabon,Africa,2002,1288310
+Gabon,Africa,2003,1319946
+Gabon,Africa,2004,1353788
+Gabon,Africa,2005,1390550
+Gabon,Africa,2006,1430144
+Gabon,Africa,2007,1472565
+Gabon,Africa,2008,1518538
+Gabon,Africa,2009,1568925
+Gabon,Africa,2010,1624146
+Gabon,Africa,2011,1684629
+Gabon,Africa,2012,1749677
+Gabon,Africa,2013,1817070
+Gabon,Africa,2014,1883801
+Gabon,Africa,2015,1947690
+Gabon,Africa,2016,2007882
+Gabon,Africa,2017,2064812
+Gabon,Africa,2018,2119275
+Gabon,Africa,2019,2172578
+Gabon,Africa,2020,2225728
+United Kingdom,Europe,1990,57247586
+United Kingdom,Europe,1991,57424897
+United Kingdom,Europe,1992,57580402
+United Kingdom,Europe,1993,57718614
+United Kingdom,Europe,1994,57865745
+United Kingdom,Europe,1995,58019030
+United Kingdom,Europe,1996,58166950
+United Kingdom,Europe,1997,58316954
+United Kingdom,Europe,1998,58487141
+United Kingdom,Europe,1999,58682466
+United Kingdom,Europe,2000,58892514
+United Kingdom,Europe,2001,59119673
+United Kingdom,Europe,2002,59370479
+United Kingdom,Europe,2003,59647577
+United Kingdom,Europe,2004,59987905
+United Kingdom,Europe,2005,60401206
+United Kingdom,Europe,2006,60846820
+United Kingdom,Europe,2007,61322463
+United Kingdom,Europe,2008,61806995
+United Kingdom,Europe,2009,62276270
+United Kingdom,Europe,2010,62766365
+United Kingdom,Europe,2011,63258810
+United Kingdom,Europe,2012,63700215
+United Kingdom,Europe,2013,64128273
+United Kingdom,Europe,2014,64602298
+United Kingdom,Europe,2015,65116219
+United Kingdom,Europe,2016,65611593
+United Kingdom,Europe,2017,66058859
+United Kingdom,Europe,2018,66460344
+United Kingdom,Europe,2019,66836327
+United Kingdom,Europe,2020,67215293
+Georgia,Asia,1990,4802000
+Georgia,Asia,1991,4835900
+Georgia,Asia,1992,4873500
+Georgia,Asia,1993,4911100
+Georgia,Asia,1994,4836076
+Georgia,Asia,1995,4657722
+Georgia,Asia,1996,4491699
+Georgia,Asia,1997,4349913
+Georgia,Asia,1998,4243607
+Georgia,Asia,1999,4157192
+Georgia,Asia,2000,4077131
+Georgia,Asia,2001,4014373
+Georgia,Asia,2002,3978515
+Georgia,Asia,2003,3951736
+Georgia,Asia,2004,3927340
+Georgia,Asia,2005,3902469
+Georgia,Asia,2006,3880347
+Georgia,Asia,2007,3860158
+Georgia,Asia,2008,3848449
+Georgia,Asia,2009,3814419
+Georgia,Asia,2010,3786695
+Georgia,Asia,2011,3756441
+Georgia,Asia,2012,3728874
+Georgia,Asia,2013,3717668
+Georgia,Asia,2014,3719414
+Georgia,Asia,2015,3725276
+Georgia,Asia,2016,3727505
+Georgia,Asia,2017,3728004
+Georgia,Asia,2018,3726549
+Georgia,Asia,2019,3720161
+Georgia,Asia,2020,3714000
+Ghana,Africa,1990,14773274
+Ghana,Africa,1991,15207360
+Ghana,Africa,1992,15653345
+Ghana,Africa,1993,16106756
+Ghana,Africa,1994,16561677
+Ghana,Africa,1995,17014058
+Ghana,Africa,1996,17462504
+Ghana,Africa,1997,17908977
+Ghana,Africa,1998,18357159
+Ghana,Africa,1999,18812369
+Ghana,Africa,2000,19278850
+Ghana,Africa,2001,19756929
+Ghana,Africa,2002,20246376
+Ghana,Africa,2003,20750308
+Ghana,Africa,2004,21272328
+Ghana,Africa,2005,21814648
+Ghana,Africa,2006,22379057
+Ghana,Africa,2007,22963946
+Ghana,Africa,2008,23563832
+Ghana,Africa,2009,24170943
+Ghana,Africa,2010,24779614
+Ghana,Africa,2011,25387713
+Ghana,Africa,2012,25996454
+Ghana,Africa,2013,26607641
+Ghana,Africa,2014,27224480
+Ghana,Africa,2015,27849203
+Ghana,Africa,2016,28481947
+Ghana,Africa,2017,29121464
+Ghana,Africa,2018,29767108
+Ghana,Africa,2019,30417858
+Ghana,Africa,2020,31072945
+Guinea,Africa,1990,6352282
+Guinea,Africa,1991,6534936
+Guinea,Africa,1992,6716032
+Guinea,Africa,1993,6897171
+Guinea,Africa,1994,7081119
+Guinea,Africa,1995,7269631
+Guinea,Africa,1996,7463782
+Guinea,Africa,1997,7662071
+Guinea,Africa,1998,7860772
+Guinea,Africa,1999,8054745
+Guinea,Africa,2000,8240735
+Guinea,Africa,2001,8417082
+Guinea,Africa,2002,8586077
+Guinea,Africa,2003,8753097
+Guinea,Africa,2004,8925729
+Guinea,Africa,2005,9109585
+Guinea,Africa,2006,9307421
+Guinea,Africa,2007,9518159
+Guinea,Africa,2008,9738796
+Guinea,Africa,2009,9964470
+Guinea,Africa,2010,10192168
+Guinea,Africa,2011,10420459
+Guinea,Africa,2012,10652032
+Guinea,Africa,2013,10892821
+Guinea,Africa,2014,11150970
+Guinea,Africa,2015,11432096
+Guinea,Africa,2016,11738434
+Guinea,Africa,2017,12067516
+Guinea,Africa,2018,12414292
+Guinea,Africa,2019,12771246
+Guinea,Africa,2020,13132792
+"Gambia, The",Africa,1990,955595
+"Gambia, The",Africa,1991,992671
+"Gambia, The",Africa,1992,1027476
+"Gambia, The",Africa,1993,1060861
+"Gambia, The",Africa,1994,1094219
+"Gambia, The",Africa,1995,1128577
+"Gambia, The",Africa,1996,1164091
+"Gambia, The",Africa,1997,1200522
+"Gambia, The",Africa,1998,1238124
+"Gambia, The",Africa,1999,1277118
+"Gambia, The",Africa,2000,1317708
+"Gambia, The",Africa,2001,1360070
+"Gambia, The",Africa,2002,1404263
+"Gambia, The",Africa,2003,1449925
+"Gambia, The",Africa,2004,1496524
+"Gambia, The",Africa,2005,1543745
+"Gambia, The",Africa,2006,1591444
+"Gambia, The",Africa,2007,1639846
+"Gambia, The",Africa,2008,1689288
+"Gambia, The",Africa,2009,1740277
+"Gambia, The",Africa,2010,1793199
+"Gambia, The",Africa,2011,1848142
+"Gambia, The",Africa,2012,1905020
+"Gambia, The",Africa,2013,1963708
+"Gambia, The",Africa,2014,2024037
+"Gambia, The",Africa,2015,2085860
+"Gambia, The",Africa,2016,2149134
+"Gambia, The",Africa,2017,2213900
+"Gambia, The",Africa,2018,2280092
+"Gambia, The",Africa,2019,2347696
+"Gambia, The",Africa,2020,2416664
+Guinea-Bissau,Africa,1990,975265
+Guinea-Bissau,Africa,1991,997522
+Guinea-Bissau,Africa,1992,1020353
+Guinea-Bissau,Africa,1993,1043421
+Guinea-Bissau,Africa,1994,1066345
+Guinea-Bissau,Africa,1995,1088850
+Guinea-Bissau,Africa,1996,1110835
+Guinea-Bissau,Africa,1997,1132505
+Guinea-Bissau,Africa,1998,1154372
+Guinea-Bissau,Africa,1999,1177133
+Guinea-Bissau,Africa,2000,1201305
+Guinea-Bissau,Africa,2001,1227105
+Guinea-Bissau,Africa,2002,1254454
+Guinea-Bissau,Africa,2003,1283297
+Guinea-Bissau,Africa,2004,1313492
+Guinea-Bissau,Africa,2005,1344931
+Guinea-Bissau,Africa,2006,1377582
+Guinea-Bissau,Africa,2007,1411545
+Guinea-Bissau,Africa,2008,1446936
+Guinea-Bissau,Africa,2009,1483920
+Guinea-Bissau,Africa,2010,1522603
+Guinea-Bissau,Africa,2011,1562996
+Guinea-Bissau,Africa,2012,1604981
+Guinea-Bissau,Africa,2013,1648259
+Guinea-Bissau,Africa,2014,1692433
+Guinea-Bissau,Africa,2015,1737207
+Guinea-Bissau,Africa,2016,1782434
+Guinea-Bissau,Africa,2017,1828146
+Guinea-Bissau,Africa,2018,1874304
+Guinea-Bissau,Africa,2019,1920917
+Guinea-Bissau,Africa,2020,1967998
+Equatorial Guinea,Africa,1990,419188
+Equatorial Guinea,Africa,1991,432844
+Equatorial Guinea,Africa,1992,447269
+Equatorial Guinea,Africa,1993,462637
+Equatorial Guinea,Africa,1994,479099
+Equatorial Guinea,Africa,1995,496768
+Equatorial Guinea,Africa,1996,515844
+Equatorial Guinea,Africa,1997,536459
+Equatorial Guinea,Africa,1998,558496
+Equatorial Guinea,Africa,1999,581765
+Equatorial Guinea,Africa,2000,606180
+Equatorial Guinea,Africa,2001,631662
+Equatorial Guinea,Africa,2002,658388
+Equatorial Guinea,Africa,2003,686670
+Equatorial Guinea,Africa,2004,716949
+Equatorial Guinea,Africa,2005,749527
+Equatorial Guinea,Africa,2006,784494
+Equatorial Guinea,Africa,2007,821686
+Equatorial Guinea,Africa,2008,860839
+Equatorial Guinea,Africa,2009,901589
+Equatorial Guinea,Africa,2010,943640
+Equatorial Guinea,Africa,2011,986861
+Equatorial Guinea,Africa,2012,1031191
+Equatorial Guinea,Africa,2013,1076412
+Equatorial Guinea,Africa,2014,1122273
+Equatorial Guinea,Africa,2015,1168575
+Equatorial Guinea,Africa,2016,1215181
+Equatorial Guinea,Africa,2017,1262008
+Equatorial Guinea,Africa,2018,1308966
+Equatorial Guinea,Africa,2019,1355982
+Equatorial Guinea,Africa,2020,1402985
+Greece,Europe,1990,10196792
+Greece,Europe,1991,10319927
+Greece,Europe,1992,10399061
+Greece,Europe,1993,10460415
+Greece,Europe,1994,10512922
+Greece,Europe,1995,10562153
+Greece,Europe,1996,10608800
+Greece,Europe,1997,10661259
+Greece,Europe,1998,10720509
+Greece,Europe,1999,10761698
+Greece,Europe,2000,10805808
+Greece,Europe,2001,10862132
+Greece,Europe,2002,10902022
+Greece,Europe,2003,10928070
+Greece,Europe,2004,10955141
+Greece,Europe,2005,10987314
+Greece,Europe,2006,11020362
+Greece,Europe,2007,11048473
+Greece,Europe,2008,11077841
+Greece,Europe,2009,11107017
+Greece,Europe,2010,11121341
+Greece,Europe,2011,11104899
+Greece,Europe,2012,11045011
+Greece,Europe,2013,10965211
+Greece,Europe,2014,10892413
+Greece,Europe,2015,10820883
+Greece,Europe,2016,10775971
+Greece,Europe,2017,10754679
+Greece,Europe,2018,10732882
+Greece,Europe,2019,10721582
+Greece,Europe,2020,10715549
+Grenada,America,1990,96328
+Grenada,America,1991,96462
+Grenada,America,1992,97161
+Grenada,America,1993,98234
+Grenada,America,1994,99345
+Grenada,America,1995,100286
+Grenada,America,1996,101003
+Grenada,America,1997,101567
+Grenada,America,1998,102023
+Grenada,America,1999,102429
+Grenada,America,2000,102837
+Grenada,America,2001,103242
+Grenada,America,2002,103636
+Grenada,America,2003,104003
+Grenada,America,2004,104346
+Grenada,America,2005,104658
+Grenada,America,2006,104938
+Grenada,America,2007,105183
+Grenada,America,2008,105457
+Grenada,America,2009,105787
+Grenada,America,2010,106227
+Grenada,America,2011,106786
+Grenada,America,2012,107452
+Grenada,America,2013,108172
+Grenada,America,2014,108900
+Grenada,America,2015,109603
+Grenada,America,2016,110263
+Grenada,America,2017,110874
+Grenada,America,2018,111449
+Grenada,America,2019,112002
+Grenada,America,2020,112519
+Guatemala,America,1990,9050115
+Guatemala,America,1991,9296814
+Guatemala,America,1992,9544055
+Guatemala,America,1993,9790619
+Guatemala,America,1994,10037522
+Guatemala,America,1995,10286786
+Guatemala,America,1996,10536942
+Guatemala,America,1997,10788362
+Guatemala,America,1998,11046215
+Guatemala,America,1999,11311078
+Guatemala,America,2000,11589761
+Guatemala,America,2001,11871565
+Guatemala,America,2002,12147518
+Guatemala,America,2003,12415334
+Guatemala,America,2004,12682108
+Guatemala,America,2005,12948292
+Guatemala,America,2006,13213330
+Guatemala,America,2007,13477017
+Guatemala,America,2008,13739299
+Guatemala,America,2009,14000190
+Guatemala,America,2010,14259687
+Guatemala,America,2011,14521515
+Guatemala,America,2012,14781942
+Guatemala,America,2013,15043981
+Guatemala,America,2014,15306316
+Guatemala,America,2015,15567419
+Guatemala,America,2016,15827690
+Guatemala,America,2017,16087418
+Guatemala,America,2018,16346950
+Guatemala,America,2019,16604026
+Guatemala,America,2020,16858333
+Guyana,America,1990,743306
+Guyana,America,1991,744477
+Guyana,America,1992,748596
+Guyana,America,1993,754141
+Guyana,America,1994,758896
+Guyana,America,1995,761298
+Guyana,America,1996,760801
+Guyana,America,1997,757975
+Guyana,America,1998,753778
+Guyana,America,1999,749676
+Guyana,America,2000,746718
+Guyana,America,2001,745206
+Guyana,America,2002,744789
+Guyana,America,2003,745142
+Guyana,America,2004,745737
+Guyana,America,2005,746156
+Guyana,America,2006,746335
+Guyana,America,2007,746477
+Guyana,America,2008,746815
+Guyana,America,2009,747718
+Guyana,America,2010,749430
+Guyana,America,2011,752029
+Guyana,America,2012,755388
+Guyana,America,2013,759281
+Guyana,America,2014,763371
+Guyana,America,2015,767433
+Guyana,America,2016,771363
+Guyana,America,2017,775218
+Guyana,America,2018,779007
+Guyana,America,2019,782775
+Guyana,America,2020,786559
+"Hong Kong SAR, China",Asia,1990,5704500
+"Hong Kong SAR, China",Asia,1991,5752000
+"Hong Kong SAR, China",Asia,1992,5800500
+"Hong Kong SAR, China",Asia,1993,5901000
+"Hong Kong SAR, China",Asia,1994,6035400
+"Hong Kong SAR, China",Asia,1995,6156100
+"Hong Kong SAR, China",Asia,1996,6435500
+"Hong Kong SAR, China",Asia,1997,6489300
+"Hong Kong SAR, China",Asia,1998,6543700
+"Hong Kong SAR, China",Asia,1999,6606500
+"Hong Kong SAR, China",Asia,2000,6665000
+"Hong Kong SAR, China",Asia,2001,6714300
+"Hong Kong SAR, China",Asia,2002,6744100
+"Hong Kong SAR, China",Asia,2003,6730800
+"Hong Kong SAR, China",Asia,2004,6783500
+"Hong Kong SAR, China",Asia,2005,6813200
+"Hong Kong SAR, China",Asia,2006,6857100
+"Hong Kong SAR, China",Asia,2007,6916300
+"Hong Kong SAR, China",Asia,2008,6957800
+"Hong Kong SAR, China",Asia,2009,6972800
+"Hong Kong SAR, China",Asia,2010,7024200
+"Hong Kong SAR, China",Asia,2011,7071600
+"Hong Kong SAR, China",Asia,2012,7150100
+"Hong Kong SAR, China",Asia,2013,7178900
+"Hong Kong SAR, China",Asia,2014,7229500
+"Hong Kong SAR, China",Asia,2015,7291300
+"Hong Kong SAR, China",Asia,2016,7336600
+"Hong Kong SAR, China",Asia,2017,7391700
+"Hong Kong SAR, China",Asia,2018,7451000
+"Hong Kong SAR, China",Asia,2019,7507400
+"Hong Kong SAR, China",Asia,2020,7481800
+Honduras,America,1990,4955302
+Honduras,America,1991,5098594
+Honduras,America,1992,5244677
+Honduras,America,1993,5394416
+Honduras,America,1994,5548969
+Honduras,America,1995,5709010
+Honduras,America,1996,5874814
+Honduras,America,1997,6045704
+Honduras,America,1998,6220405
+Honduras,America,1999,6397140
+Honduras,America,2000,6574510
+Honduras,America,2001,6751912
+Honduras,America,2002,6929267
+Honduras,America,2003,7106323
+Honduras,America,2004,7282953
+Honduras,America,2005,7458982
+Honduras,America,2006,7634295
+Honduras,America,2007,7808520
+Honduras,America,2008,7980955
+Honduras,America,2009,8150780
+Honduras,America,2010,8317467
+Honduras,America,2011,8480670
+Honduras,America,2012,8640692
+Honduras,America,2013,8798524
+Honduras,America,2014,8955579
+Honduras,America,2015,9112904
+Honduras,America,2016,9270794
+Honduras,America,2017,9429016
+Honduras,America,2018,9587523
+Honduras,America,2019,9746115
+Honduras,America,2020,9904608
+Croatia,Europe,1990,4777368
+Croatia,Europe,1991,4689022
+Croatia,Europe,1992,4575818
+Croatia,Europe,1993,4600463
+Croatia,Europe,1994,4652024
+Croatia,Europe,1995,4620030
+Croatia,Europe,1996,4557097
+Croatia,Europe,1997,4534920
+Croatia,Europe,1998,4532135
+Croatia,Europe,1999,4512597
+Croatia,Europe,2000,4468302
+Croatia,Europe,2001,4299642
+Croatia,Europe,2002,4302174
+Croatia,Europe,2003,4303399
+Croatia,Europe,2004,4304600
+Croatia,Europe,2005,4310145
+Croatia,Europe,2006,4311159
+Croatia,Europe,2007,4310217
+Croatia,Europe,2008,4309705
+Croatia,Europe,2009,4305181
+Croatia,Europe,2010,4295427
+Croatia,Europe,2011,4280622
+Croatia,Europe,2012,4267558
+Croatia,Europe,2013,4255689
+Croatia,Europe,2014,4238389
+Croatia,Europe,2015,4203604
+Croatia,Europe,2016,4174349
+Croatia,Europe,2017,4124531
+Croatia,Europe,2018,4087843
+Croatia,Europe,2019,4065253
+Croatia,Europe,2020,4047200
+Haiti,America,1990,7037915
+Haiti,America,1991,7178611
+Haiti,America,1992,7319491
+Haiti,America,1993,7460684
+Haiti,America,1994,7602318
+Haiti,America,1995,7744509
+Haiti,America,1996,7887312
+Haiti,America,1997,8030721
+Haiti,America,1998,8174680
+Haiti,America,1999,8319070
+Haiti,America,2000,8463802
+Haiti,America,2001,8608810
+Haiti,America,2002,8754148
+Haiti,America,2003,8900108
+Haiti,America,2004,9047082
+Haiti,America,2005,9195289
+Haiti,America,2006,9344784
+Haiti,America,2007,9495336
+Haiti,America,2008,9646570
+Haiti,America,2009,9798046
+Haiti,America,2010,9949318
+Haiti,America,2011,10100320
+Haiti,America,2012,10250922
+Haiti,America,2013,10400672
+Haiti,America,2014,10549007
+Haiti,America,2015,10695540
+Haiti,America,2016,10839976
+Haiti,America,2017,10982367
+Haiti,America,2018,11123183
+Haiti,America,2019,11263079
+Haiti,America,2020,11402533
+Hungary,Europe,1990,10373988
+Hungary,Europe,1991,10373400
+Hungary,Europe,1992,10369341
+Hungary,Europe,1993,10357523
+Hungary,Europe,1994,10343355
+Hungary,Europe,1995,10328965
+Hungary,Europe,1996,10311238
+Hungary,Europe,1997,10290486
+Hungary,Europe,1998,10266570
+Hungary,Europe,1999,10237530
+Hungary,Europe,2000,10210971
+Hungary,Europe,2001,10187576
+Hungary,Europe,2002,10158608
+Hungary,Europe,2003,10129552
+Hungary,Europe,2004,10107146
+Hungary,Europe,2005,10087065
+Hungary,Europe,2006,10071370
+Hungary,Europe,2007,10055780
+Hungary,Europe,2008,10038188
+Hungary,Europe,2009,10022650
+Hungary,Europe,2010,10000023
+Hungary,Europe,2011,9971727
+Hungary,Europe,2012,9920362
+Hungary,Europe,2013,9893082
+Hungary,Europe,2014,9866468
+Hungary,Europe,2015,9843028
+Hungary,Europe,2016,9814023
+Hungary,Europe,2017,9787966
+Hungary,Europe,2018,9775564
+Hungary,Europe,2019,9771141
+Hungary,Europe,2020,9749763
+Indonesia,Asia,1990,181413398
+Indonesia,Asia,1991,184591897
+Indonesia,Asia,1992,187739786
+Indonesia,Asia,1993,190851184
+Indonesia,Asia,1994,193917458
+Indonesia,Asia,1995,196934257
+Indonesia,Asia,1996,199901231
+Indonesia,Asia,1997,202826444
+Indonesia,Asia,1998,205724597
+Indonesia,Asia,1999,208615171
+Indonesia,Asia,2000,211513822
+Indonesia,Asia,2001,214427419
+Indonesia,Asia,2002,217357790
+Indonesia,Asia,2003,220309473
+Indonesia,Asia,2004,223285666
+Indonesia,Asia,2005,226289468
+Indonesia,Asia,2006,229318262
+Indonesia,Asia,2007,232374239
+Indonesia,Asia,2008,235469755
+Indonesia,Asia,2009,238620554
+Indonesia,Asia,2010,241834226
+Indonesia,Asia,2011,245115988
+Indonesia,Asia,2012,248451714
+Indonesia,Asia,2013,251805314
+Indonesia,Asia,2014,255128076
+Indonesia,Asia,2015,258383257
+Indonesia,Asia,2016,261556386
+Indonesia,Asia,2017,264650969
+Indonesia,Asia,2018,267670549
+Indonesia,Asia,2019,270625567
+Indonesia,Asia,2020,273523621
+India,Asia,1990,873277799
+India,Asia,1991,891273202
+India,Asia,1992,909307018
+India,Asia,1993,927403866
+India,Asia,1994,945601828
+India,Asia,1995,963922586
+India,Asia,1996,982365248
+India,Asia,1997,1000900028
+India,Asia,1998,1019483586
+India,Asia,1999,1038058154
+India,Asia,2000,1056575548
+India,Asia,2001,1075000094
+India,Asia,2002,1093317187
+India,Asia,2003,1111523146
+India,Asia,2004,1129623466
+India,Asia,2005,1147609924
+India,Asia,2006,1165486291
+India,Asia,2007,1183209471
+India,Asia,2008,1200669762
+India,Asia,2009,1217726217
+India,Asia,2010,1234281163
+India,Asia,2011,1250287939
+India,Asia,2012,1265780243
+India,Asia,2013,1280842119
+India,Asia,2014,1295600768
+India,Asia,2015,1310152392
+India,Asia,2016,1324517250
+India,Asia,2017,1338676779
+India,Asia,2018,1352642283
+India,Asia,2019,1366417756
+India,Asia,2020,1380004385
+Ireland,Europe,1990,3513974
+Ireland,Europe,1991,3534235
+Ireland,Europe,1992,3558430
+Ireland,Europe,1993,3576261
+Ireland,Europe,1994,3590386
+Ireland,Europe,1995,3608841
+Ireland,Europe,1996,3637510
+Ireland,Europe,1997,3674171
+Ireland,Europe,1998,3712696
+Ireland,Europe,1999,3754786
+Ireland,Europe,2000,3805174
+Ireland,Europe,2001,3866243
+Ireland,Europe,2002,3931947
+Ireland,Europe,2003,3996521
+Ireland,Europe,2004,4070262
+Ireland,Europe,2005,4159914
+Ireland,Europe,2006,4273591
+Ireland,Europe,2007,4398942
+Ireland,Europe,2008,4489544
+Ireland,Europe,2009,4535375
+Ireland,Europe,2010,4560155
+Ireland,Europe,2011,4580084
+Ireland,Europe,2012,4599533
+Ireland,Europe,2013,4623816
+Ireland,Europe,2014,4657740
+Ireland,Europe,2015,4701957
+Ireland,Europe,2016,4755335
+Ireland,Europe,2017,4807388
+Ireland,Europe,2018,4867316
+Ireland,Europe,2019,4934340
+Ireland,Europe,2020,4994724
+"Iran, Islamic Rep.",Asia,1990,56366212
+"Iran, Islamic Rep.",Asia,1991,57679025
+"Iran, Islamic Rep.",Asia,1992,58780376
+"Iran, Islamic Rep.",Asia,1993,59723761
+"Iran, Islamic Rep.",Asia,1994,60590608
+"Iran, Islamic Rep.",Asia,1995,61442658
+"Iran, Islamic Rep.",Asia,1996,62294919
+"Iran, Islamic Rep.",Asia,1997,63136309
+"Iran, Islamic Rep.",Asia,1998,63971836
+"Iran, Islamic Rep.",Asia,1999,64800875
+"Iran, Islamic Rep.",Asia,2000,65623397
+"Iran, Islamic Rep.",Asia,2001,66449111
+"Iran, Islamic Rep.",Asia,2002,67284801
+"Iran, Islamic Rep.",Asia,2003,68122947
+"Iran, Islamic Rep.",Asia,2004,68951279
+"Iran, Islamic Rep.",Asia,2005,69762345
+"Iran, Islamic Rep.",Asia,2006,70554756
+"Iran, Islamic Rep.",Asia,2007,71336476
+"Iran, Islamic Rep.",Asia,2008,72120608
+"Iran, Islamic Rep.",Asia,2009,72924833
+"Iran, Islamic Rep.",Asia,2010,73762519
+"Iran, Islamic Rep.",Asia,2011,74634959
+"Iran, Islamic Rep.",Asia,2012,75539881
+"Iran, Islamic Rep.",Asia,2013,76481963
+"Iran, Islamic Rep.",Asia,2014,77465769
+"Iran, Islamic Rep.",Asia,2015,78492208
+"Iran, Islamic Rep.",Asia,2016,79563991
+"Iran, Islamic Rep.",Asia,2017,80673888
+"Iran, Islamic Rep.",Asia,2018,81800204
+"Iran, Islamic Rep.",Asia,2019,82913893
+"Iran, Islamic Rep.",Asia,2020,83992953
+Iraq,Asia,1990,17419113
+Iraq,Asia,1991,17889457
+Iraq,Asia,1992,18402740
+Iraq,Asia,1993,18955087
+Iraq,Asia,1994,19539348
+Iraq,Asia,1995,20149342
+Iraq,Asia,1996,20783073
+Iraq,Asia,1997,21439579
+Iraq,Asia,1998,22114330
+Iraq,Asia,1999,22802061
+Iraq,Asia,2000,23497589
+Iraq,Asia,2001,24208178
+Iraq,Asia,2002,24931922
+Iraq,Asia,2003,25644503
+Iraq,Asia,2004,26313838
+Iraq,Asia,2005,26922279
+Iraq,Asia,2006,27448124
+Iraq,Asia,2007,27911242
+Iraq,Asia,2008,28385739
+Iraq,Asia,2009,28973157
+Iraq,Asia,2010,29741977
+Iraq,Asia,2011,30725305
+Iraq,Asia,2012,31890012
+Iraq,Asia,2013,33157061
+Iraq,Asia,2014,34411949
+Iraq,Asia,2015,35572269
+Iraq,Asia,2016,36610632
+Iraq,Asia,2017,37552789
+Iraq,Asia,2018,38433604
+Iraq,Asia,2019,39309789
+Iraq,Asia,2020,40222503
+Iceland,Europe,1990,254826
+Iceland,Europe,1991,257797
+Iceland,Europe,1992,261057
+Iceland,Europe,1993,263725
+Iceland,Europe,1994,266021
+Iceland,Europe,1995,267468
+Iceland,Europe,1996,268916
+Iceland,Europe,1997,271128
+Iceland,Europe,1998,274047
+Iceland,Europe,1999,277381
+Iceland,Europe,2000,281205
+Iceland,Europe,2001,284968
+Iceland,Europe,2002,287523
+Iceland,Europe,2003,289521
+Iceland,Europe,2004,292074
+Iceland,Europe,2005,296734
+Iceland,Europe,2006,303782
+Iceland,Europe,2007,311566
+Iceland,Europe,2008,317414
+Iceland,Europe,2009,318499
+Iceland,Europe,2010,318041
+Iceland,Europe,2011,319014
+Iceland,Europe,2012,320716
+Iceland,Europe,2013,323764
+Iceland,Europe,2014,327386
+Iceland,Europe,2015,330815
+Iceland,Europe,2016,335439
+Iceland,Europe,2017,343400
+Iceland,Europe,2018,352721
+Iceland,Europe,2019,360563
+Iceland,Europe,2020,366425
+Israel,Asia,1990,4660000
+Israel,Asia,1991,4949000
+Israel,Asia,1992,5123000
+Israel,Asia,1993,5261000
+Israel,Asia,1994,5399000
+Israel,Asia,1995,5545000
+Israel,Asia,1996,5692000
+Israel,Asia,1997,5836000
+Israel,Asia,1998,5971000
+Israel,Asia,1999,6125000
+Israel,Asia,2000,6289000
+Israel,Asia,2001,6439000
+Israel,Asia,2002,6570000
+Israel,Asia,2003,6689700
+Israel,Asia,2004,6809000
+Israel,Asia,2005,6930100
+Israel,Asia,2006,7053700
+Israel,Asia,2007,7180100
+Israel,Asia,2008,7308800
+Israel,Asia,2009,7485600
+Israel,Asia,2010,7623600
+Israel,Asia,2011,7765800
+Israel,Asia,2012,7910500
+Israel,Asia,2013,8059500
+Israel,Asia,2014,8215700
+Israel,Asia,2015,8380100
+Israel,Asia,2016,8546000
+Israel,Asia,2017,8713300
+Israel,Asia,2018,8882800
+Israel,Asia,2019,9054000
+Israel,Asia,2020,9216900
+Italy,Europe,1990,56719240
+Italy,Europe,1991,56758521
+Italy,Europe,1992,56797087
+Italy,Europe,1993,56831821
+Italy,Europe,1994,56843400
+Italy,Europe,1995,56844303
+Italy,Europe,1996,56860281
+Italy,Europe,1997,56890372
+Italy,Europe,1998,56906744
+Italy,Europe,1999,56916317
+Italy,Europe,2000,56942108
+Italy,Europe,2001,56974100
+Italy,Europe,2002,57059007
+Italy,Europe,2003,57313203
+Italy,Europe,2004,57685327
+Italy,Europe,2005,57969484
+Italy,Europe,2006,58143979
+Italy,Europe,2007,58438310
+Italy,Europe,2008,58826731
+Italy,Europe,2009,59095365
+Italy,Europe,2010,59277417
+Italy,Europe,2011,59379449
+Italy,Europe,2012,59539717
+Italy,Europe,2013,60233948
+Italy,Europe,2014,60789140
+Italy,Europe,2015,60730582
+Italy,Europe,2016,60627498
+Italy,Europe,2017,60536709
+Italy,Europe,2018,60421760
+Italy,Europe,2019,59729081
+Italy,Europe,2020,59554023
+Jamaica,America,1990,2419901
+Jamaica,America,1991,2439329
+Jamaica,America,1992,2461047
+Jamaica,America,1993,2484583
+Jamaica,America,1994,2509042
+Jamaica,America,1995,2533705
+Jamaica,America,1996,2558631
+Jamaica,America,1997,2583914
+Jamaica,America,1998,2608874
+Jamaica,America,1999,2632677
+Jamaica,America,2000,2654698
+Jamaica,America,2001,2674706
+Jamaica,America,2002,2692843
+Jamaica,America,2003,2709438
+Jamaica,America,2004,2725017
+Jamaica,America,2005,2740000
+Jamaica,America,2006,2754414
+Jamaica,America,2007,2768229
+Jamaica,America,2008,2781869
+Jamaica,America,2009,2795839
+Jamaica,America,2010,2810464
+Jamaica,America,2011,2825932
+Jamaica,America,2012,2842128
+Jamaica,America,2013,2858710
+Jamaica,America,2014,2875137
+Jamaica,America,2015,2891024
+Jamaica,America,2016,2906242
+Jamaica,America,2017,2920848
+Jamaica,America,2018,2934853
+Jamaica,America,2019,2948277
+Jamaica,America,2020,2961161
+Jordan,Asia,1990,3565888
+Jordan,Asia,1991,3760493
+Jordan,Asia,1992,3977667
+Jordan,Asia,1993,4201559
+Jordan,Asia,1994,4410357
+Jordan,Asia,1995,4588842
+Jordan,Asia,1996,4732848
+Jordan,Asia,1997,4848536
+Jordan,Asia,1998,4943975
+Jordan,Asia,1999,5031754
+Jordan,Asia,2000,5122495
+Jordan,Asia,2001,5217328
+Jordan,Asia,2002,5317514
+Jordan,Asia,2003,5434036
+Jordan,Asia,2004,5580241
+Jordan,Asia,2005,5765639
+Jordan,Asia,2006,5991547
+Jordan,Asia,2007,6255290
+Jordan,Asia,2008,6556473
+Jordan,Asia,2009,6893258
+Jordan,Asia,2010,7261541
+Jordan,Asia,2011,7662858
+Jordan,Asia,2012,8089963
+Jordan,Asia,2013,8518992
+Jordan,Asia,2014,8918822
+Jordan,Asia,2015,9266573
+Jordan,Asia,2016,9554286
+Jordan,Asia,2017,9785840
+Jordan,Asia,2018,9965322
+Jordan,Asia,2019,10101697
+Jordan,Asia,2020,10203140
+Japan,Asia,1990,123478000
+Japan,Asia,1991,123964000
+Japan,Asia,1992,124425000
+Japan,Asia,1993,124829000
+Japan,Asia,1994,125178000
+Japan,Asia,1995,125472000
+Japan,Asia,1996,125757000
+Japan,Asia,1997,126057000
+Japan,Asia,1998,126400000
+Japan,Asia,1999,126631000
+Japan,Asia,2000,126843000
+Japan,Asia,2001,127149000
+Japan,Asia,2002,127445000
+Japan,Asia,2003,127718000
+Japan,Asia,2004,127761000
+Japan,Asia,2005,127773000
+Japan,Asia,2006,127854000
+Japan,Asia,2007,128001000
+Japan,Asia,2008,128063000
+Japan,Asia,2009,128047000
+Japan,Asia,2010,128070000
+Japan,Asia,2011,127833000
+Japan,Asia,2012,127629000
+Japan,Asia,2013,127445000
+Japan,Asia,2014,127276000
+Japan,Asia,2015,127141000
+Japan,Asia,2016,126994511
+Japan,Asia,2017,126785797
+Japan,Asia,2018,126529100
+Japan,Asia,2019,126264931
+Japan,Asia,2020,125836021
+Kazakhstan,Asia,1990,16348000
+Kazakhstan,Asia,1991,16451711
+Kazakhstan,Asia,1992,16439095
+Kazakhstan,Asia,1993,16380672
+Kazakhstan,Asia,1994,16145766
+Kazakhstan,Asia,1995,15816243
+Kazakhstan,Asia,1996,15578227
+Kazakhstan,Asia,1997,15334405
+Kazakhstan,Asia,1998,15071640
+Kazakhstan,Asia,1999,14928374
+Kazakhstan,Asia,2000,14883626
+Kazakhstan,Asia,2001,14858335
+Kazakhstan,Asia,2002,14858948
+Kazakhstan,Asia,2003,14909019
+Kazakhstan,Asia,2004,15012984
+Kazakhstan,Asia,2005,15147029
+Kazakhstan,Asia,2006,15308085
+Kazakhstan,Asia,2007,15484192
+Kazakhstan,Asia,2008,15776938
+Kazakhstan,Asia,2009,16092822
+Kazakhstan,Asia,2010,16321872
+Kazakhstan,Asia,2011,16557202
+Kazakhstan,Asia,2012,16792090
+Kazakhstan,Asia,2013,17035551
+Kazakhstan,Asia,2014,17288285
+Kazakhstan,Asia,2015,17542806
+Kazakhstan,Asia,2016,17794055
+Kazakhstan,Asia,2017,18037776
+Kazakhstan,Asia,2018,18276452
+Kazakhstan,Asia,2019,18513673
+Kazakhstan,Asia,2020,18754440
+Kenya,Africa,1990,23724574
+Kenya,Africa,1991,24521714
+Kenya,Africa,1992,25326080
+Kenya,Africa,1993,26136217
+Kenya,Africa,1994,26950508
+Kenya,Africa,1995,27768297
+Kenya,Africa,1996,28589456
+Kenya,Africa,1997,29415660
+Kenya,Africa,1998,30250488
+Kenya,Africa,1999,31098763
+Kenya,Africa,2000,31964557
+Kenya,Africa,2001,32848569
+Kenya,Africa,2002,33751746
+Kenya,Africa,2003,34678781
+Kenya,Africa,2004,35635267
+Kenya,Africa,2005,36624897
+Kenya,Africa,2006,37649039
+Kenya,Africa,2007,38705934
+Kenya,Africa,2008,39791984
+Kenya,Africa,2009,40901798
+Kenya,Africa,2010,42030684
+Kenya,Africa,2011,43178270
+Kenya,Africa,2012,44343469
+Kenya,Africa,2013,45519986
+Kenya,Africa,2014,46700063
+Kenya,Africa,2015,47878339
+Kenya,Africa,2016,49051531
+Kenya,Africa,2017,50221146
+Kenya,Africa,2018,51392570
+Kenya,Africa,2019,52573967
+Kenya,Africa,2020,53771300
+Kyrgyz Republic,Asia,1990,4391200
+Kyrgyz Republic,Asia,1991,4463600
+Kyrgyz Republic,Asia,1992,4515400
+Kyrgyz Republic,Asia,1993,4516700
+Kyrgyz Republic,Asia,1994,4515100
+Kyrgyz Republic,Asia,1995,4560400
+Kyrgyz Republic,Asia,1996,4628400
+Kyrgyz Republic,Asia,1997,4696400
+Kyrgyz Republic,Asia,1998,4769000
+Kyrgyz Republic,Asia,1999,4840400
+Kyrgyz Republic,Asia,2000,4898400
+Kyrgyz Republic,Asia,2001,4945100
+Kyrgyz Republic,Asia,2002,4990700
+Kyrgyz Republic,Asia,2003,5043300
+Kyrgyz Republic,Asia,2004,5104700
+Kyrgyz Republic,Asia,2005,5162600
+Kyrgyz Republic,Asia,2006,5218400
+Kyrgyz Republic,Asia,2007,5268400
+Kyrgyz Republic,Asia,2008,5318700
+Kyrgyz Republic,Asia,2009,5383300
+Kyrgyz Republic,Asia,2010,5447900
+Kyrgyz Republic,Asia,2011,5514600
+Kyrgyz Republic,Asia,2012,5607200
+Kyrgyz Republic,Asia,2013,5719600
+Kyrgyz Republic,Asia,2014,5835500
+Kyrgyz Republic,Asia,2015,5956900
+Kyrgyz Republic,Asia,2016,6079500
+Kyrgyz Republic,Asia,2017,6198200
+Kyrgyz Republic,Asia,2018,6322800
+Kyrgyz Republic,Asia,2019,6456200
+Kyrgyz Republic,Asia,2020,6591600
+Cambodia,Asia,1990,8975597
+Cambodia,Asia,1991,9289298
+Cambodia,Asia,1992,9623899
+Cambodia,Asia,1993,9970727
+Cambodia,Asia,1994,10317901
+Cambodia,Asia,1995,10656145
+Cambodia,Asia,1996,10982919
+Cambodia,Asia,1997,11298594
+Cambodia,Asia,1998,11600510
+Cambodia,Asia,1999,11886464
+Cambodia,Asia,2000,12155241
+Cambodia,Asia,2001,12405411
+Cambodia,Asia,2002,12637719
+Cambodia,Asia,2003,12856171
+Cambodia,Asia,2004,13066475
+Cambodia,Asia,2005,13273355
+Cambodia,Asia,2006,13477705
+Cambodia,Asia,2007,13679953
+Cambodia,Asia,2008,13883835
+Cambodia,Asia,2009,14093605
+Cambodia,Asia,2010,14312205
+Cambodia,Asia,2011,14541421
+Cambodia,Asia,2012,14780454
+Cambodia,Asia,2013,15026330
+Cambodia,Asia,2014,15274506
+Cambodia,Asia,2015,15521435
+Cambodia,Asia,2016,15766290
+Cambodia,Asia,2017,16009413
+Cambodia,Asia,2018,16249795
+Cambodia,Asia,2019,16486542
+Cambodia,Asia,2020,16718971
+Kiribati,Oceania,1990,72394
+Kiribati,Oceania,1991,73692
+Kiribati,Oceania,1992,74767
+Kiribati,Oceania,1993,75711
+Kiribati,Oceania,1994,76668
+Kiribati,Oceania,1995,77716
+Kiribati,Oceania,1996,78904
+Kiribati,Oceania,1997,80188
+Kiribati,Oceania,1998,81558
+Kiribati,Oceania,1999,82969
+Kiribati,Oceania,2000,84405
+Kiribati,Oceania,2001,85844
+Kiribati,Oceania,2002,87308
+Kiribati,Oceania,2003,88840
+Kiribati,Oceania,2004,90498
+Kiribati,Oceania,2005,92319
+Kiribati,Oceania,2006,94341
+Kiribati,Oceania,2007,96531
+Kiribati,Oceania,2008,98760
+Kiribati,Oceania,2009,100928
+Kiribati,Oceania,2010,102930
+Kiribati,Oceania,2011,104735
+Kiribati,Oceania,2012,106359
+Kiribati,Oceania,2013,107887
+Kiribati,Oceania,2014,109387
+Kiribati,Oceania,2015,110927
+Kiribati,Oceania,2016,112529
+Kiribati,Oceania,2017,114153
+Kiribati,Oceania,2018,115842
+Kiribati,Oceania,2019,117608
+Kiribati,Oceania,2020,119446
+"Korea, Rep.",Asia,1990,42869283
+"Korea, Rep.",Asia,1991,43295704
+"Korea, Rep.",Asia,1992,43747962
+"Korea, Rep.",Asia,1993,44194628
+"Korea, Rep.",Asia,1994,44641540
+"Korea, Rep.",Asia,1995,45092991
+"Korea, Rep.",Asia,1996,45524681
+"Korea, Rep.",Asia,1997,45953580
+"Korea, Rep.",Asia,1998,46286503
+"Korea, Rep.",Asia,1999,46616677
+"Korea, Rep.",Asia,2000,47008111
+"Korea, Rep.",Asia,2001,47370164
+"Korea, Rep.",Asia,2002,47644736
+"Korea, Rep.",Asia,2003,47892330
+"Korea, Rep.",Asia,2004,48082519
+"Korea, Rep.",Asia,2005,48184561
+"Korea, Rep.",Asia,2006,48438292
+"Korea, Rep.",Asia,2007,48683638
+"Korea, Rep.",Asia,2008,49054708
+"Korea, Rep.",Asia,2009,49307835
+"Korea, Rep.",Asia,2010,49554112
+"Korea, Rep.",Asia,2011,49936638
+"Korea, Rep.",Asia,2012,50199853
+"Korea, Rep.",Asia,2013,50428893
+"Korea, Rep.",Asia,2014,50746659
+"Korea, Rep.",Asia,2015,51014947
+"Korea, Rep.",Asia,2016,51217803
+"Korea, Rep.",Asia,2017,51361911
+"Korea, Rep.",Asia,2018,51606633
+"Korea, Rep.",Asia,2019,51709098
+"Korea, Rep.",Asia,2020,51780579
+Lao PDR,Asia,1990,4258471
+Lao PDR,Asia,1991,4379234
+Lao PDR,Asia,1992,4500346
+Lao PDR,Asia,1993,4619946
+Lao PDR,Asia,1994,4735837
+Lao PDR,Asia,1995,4846477
+Lao PDR,Asia,1996,4951189
+Lao PDR,Asia,1997,5050308
+Lao PDR,Asia,1998,5144601
+Lao PDR,Asia,1999,5235339
+Lao PDR,Asia,2000,5323701
+Lao PDR,Asia,2001,5409584
+Lao PDR,Asia,2002,5493247
+Lao PDR,Asia,2003,5576640
+Lao PDR,Asia,2004,5662199
+Lao PDR,Asia,2005,5751675
+Lao PDR,Asia,2006,5846075
+Lao PDR,Asia,2007,5944950
+Lao PDR,Asia,2008,6046630
+Lao PDR,Asia,2009,6148621
+Lao PDR,Asia,2010,6249168
+Lao PDR,Asia,2011,6347564
+Lao PDR,Asia,2012,6444527
+Lao PDR,Asia,2013,6541302
+Lao PDR,Asia,2014,6639763
+Lao PDR,Asia,2015,6741160
+Lao PDR,Asia,2016,6845848
+Lao PDR,Asia,2017,6953031
+Lao PDR,Asia,2018,7061498
+Lao PDR,Asia,2019,7169456
+Lao PDR,Asia,2020,7275556
+Lebanon,Asia,1990,2803032
+Lebanon,Asia,1991,2921700
+Lebanon,Asia,1992,3076133
+Lebanon,Asia,1993,3246129
+Lebanon,Asia,1994,3403359
+Lebanon,Asia,1995,3528379
+Lebanon,Asia,1996,3610663
+Lebanon,Asia,1997,3658425
+Lebanon,Asia,1998,3693514
+Lebanon,Asia,1999,3747762
+Lebanon,Asia,2000,3842774
+Lebanon,Asia,2001,3990999
+Lebanon,Asia,2002,4182205
+Lebanon,Asia,2003,4388378
+Lebanon,Asia,2004,4569377
+Lebanon,Asia,2005,4698761
+Lebanon,Asia,2006,4759760
+Lebanon,Asia,2007,4767347
+Lebanon,Asia,2008,4764745
+Lebanon,Asia,2009,4813026
+Lebanon,Asia,2010,4953064
+Lebanon,Asia,2011,5202022
+Lebanon,Asia,2012,5537620
+Lebanon,Asia,2013,5913016
+Lebanon,Asia,2014,6261046
+Lebanon,Asia,2015,6532681
+Lebanon,Asia,2016,6714281
+Lebanon,Asia,2017,6819373
+Lebanon,Asia,2018,6859408
+Lebanon,Asia,2019,6855709
+Lebanon,Asia,2020,6825442
+Liberia,Africa,1990,2075917
+Liberia,Africa,1991,2040141
+Liberia,Africa,1992,2001612
+Liberia,Africa,1993,1976701
+Liberia,Africa,1994,1986491
+Liberia,Africa,1995,2044657
+Liberia,Africa,1996,2160480
+Liberia,Africa,1997,2326210
+Liberia,Africa,1998,2517472
+Liberia,Africa,1999,2699708
+Liberia,Africa,2000,2848447
+Liberia,Africa,2001,2953928
+Liberia,Africa,2002,3024727
+Liberia,Africa,2003,3077055
+Liberia,Africa,2004,3135654
+Liberia,Africa,2005,3218114
+Liberia,Africa,2006,3329211
+Liberia,Africa,2007,3461911
+Liberia,Africa,2008,3607863
+Liberia,Africa,2009,3754129
+Liberia,Africa,2010,3891357
+Liberia,Africa,2011,4017446
+Liberia,Africa,2012,4135662
+Liberia,Africa,2013,4248337
+Liberia,Africa,2014,4359508
+Liberia,Africa,2015,4472229
+Liberia,Africa,2016,4586788
+Liberia,Africa,2017,4702224
+Liberia,Africa,2018,4818976
+Liberia,Africa,2019,4937374
+Liberia,Africa,2020,5057677
+Libya,Africa,1990,4436663
+Libya,Africa,1991,4544245
+Libya,Africa,1992,4650896
+Libya,Africa,1993,4755134
+Libya,Africa,1994,4854871
+Libya,Africa,1995,4948796
+Libya,Africa,1996,5036173
+Libya,Africa,1997,5118008
+Libya,Africa,1998,5196774
+Libya,Africa,1999,5275921
+Libya,Africa,2000,5357893
+Libya,Africa,2001,5443249
+Libya,Africa,2002,5531097
+Libya,Africa,2003,5620545
+Libya,Africa,2004,5710163
+Libya,Africa,2005,5798615
+Libya,Africa,2006,5886874
+Libya,Africa,2007,5974786
+Libya,Africa,2008,6058740
+Libya,Africa,2009,6133987
+Libya,Africa,2010,6197667
+Libya,Africa,2011,6247438
+Libya,Africa,2012,6285751
+Libya,Africa,2013,6320350
+Libya,Africa,2014,6362039
+Libya,Africa,2015,6418315
+Libya,Africa,2016,6492160
+Libya,Africa,2017,6580723
+Libya,Africa,2018,6678565
+Libya,Africa,2019,6777453
+Libya,Africa,2020,6871287
+Liechtenstein,Europe,1990,28790
+Liechtenstein,Europe,1991,29166
+Liechtenstein,Europe,1992,29552
+Liechtenstein,Europe,1993,29987
+Liechtenstein,Europe,1994,30415
+Liechtenstein,Europe,1995,30884
+Liechtenstein,Europe,1996,31354
+Liechtenstein,Europe,1997,31830
+Liechtenstein,Europe,1998,32306
+Liechtenstein,Europe,1999,32765
+Liechtenstein,Europe,2000,33184
+Liechtenstein,Europe,2001,33543
+Liechtenstein,Europe,2002,33885
+Liechtenstein,Europe,2003,34172
+Liechtenstein,Europe,2004,34444
+Liechtenstein,Europe,2005,34718
+Liechtenstein,Europe,2006,34975
+Liechtenstein,Europe,2007,35217
+Liechtenstein,Europe,2008,35469
+Liechtenstein,Europe,2009,35723
+Liechtenstein,Europe,2010,35996
+Liechtenstein,Europe,2011,36299
+Liechtenstein,Europe,2012,36615
+Liechtenstein,Europe,2013,36940
+Liechtenstein,Europe,2014,37219
+Liechtenstein,Europe,2015,37465
+Liechtenstein,Europe,2016,37655
+Liechtenstein,Europe,2017,37805
+Liechtenstein,Europe,2018,37918
+Liechtenstein,Europe,2019,38020
+Liechtenstein,Europe,2020,38137
+Sri Lanka,Asia,1990,17325769
+Sri Lanka,Asia,1991,17535732
+Sri Lanka,Asia,1992,17736827
+Sri Lanka,Asia,1993,17924827
+Sri Lanka,Asia,1994,18094474
+Sri Lanka,Asia,1995,18242917
+Sri Lanka,Asia,1996,18367290
+Sri Lanka,Asia,1997,18470897
+Sri Lanka,Asia,1998,18564595
+Sri Lanka,Asia,1999,18663293
+Sri Lanka,Asia,2000,18777606
+Sri Lanka,Asia,2001,18911727
+Sri Lanka,Asia,2002,19062476
+Sri Lanka,Asia,2003,19224036
+Sri Lanka,Asia,2004,19387153
+Sri Lanka,Asia,2005,19544988
+Sri Lanka,Asia,2006,19695977
+Sri Lanka,Asia,2007,19842044
+Sri Lanka,Asia,2008,19983984
+Sri Lanka,Asia,2009,20123508
+Sri Lanka,Asia,2010,20261738
+Sri Lanka,Asia,2011,20398496
+Sri Lanka,Asia,2012,20425000
+Sri Lanka,Asia,2013,20585000
+Sri Lanka,Asia,2014,20778000
+Sri Lanka,Asia,2015,20970000
+Sri Lanka,Asia,2016,21203000
+Sri Lanka,Asia,2017,21444000
+Sri Lanka,Asia,2018,21670000
+Sri Lanka,Asia,2019,21803000
+Sri Lanka,Asia,2020,21919000
+Lesotho,Africa,1990,1703757
+Lesotho,Africa,1991,1742534
+Lesotho,Africa,1992,1782284
+Lesotho,Africa,1993,1822237
+Lesotho,Africa,1994,1861323
+Lesotho,Africa,1995,1898598
+Lesotho,Africa,1996,1934294
+Lesotho,Africa,1997,1968054
+Lesotho,Africa,1998,1997524
+Lesotho,Africa,1999,2019732
+Lesotho,Africa,2000,2032805
+Lesotho,Africa,2001,2035738
+Lesotho,Africa,2002,2029832
+Lesotho,Africa,2003,2018355
+Lesotho,Africa,2004,2005953
+Lesotho,Africa,2005,1996115
+Lesotho,Africa,2006,1989933
+Lesotho,Africa,2007,1986926
+Lesotho,Africa,2008,1987130
+Lesotho,Africa,2009,1990135
+Lesotho,Africa,2010,1995575
+Lesotho,Africa,2011,2003793
+Lesotho,Africa,2012,2014988
+Lesotho,Africa,2013,2028528
+Lesotho,Africa,2014,2043448
+Lesotho,Africa,2015,2059011
+Lesotho,Africa,2016,2075041
+Lesotho,Africa,2017,2091532
+Lesotho,Africa,2018,2108327
+Lesotho,Africa,2019,2125267
+Lesotho,Africa,2020,2142252
+Lithuania,Europe,1990,3697838
+Lithuania,Europe,1991,3704134
+Lithuania,Europe,1992,3700114
+Lithuania,Europe,1993,3682613
+Lithuania,Europe,1994,3657144
+Lithuania,Europe,1995,3629102
+Lithuania,Europe,1996,3601613
+Lithuania,Europe,1997,3575137
+Lithuania,Europe,1998,3549331
+Lithuania,Europe,1999,3524238
+Lithuania,Europe,2000,3499536
+Lithuania,Europe,2001,3470818
+Lithuania,Europe,2002,3443067
+Lithuania,Europe,2003,3415213
+Lithuania,Europe,2004,3377075
+Lithuania,Europe,2005,3322528
+Lithuania,Europe,2006,3269909
+Lithuania,Europe,2007,3231294
+Lithuania,Europe,2008,3198231
+Lithuania,Europe,2009,3162916
+Lithuania,Europe,2010,3097282
+Lithuania,Europe,2011,3028115
+Lithuania,Europe,2012,2987773
+Lithuania,Europe,2013,2957689
+Lithuania,Europe,2014,2932367
+Lithuania,Europe,2015,2904910
+Lithuania,Europe,2016,2868231
+Lithuania,Europe,2017,2828403
+Lithuania,Europe,2018,2801543
+Lithuania,Europe,2019,2794137
+Lithuania,Europe,2020,2794700
+Luxembourg,Europe,1990,381850
+Luxembourg,Europe,1991,387000
+Luxembourg,Europe,1992,392175
+Luxembourg,Europe,1993,397475
+Luxembourg,Europe,1994,402925
+Luxembourg,Europe,1995,408625
+Luxembourg,Europe,1996,414225
+Luxembourg,Europe,1997,419450
+Luxembourg,Europe,1998,424700
+Luxembourg,Europe,1999,430475
+Luxembourg,Europe,2000,436300
+Luxembourg,Europe,2001,441525
+Luxembourg,Europe,2002,446175
+Luxembourg,Europe,2003,451630
+Luxembourg,Europe,2004,458095
+Luxembourg,Europe,2005,465158
+Luxembourg,Europe,2006,472637
+Luxembourg,Europe,2007,479993
+Luxembourg,Europe,2008,488650
+Luxembourg,Europe,2009,497783
+Luxembourg,Europe,2010,506953
+Luxembourg,Europe,2011,518347
+Luxembourg,Europe,2012,530946
+Luxembourg,Europe,2013,543360
+Luxembourg,Europe,2014,556319
+Luxembourg,Europe,2015,569604
+Luxembourg,Europe,2016,582014
+Luxembourg,Europe,2017,596336
+Luxembourg,Europe,2018,607950
+Luxembourg,Europe,2019,620001
+Luxembourg,Europe,2020,632275
+Latvia,Europe,1990,2663151
+Latvia,Europe,1991,2650581
+Latvia,Europe,1992,2614338
+Latvia,Europe,1993,2563290
+Latvia,Europe,1994,2520742
+Latvia,Europe,1995,2485056
+Latvia,Europe,1996,2457222
+Latvia,Europe,1997,2432851
+Latvia,Europe,1998,2410019
+Latvia,Europe,1999,2390482
+Latvia,Europe,2000,2367550
+Latvia,Europe,2001,2337170
+Latvia,Europe,2002,2310173
+Latvia,Europe,2003,2287955
+Latvia,Europe,2004,2263122
+Latvia,Europe,2005,2238799
+Latvia,Europe,2006,2218357
+Latvia,Europe,2007,2200325
+Latvia,Europe,2008,2177322
+Latvia,Europe,2009,2141669
+Latvia,Europe,2010,2097555
+Latvia,Europe,2011,2059709
+Latvia,Europe,2012,2034319
+Latvia,Europe,2013,2012647
+Latvia,Europe,2014,1993782
+Latvia,Europe,2015,1977527
+Latvia,Europe,2016,1959537
+Latvia,Europe,2017,1942248
+Latvia,Europe,2018,1927174
+Latvia,Europe,2019,1913822
+Latvia,Europe,2020,1901548
+Morocco,Africa,1990,24807461
+Morocco,Africa,1991,25260407
+Morocco,Africa,1992,25711410
+Morocco,Africa,1993,26155204
+Morocco,Africa,1994,26584473
+Morocco,Africa,1995,26994255
+Morocco,Africa,1996,27383472
+Morocco,Africa,1997,27754573
+Morocco,Africa,1998,28110447
+Morocco,Africa,1999,28455504
+Morocco,Africa,2000,28793672
+Morocco,Africa,2001,29126323
+Morocco,Africa,2002,29454765
+Morocco,Africa,2003,29782884
+Morocco,Africa,2004,30115196
+Morocco,Africa,2005,30455563
+Morocco,Africa,2006,30804689
+Morocco,Africa,2007,31163670
+Morocco,Africa,2008,31536807
+Morocco,Africa,2009,31929087
+Morocco,Africa,2010,32343384
+Morocco,Africa,2011,32781860
+Morocco,Africa,2012,33241898
+Morocco,Africa,2013,33715705
+Morocco,Africa,2014,34192358
+Morocco,Africa,2015,34663608
+Morocco,Africa,2016,35126274
+Morocco,Africa,2017,35581257
+Morocco,Africa,2018,36029089
+Morocco,Africa,2019,36471766
+Morocco,Africa,2020,36910558
+Monaco,Europe,1990,29433
+Monaco,Europe,1991,29629
+Monaco,Europe,1992,29859
+Monaco,Europe,1993,30145
+Monaco,Europe,1994,30436
+Monaco,Europe,1995,30731
+Monaco,Europe,1996,31001
+Monaco,Europe,1997,31268
+Monaco,Europe,1998,31554
+Monaco,Europe,1999,31836
+Monaco,Europe,2000,32148
+Monaco,Europe,2001,32474
+Monaco,Europe,2002,32804
+Monaco,Europe,2003,33144
+Monaco,Europe,2004,33499
+Monaco,Europe,2005,33842
+Monaco,Europe,2006,34189
+Monaco,Europe,2007,34524
+Monaco,Europe,2008,34860
+Monaco,Europe,2009,35223
+Monaco,Europe,2010,35609
+Monaco,Europe,2011,36025
+Monaco,Europe,2012,36459
+Monaco,Europe,2013,36899
+Monaco,Europe,2014,37320
+Monaco,Europe,2015,37723
+Monaco,Europe,2016,38070
+Monaco,Europe,2017,38392
+Monaco,Europe,2018,38682
+Monaco,Europe,2019,38967
+Monaco,Europe,2020,39244
+Moldova,Europe,1990,2969097
+Moldova,Europe,1991,2975523
+Moldova,Europe,1992,2977130
+Moldova,Europe,1993,2973114
+Moldova,Europe,1994,2964277
+Moldova,Europe,1995,2952307
+Moldova,Europe,1996,2946401
+Moldova,Europe,1997,2935524
+Moldova,Europe,1998,2934339
+Moldova,Europe,1999,2929735
+Moldova,Europe,2000,2923783
+Moldova,Europe,2001,2917252
+Moldova,Europe,2002,2910504
+Moldova,Europe,2003,2902320
+Moldova,Europe,2004,2895147
+Moldova,Europe,2005,2888111
+Moldova,Europe,2006,2880095
+Moldova,Europe,2007,2873429
+Moldova,Europe,2008,2867964
+Moldova,Europe,2009,2864346
+Moldova,Europe,2010,2861487
+Moldova,Europe,2011,2859833
+Moldova,Europe,2012,2859458
+Moldova,Europe,2013,2858692
+Moldova,Europe,2014,2856950
+Moldova,Europe,2015,2834530
+Moldova,Europe,2016,2802170
+Moldova,Europe,2017,2755158
+Moldova,Europe,2018,2708214
+Moldova,Europe,2019,2663251
+Moldova,Europe,2020,2617820
+Madagascar,Africa,1990,11598647
+Madagascar,Africa,1991,11942809
+Madagascar,Africa,1992,12301338
+Madagascar,Africa,1993,12675469
+Madagascar,Africa,1994,13066544
+Madagascar,Africa,1995,13475403
+Madagascar,Africa,1996,13902697
+Madagascar,Africa,1997,14347860
+Madagascar,Africa,1998,14808791
+Madagascar,Africa,1999,15282524
+Madagascar,Africa,2000,15766806
+Madagascar,Africa,2001,16260933
+Madagascar,Africa,2002,16765122
+Madagascar,Africa,2003,17279139
+Madagascar,Africa,2004,17802992
+Madagascar,Africa,2005,18336722
+Madagascar,Africa,2006,18880265
+Madagascar,Africa,2007,19433520
+Madagascar,Africa,2008,19996476
+Madagascar,Africa,2009,20569115
+Madagascar,Africa,2010,21151640
+Madagascar,Africa,2011,21743970
+Madagascar,Africa,2012,22346641
+Madagascar,Africa,2013,22961259
+Madagascar,Africa,2014,23589897
+Madagascar,Africa,2015,24234080
+Madagascar,Africa,2016,24894370
+Madagascar,Africa,2017,25570511
+Madagascar,Africa,2018,26262313
+Madagascar,Africa,2019,26969306
+Madagascar,Africa,2020,27691019
+Maldives,Asia,1990,223159
+Maldives,Asia,1991,229743
+Maldives,Asia,1992,236271
+Maldives,Asia,1993,242596
+Maldives,Asia,1994,248582
+Maldives,Asia,1995,254144
+Maldives,Asia,1996,259178
+Maldives,Asia,1997,263836
+Maldives,Asia,1998,268445
+Maldives,Asia,1999,273522
+Maldives,Asia,2000,279396
+Maldives,Asia,2001,286309
+Maldives,Asia,2002,294185
+Maldives,Asia,2003,302681
+Maldives,Asia,2004,311265
+Maldives,Asia,2005,319604
+Maldives,Asia,2006,327489
+Maldives,Asia,2007,335172
+Maldives,Asia,2008,343448
+Maldives,Asia,2009,353391
+Maldives,Asia,2010,365730
+Maldives,Asia,2011,380493
+Maldives,Asia,2012,397231
+Maldives,Asia,2013,415592
+Maldives,Asia,2014,435018
+Maldives,Asia,2015,454914
+Maldives,Asia,2016,475505
+Maldives,Asia,2017,496398
+Maldives,Asia,2018,515704
+Maldives,Asia,2019,530957
+Maldives,Asia,2020,540542
+Mexico,America,1990,83943135
+Mexico,America,1991,85512621
+Mexico,America,1992,87075136
+Mexico,America,1993,88625440
+Mexico,America,1994,90156396
+Mexico,America,1995,91663290
+Mexico,America,1996,93147045
+Mexico,America,1997,94611008
+Mexico,America,1998,96056313
+Mexico,America,1999,97484823
+Mexico,America,2000,98899845
+Mexico,America,2001,100298152
+Mexico,America,2002,101684764
+Mexico,America,2003,103081020
+Mexico,America,2004,104514934
+Mexico,America,2005,106005199
+Mexico,America,2006,107560155
+Mexico,America,2007,109170503
+Mexico,America,2008,110815272
+Mexico,America,2009,112463886
+Mexico,America,2010,114092961
+Mexico,America,2011,115695468
+Mexico,America,2012,117274156
+Mexico,America,2013,118827158
+Mexico,America,2014,120355137
+Mexico,America,2015,121858251
+Mexico,America,2016,123333379
+Mexico,America,2017,124777326
+Mexico,America,2018,126190782
+Mexico,America,2019,127575529
+Mexico,America,2020,128932753
+Marshall Islands,Oceania,1990,47265
+Marshall Islands,Oceania,1991,48403
+Marshall Islands,Oceania,1992,49242
+Marshall Islands,Oceania,1993,49828
+Marshall Islands,Oceania,1994,50214
+Marshall Islands,Oceania,1995,50454
+Marshall Islands,Oceania,1996,50523
+Marshall Islands,Oceania,1997,50453
+Marshall Islands,Oceania,1998,50356
+Marshall Islands,Oceania,1999,50418
+Marshall Islands,Oceania,2000,50754
+Marshall Islands,Oceania,2001,51411
+Marshall Islands,Oceania,2002,52368
+Marshall Islands,Oceania,2003,53465
+Marshall Islands,Oceania,2004,54476
+Marshall Islands,Oceania,2005,55257
+Marshall Islands,Oceania,2006,55765
+Marshall Islands,Oceania,2007,56046
+Marshall Islands,Oceania,2008,56166
+Marshall Islands,Oceania,2009,56255
+Marshall Islands,Oceania,2010,56361
+Marshall Islands,Oceania,2011,56524
+Marshall Islands,Oceania,2012,56712
+Marshall Islands,Oceania,2013,56933
+Marshall Islands,Oceania,2014,57183
+Marshall Islands,Oceania,2015,57444
+Marshall Islands,Oceania,2016,57723
+Marshall Islands,Oceania,2017,58053
+Marshall Islands,Oceania,2018,58412
+Marshall Islands,Oceania,2019,58791
+Marshall Islands,Oceania,2020,59194
+North Macedonia,Europe,1990,1996218
+North Macedonia,Europe,1991,1993304
+North Macedonia,Europe,1992,1988659
+North Macedonia,Europe,1993,1984024
+North Macedonia,Europe,1994,1981713
+North Macedonia,Europe,1995,1983259
+North Macedonia,Europe,1996,1989441
+North Macedonia,Europe,1997,1999588
+North Macedonia,Europe,1998,2012052
+North Macedonia,Europe,1999,2024393
+North Macedonia,Europe,2000,2034823
+North Macedonia,Europe,2001,2042844
+North Macedonia,Europe,2002,2048930
+North Macedonia,Europe,2003,2053426
+North Macedonia,Europe,2004,2057044
+North Macedonia,Europe,2005,2060280
+North Macedonia,Europe,2006,2063132
+North Macedonia,Europe,2007,2065408
+North Macedonia,Europe,2008,2067309
+North Macedonia,Europe,2009,2069030
+North Macedonia,Europe,2010,2070737
+North Macedonia,Europe,2011,2072484
+North Macedonia,Europe,2012,2074275
+North Macedonia,Europe,2013,2076065
+North Macedonia,Europe,2014,2077780
+North Macedonia,Europe,2015,2079335
+North Macedonia,Europe,2016,2080746
+North Macedonia,Europe,2017,2081996
+North Macedonia,Europe,2018,2082957
+North Macedonia,Europe,2019,2083458
+North Macedonia,Europe,2020,2083380
+Mali,Africa,1990,8449915
+Mali,Africa,1991,8635528
+Mali,Africa,1992,8850334
+Mali,Africa,1993,9087173
+Mali,Africa,1994,9334893
+Mali,Africa,1995,9585660
+Mali,Africa,1996,9837575
+Mali,Africa,1997,10094363
+Mali,Africa,1998,10360564
+Mali,Africa,1999,10642937
+Mali,Africa,2000,10946448
+Mali,Africa,2001,11271603
+Mali,Africa,2002,11616890
+Mali,Africa,2003,11982692
+Mali,Africa,2004,12369078
+Mali,Africa,2005,12775509
+Mali,Africa,2006,13203378
+Mali,Africa,2007,13651455
+Mali,Africa,2008,14113578
+Mali,Africa,2009,14581427
+Mali,Africa,2010,15049352
+Mali,Africa,2011,15514593
+Mali,Africa,2012,15979492
+Mali,Africa,2013,16449854
+Mali,Africa,2014,16934213
+Mali,Africa,2015,17438772
+Mali,Africa,2016,17965448
+Mali,Africa,2017,18512429
+Mali,Africa,2018,19077755
+Mali,Africa,2019,19658023
+Mali,Africa,2020,20250834
+Malta,Europe,1990,354170
+Malta,Europe,1991,363845
+Malta,Europe,1992,367618
+Malta,Europe,1993,371308
+Malta,Europe,1994,374797
+Malta,Europe,1995,377419
+Malta,Europe,1996,379905
+Malta,Europe,1997,382791
+Malta,Europe,1998,385287
+Malta,Europe,1999,387578
+Malta,Europe,2000,390087
+Malta,Europe,2001,393028
+Malta,Europe,2002,395969
+Malta,Europe,2003,398582
+Malta,Europe,2004,401268
+Malta,Europe,2005,403834
+Malta,Europe,2006,405308
+Malta,Europe,2007,406724
+Malta,Europe,2008,409379
+Malta,Europe,2009,412477
+Malta,Europe,2010,414508
+Malta,Europe,2011,416268
+Malta,Europe,2012,420028
+Malta,Europe,2013,425967
+Malta,Europe,2014,434558
+Malta,Europe,2015,445053
+Malta,Europe,2016,455356
+Malta,Europe,2017,467999
+Malta,Europe,2018,484630
+Malta,Europe,2019,504062
+Malta,Europe,2020,525285
+Myanmar,Asia,1990,41335188
+Myanmar,Asia,1991,41890192
+Myanmar,Asia,1992,42401686
+Myanmar,Asia,1993,42889992
+Myanmar,Asia,1994,43383421
+Myanmar,Asia,1995,43901598
+Myanmar,Asia,1996,44452203
+Myanmar,Asia,1997,45027223
+Myanmar,Asia,1998,45611220
+Myanmar,Asia,1999,46181075
+Myanmar,Asia,2000,46719698
+Myanmar,Asia,2001,47225119
+Myanmar,Asia,2002,47702163
+Myanmar,Asia,2003,48148907
+Myanmar,Asia,2004,48564489
+Myanmar,Asia,2005,48949931
+Myanmar,Asia,2006,49301049
+Myanmar,Asia,2007,49621479
+Myanmar,Asia,2008,49929642
+Myanmar,Asia,2009,50250366
+Myanmar,Asia,2010,50600827
+Myanmar,Asia,2011,50990612
+Myanmar,Asia,2012,51413703
+Myanmar,Asia,2013,51852464
+Myanmar,Asia,2014,52280816
+Myanmar,Asia,2015,52680724
+Myanmar,Asia,2016,53045199
+Myanmar,Asia,2017,53382521
+Myanmar,Asia,2018,53708318
+Myanmar,Asia,2019,54045422
+Myanmar,Asia,2020,54409794
+Montenegro,Europe,1990,606372
+Montenegro,Europe,1991,607105
+Montenegro,Europe,1992,608516
+Montenegro,Europe,1993,610170
+Montenegro,Europe,1994,611389
+Montenegro,Europe,1995,611712
+Montenegro,Europe,1996,611003
+Montenegro,Europe,1997,609520
+Montenegro,Europe,1998,607662
+Montenegro,Europe,1999,606001
+Montenegro,Europe,2000,604950
+Montenegro,Europe,2001,607389
+Montenegro,Europe,2002,609828
+Montenegro,Europe,2003,612267
+Montenegro,Europe,2004,613353
+Montenegro,Europe,2005,614261
+Montenegro,Europe,2006,615025
+Montenegro,Europe,2007,615875
+Montenegro,Europe,2008,616969
+Montenegro,Europe,2009,618294
+Montenegro,Europe,2010,619428
+Montenegro,Europe,2011,620079
+Montenegro,Europe,2012,620601
+Montenegro,Europe,2013,621207
+Montenegro,Europe,2014,621810
+Montenegro,Europe,2015,622159
+Montenegro,Europe,2016,622303
+Montenegro,Europe,2017,622373
+Montenegro,Europe,2018,622227
+Montenegro,Europe,2019,622028
+Montenegro,Europe,2020,621718
+Mongolia,Asia,1990,2184139
+Mongolia,Asia,1991,2217918
+Mongolia,Asia,1992,2243495
+Mongolia,Asia,1993,2263196
+Mongolia,Asia,1994,2280475
+Mongolia,Asia,1995,2298017
+Mongolia,Asia,1996,2316571
+Mongolia,Asia,1997,2335744
+Mongolia,Asia,1998,2355667
+Mongolia,Asia,1999,2376228
+Mongolia,Asia,2000,2397417
+Mongolia,Asia,2001,2419594
+Mongolia,Asia,2002,2443261
+Mongolia,Asia,2003,2468765
+Mongolia,Asia,2004,2496394
+Mongolia,Asia,2005,2526429
+Mongolia,Asia,2006,2558854
+Mongolia,Asia,2007,2593819
+Mongolia,Asia,2008,2631899
+Mongolia,Asia,2009,2673794
+Mongolia,Asia,2010,2719902
+Mongolia,Asia,2011,2770357
+Mongolia,Asia,2012,2824698
+Mongolia,Asia,2013,2881783
+Mongolia,Asia,2014,2940111
+Mongolia,Asia,2015,2998433
+Mongolia,Asia,2016,3056358
+Mongolia,Asia,2017,3113788
+Mongolia,Asia,2018,3170214
+Mongolia,Asia,2019,3225166
+Mongolia,Asia,2020,3278292
+Mozambique,Africa,1990,12987292
+Mozambique,Africa,1991,13328029
+Mozambique,Africa,1992,13805999
+Mozambique,Africa,1993,14370950
+Mozambique,Africa,1994,14948050
+Mozambique,Africa,1995,15483277
+Mozambique,Africa,1996,15960445
+Mozambique,Africa,1997,16397175
+Mozambique,Africa,1998,16813946
+Mozambique,Africa,1999,17244176
+Mozambique,Africa,2000,17711925
+Mozambique,Africa,2001,18221884
+Mozambique,Africa,2002,18764147
+Mozambique,Africa,2003,19331097
+Mozambique,Africa,2004,19910549
+Mozambique,Africa,2005,20493927
+Mozambique,Africa,2006,21080108
+Mozambique,Africa,2007,21673319
+Mozambique,Africa,2008,22276596
+Mozambique,Africa,2009,22894718
+Mozambique,Africa,2010,23531567
+Mozambique,Africa,2011,24187500
+Mozambique,Africa,2012,24862673
+Mozambique,Africa,2013,25560752
+Mozambique,Africa,2014,26286192
+Mozambique,Africa,2015,27042001
+Mozambique,Africa,2016,27829930
+Mozambique,Africa,2017,28649007
+Mozambique,Africa,2018,29496009
+Mozambique,Africa,2019,30366043
+Mozambique,Africa,2020,31255435
+Mauritania,Africa,1990,2034347
+Mauritania,Africa,1991,2087914
+Mauritania,Africa,1992,2142645
+Mauritania,Africa,1993,2198538
+Mauritania,Africa,1994,2255520
+Mauritania,Africa,1995,2313630
+Mauritania,Africa,1996,2372900
+Mauritania,Africa,1997,2433567
+Mauritania,Africa,1998,2496217
+Mauritania,Africa,1999,2561584
+Mauritania,Africa,2000,2630217
+Mauritania,Africa,2001,2702405
+Mauritania,Africa,2002,2778097
+Mauritania,Africa,2003,2857150
+Mauritania,Africa,2004,2939246
+Mauritania,Africa,2005,3024198
+Mauritania,Africa,2006,3111908
+Mauritania,Africa,2007,3202512
+Mauritania,Africa,2008,3296237
+Mauritania,Africa,2009,3393408
+Mauritania,Africa,2010,3494200
+Mauritania,Africa,2011,3598646
+Mauritania,Africa,2012,3706555
+Mauritania,Africa,2013,3817497
+Mauritania,Africa,2014,3930894
+Mauritania,Africa,2015,4046304
+Mauritania,Africa,2016,4163532
+Mauritania,Africa,2017,4282582
+Mauritania,Africa,2018,4403312
+Mauritania,Africa,2019,4525698
+Mauritania,Africa,2020,4649660
+Mauritius,Africa,1990,1058775
+Mauritius,Africa,1991,1070266
+Mauritius,Africa,1992,1084441
+Mauritius,Africa,1993,1097374
+Mauritius,Africa,1994,1112846
+Mauritius,Africa,1995,1122457
+Mauritius,Africa,1996,1133996
+Mauritius,Africa,1997,1148284
+Mauritius,Africa,1998,1160421
+Mauritius,Africa,1999,1175267
+Mauritius,Africa,2000,1186873
+Mauritius,Africa,2001,1196287
+Mauritius,Africa,2002,1204621
+Mauritius,Africa,2003,1213370
+Mauritius,Africa,2004,1221003
+Mauritius,Africa,2005,1228254
+Mauritius,Africa,2006,1233996
+Mauritius,Africa,2007,1239630
+Mauritius,Africa,2008,1244121
+Mauritius,Africa,2009,1247429
+Mauritius,Africa,2010,1250400
+Mauritius,Africa,2011,1252404
+Mauritius,Africa,2012,1255882
+Mauritius,Africa,2013,1258653
+Mauritius,Africa,2014,1260934
+Mauritius,Africa,2015,1262605
+Mauritius,Africa,2016,1263473
+Mauritius,Africa,2017,1264613
+Mauritius,Africa,2018,1265303
+Mauritius,Africa,2019,1265711
+Mauritius,Africa,2020,1265740
+Malawi,Africa,1990,9404499
+Malawi,Africa,1991,9600361
+Malawi,Africa,1992,9685974
+Malawi,Africa,1993,9710335
+Malawi,Africa,1994,9745695
+Malawi,Africa,1995,9844418
+Malawi,Africa,1996,10022783
+Malawi,Africa,1997,10264906
+Malawi,Africa,1998,10552345
+Malawi,Africa,1999,10854325
+Malawi,Africa,2000,11148751
+Malawi,Africa,2001,11432001
+Malawi,Africa,2002,11713663
+Malawi,Africa,2003,12000183
+Malawi,Africa,2004,12301837
+Malawi,Africa,2005,12625950
+Malawi,Africa,2006,12973693
+Malawi,Africa,2007,13341808
+Malawi,Africa,2008,13727899
+Malawi,Africa,2009,14128161
+Malawi,Africa,2010,14539609
+Malawi,Africa,2011,14962118
+Malawi,Africa,2012,15396010
+Malawi,Africa,2013,15839287
+Malawi,Africa,2014,16289550
+Malawi,Africa,2015,16745305
+Malawi,Africa,2016,17205253
+Malawi,Africa,2017,17670193
+Malawi,Africa,2018,18143215
+Malawi,Africa,2019,18628749
+Malawi,Africa,2020,19129955
+Malaysia,Asia,1990,18029824
+Malaysia,Asia,1991,18519941
+Malaysia,Asia,1992,19002660
+Malaysia,Asia,1993,19484901
+Malaysia,Asia,1994,19977508
+Malaysia,Asia,1995,20487604
+Malaysia,Asia,1996,21017619
+Malaysia,Asia,1997,21562790
+Malaysia,Asia,1998,22114647
+Malaysia,Asia,1999,22661293
+Malaysia,Asia,2000,23194252
+Malaysia,Asia,2001,23709115
+Malaysia,Asia,2002,24208391
+Malaysia,Asia,2003,24698821
+Malaysia,Asia,2004,25190647
+Malaysia,Asia,2005,25690615
+Malaysia,Asia,2006,26201954
+Malaysia,Asia,2007,26720367
+Malaysia,Asia,2008,27236003
+Malaysia,Asia,2009,27735038
+Malaysia,Asia,2010,28208028
+Malaysia,Asia,2011,28650962
+Malaysia,Asia,2012,29068189
+Malaysia,Asia,2013,29468923
+Malaysia,Asia,2014,29866606
+Malaysia,Asia,2015,30270965
+Malaysia,Asia,2016,30684652
+Malaysia,Asia,2017,31104655
+Malaysia,Asia,2018,31528033
+Malaysia,Asia,2019,31949789
+Malaysia,Asia,2020,32365998
+Namibia,Africa,1990,1432899
+Namibia,Africa,1991,1476399
+Namibia,Africa,1992,1516951
+Namibia,Africa,1993,1555098
+Namibia,Africa,1994,1591826
+Namibia,Africa,1995,1627866
+Namibia,Africa,1996,1663378
+Namibia,Africa,1997,1698029
+Namibia,Africa,1998,1731635
+Namibia,Africa,1999,1763861
+Namibia,Africa,2000,1794583
+Namibia,Africa,2001,1823667
+Namibia,Africa,2002,1851519
+Namibia,Africa,2003,1879113
+Namibia,Africa,2004,1907737
+Namibia,Africa,2005,1938316
+Namibia,Africa,2006,1971318
+Namibia,Africa,2007,2006516
+Namibia,Africa,2008,2043382
+Namibia,Africa,2009,2081039
+Namibia,Africa,2010,2118877
+Namibia,Africa,2011,2156698
+Namibia,Africa,2012,2194777
+Namibia,Africa,2013,2233506
+Namibia,Africa,2014,2273426
+Namibia,Africa,2015,2314901
+Namibia,Africa,2016,2358044
+Namibia,Africa,2017,2402623
+Namibia,Africa,2018,2448300
+Namibia,Africa,2019,2494524
+Namibia,Africa,2020,2540916
+Niger,Africa,1990,8026592
+Niger,Africa,1991,8288739
+Niger,Africa,1992,8566773
+Niger,Africa,1993,8860297
+Niger,Africa,1994,9168316
+Niger,Africa,1995,9490289
+Niger,Africa,1996,9826600
+Niger,Africa,1997,10178196
+Niger,Africa,1998,10545720
+Niger,Africa,1999,10929922
+Niger,Africa,2000,11331561
+Niger,Africa,2001,11751364
+Niger,Africa,2002,12189988
+Niger,Africa,2003,12647983
+Niger,Africa,2004,13125914
+Niger,Africa,2005,13624474
+Niger,Africa,2006,14143969
+Niger,Africa,2007,14685404
+Niger,Africa,2008,15250913
+Niger,Africa,2009,15843131
+Niger,Africa,2010,16464025
+Niger,Africa,2011,17114770
+Niger,Africa,2012,17795209
+Niger,Africa,2013,18504287
+Niger,Africa,2014,19240182
+Niger,Africa,2015,20001663
+Niger,Africa,2016,20788789
+Niger,Africa,2017,21602388
+Niger,Africa,2018,22442831
+Niger,Africa,2019,23310719
+Niger,Africa,2020,24206636
+Nigeria,Africa,1990,95212454
+Nigeria,Africa,1991,97667632
+Nigeria,Africa,1992,100161708
+Nigeria,Africa,1993,102700751
+Nigeria,Africa,1994,105293701
+Nigeria,Africa,1995,107948339
+Nigeria,Africa,1996,110668784
+Nigeria,Africa,1997,113457661
+Nigeria,Africa,1998,116319763
+Nigeria,Africa,1999,119260055
+Nigeria,Africa,2000,122283853
+Nigeria,Africa,2001,125394046
+Nigeria,Africa,2002,128596079
+Nigeria,Africa,2003,131900634
+Nigeria,Africa,2004,135320420
+Nigeria,Africa,2005,138865014
+Nigeria,Africa,2006,142538305
+Nigeria,Africa,2007,146339971
+Nigeria,Africa,2008,150269622
+Nigeria,Africa,2009,154324939
+Nigeria,Africa,2010,158503203
+Nigeria,Africa,2011,162805080
+Nigeria,Africa,2012,167228803
+Nigeria,Africa,2013,171765819
+Nigeria,Africa,2014,176404931
+Nigeria,Africa,2015,181137454
+Nigeria,Africa,2016,185960244
+Nigeria,Africa,2017,190873247
+Nigeria,Africa,2018,195874685
+Nigeria,Africa,2019,200963603
+Nigeria,Africa,2020,206139587
+Nicaragua,America,1990,4173435
+Nicaragua,America,1991,4267570
+Nicaragua,America,1992,4364514
+Nicaragua,America,1993,4462496
+Nicaragua,America,1994,4559010
+Nicaragua,America,1995,4652185
+Nicaragua,America,1996,4741571
+Nicaragua,America,1997,4827658
+Nicaragua,America,1998,4910642
+Nicaragua,America,1999,4991041
+Nicaragua,America,2000,5069310
+Nicaragua,America,2001,5145367
+Nicaragua,America,2002,5219324
+Nicaragua,America,2003,5292115
+Nicaragua,America,2004,5364930
+Nicaragua,America,2005,5438692
+Nicaragua,America,2006,5513757
+Nicaragua,America,2007,5590066
+Nicaragua,America,2008,5667436
+Nicaragua,America,2009,5745538
+Nicaragua,America,2010,5824058
+Nicaragua,America,2011,5903035
+Nicaragua,America,2012,5982530
+Nicaragua,America,2013,6062462
+Nicaragua,America,2014,6142734
+Nicaragua,America,2015,6223234
+Nicaragua,America,2016,6303970
+Nicaragua,America,2017,6384843
+Nicaragua,America,2018,6465502
+Nicaragua,America,2019,6545503
+Nicaragua,America,2020,6624554
+Netherlands,Europe,1990,14951510
+Netherlands,Europe,1991,15069798
+Netherlands,Europe,1992,15184166
+Netherlands,Europe,1993,15290368
+Netherlands,Europe,1994,15382838
+Netherlands,Europe,1995,15459006
+Netherlands,Europe,1996,15530498
+Netherlands,Europe,1997,15610650
+Netherlands,Europe,1998,15707209
+Netherlands,Europe,1999,15812088
+Netherlands,Europe,2000,15925513
+Netherlands,Europe,2001,16046180
+Netherlands,Europe,2002,16148929
+Netherlands,Europe,2003,16225302
+Netherlands,Europe,2004,16281779
+Netherlands,Europe,2005,16319868
+Netherlands,Europe,2006,16346101
+Netherlands,Europe,2007,16381696
+Netherlands,Europe,2008,16445593
+Netherlands,Europe,2009,16530388
+Netherlands,Europe,2010,16615394
+Netherlands,Europe,2011,16693074
+Netherlands,Europe,2012,16754962
+Netherlands,Europe,2013,16804432
+Netherlands,Europe,2014,16865008
+Netherlands,Europe,2015,16939923
+Netherlands,Europe,2016,17030314
+Netherlands,Europe,2017,17131296
+Netherlands,Europe,2018,17231624
+Netherlands,Europe,2019,17344874
+Netherlands,Europe,2020,17441139
+Norway,Europe,1990,4241473
+Norway,Europe,1991,4261732
+Norway,Europe,1992,4286401
+Norway,Europe,1993,4311991
+Norway,Europe,1994,4336613
+Norway,Europe,1995,4359184
+Norway,Europe,1996,4381336
+Norway,Europe,1997,4405157
+Norway,Europe,1998,4431464
+Norway,Europe,1999,4461913
+Norway,Europe,2000,4490967
+Norway,Europe,2001,4513751
+Norway,Europe,2002,4538159
+Norway,Europe,2003,4564855
+Norway,Europe,2004,4591910
+Norway,Europe,2005,4623291
+Norway,Europe,2006,4660677
+Norway,Europe,2007,4709153
+Norway,Europe,2008,4768212
+Norway,Europe,2009,4828726
+Norway,Europe,2010,4889252
+Norway,Europe,2011,4953088
+Norway,Europe,2012,5018573
+Norway,Europe,2013,5079623
+Norway,Europe,2014,5137232
+Norway,Europe,2015,5188607
+Norway,Europe,2016,5234519
+Norway,Europe,2017,5276968
+Norway,Europe,2018,5311916
+Norway,Europe,2019,5347896
+Norway,Europe,2020,5379475
+Nepal,Asia,1990,18905480
+Nepal,Asia,1991,19405506
+Nepal,Asia,1992,19938322
+Nepal,Asia,1993,20489973
+Nepal,Asia,1994,21040899
+Nepal,Asia,1995,21576074
+Nepal,Asia,1996,22090352
+Nepal,Asia,1997,22584772
+Nepal,Asia,1998,23057875
+Nepal,Asia,1999,23509971
+Nepal,Asia,2000,23941099
+Nepal,Asia,2001,24347113
+Nepal,Asia,2002,24725625
+Nepal,Asia,2003,25080880
+Nepal,Asia,2004,25419337
+Nepal,Asia,2005,25744500
+Nepal,Asia,2006,26066687
+Nepal,Asia,2007,26382586
+Nepal,Asia,2008,26666581
+Nepal,Asia,2009,26883531
+Nepal,Asia,2010,27013207
+Nepal,Asia,2011,27041220
+Nepal,Asia,2012,26989160
+Nepal,Asia,2013,26916795
+Nepal,Asia,2014,26905982
+Nepal,Asia,2015,27015033
+Nepal,Asia,2016,27263430
+Nepal,Asia,2017,27632682
+Nepal,Asia,2018,28095712
+Nepal,Asia,2019,28608715
+Nepal,Asia,2020,29136808
+Nauru,Oceania,1990,9506
+Nauru,Oceania,1991,9766
+Nauru,Oceania,1992,10030
+Nauru,Oceania,1993,10287
+Nauru,Oceania,1994,10496
+Nauru,Oceania,1995,10626
+Nauru,Oceania,1996,10677
+Nauru,Oceania,1997,10643
+Nauru,Oceania,1998,10567
+Nauru,Oceania,1999,10449
+Nauru,Oceania,2000,10335
+Nauru,Oceania,2001,10219
+Nauru,Oceania,2002,10102
+Nauru,Oceania,2003,9990
+Nauru,Oceania,2004,9906
+Nauru,Oceania,2005,9848
+Nauru,Oceania,2006,9827
+Nauru,Oceania,2007,9846
+Nauru,Oceania,2008,9880
+Nauru,Oceania,2009,9945
+Nauru,Oceania,2010,10009
+Nauru,Oceania,2011,10069
+Nauru,Oceania,2012,10136
+Nauru,Oceania,2013,10208
+Nauru,Oceania,2014,10289
+Nauru,Oceania,2015,10374
+Nauru,Oceania,2016,10474
+Nauru,Oceania,2017,10577
+Nauru,Oceania,2018,10678
+Nauru,Oceania,2019,10764
+Nauru,Oceania,2020,10834
+New Zealand,Oceania,1990,3329800
+New Zealand,Oceania,1991,3495100
+New Zealand,Oceania,1992,3531700
+New Zealand,Oceania,1993,3572200
+New Zealand,Oceania,1994,3620000
+New Zealand,Oceania,1995,3673400
+New Zealand,Oceania,1996,3732000
+New Zealand,Oceania,1997,3781300
+New Zealand,Oceania,1998,3815000
+New Zealand,Oceania,1999,3835100
+New Zealand,Oceania,2000,3857700
+New Zealand,Oceania,2001,3880500
+New Zealand,Oceania,2002,3948500
+New Zealand,Oceania,2003,4027200
+New Zealand,Oceania,2004,4087500
+New Zealand,Oceania,2005,4133900
+New Zealand,Oceania,2006,4184600
+New Zealand,Oceania,2007,4223800
+New Zealand,Oceania,2008,4259800
+New Zealand,Oceania,2009,4302600
+New Zealand,Oceania,2010,4350700
+New Zealand,Oceania,2011,4384000
+New Zealand,Oceania,2012,4408100
+New Zealand,Oceania,2013,4442100
+New Zealand,Oceania,2014,4516500
+New Zealand,Oceania,2015,4609400
+New Zealand,Oceania,2016,4714100
+New Zealand,Oceania,2017,4813600
+New Zealand,Oceania,2018,4900600
+New Zealand,Oceania,2019,4979300
+New Zealand,Oceania,2020,5084300
+Oman,Asia,1990,1812158
+Oman,Asia,1991,1893761
+Oman,Asia,1992,1983272
+Oman,Asia,1993,2072106
+Oman,Asia,1994,2148416
+Oman,Asia,1995,2204267
+Oman,Asia,1996,2236652
+Oman,Asia,1997,2249759
+Oman,Asia,1998,2251859
+Oman,Asia,1999,2254898
+Oman,Asia,2000,2267973
+Oman,Asia,2001,2294959
+Oman,Asia,2002,2334860
+Oman,Asia,2003,2386164
+Oman,Asia,2004,2445524
+Oman,Asia,2005,2511254
+Oman,Asia,2006,2580753
+Oman,Asia,2007,2657162
+Oman,Asia,2008,2750956
+Oman,Asia,2009,2876186
+Oman,Asia,2010,3041435
+Oman,Asia,2011,3251102
+Oman,Asia,2012,3498031
+Oman,Asia,2013,3764805
+Oman,Asia,2014,4027255
+Oman,Asia,2015,4267341
+Oman,Asia,2016,4479217
+Oman,Asia,2017,4665926
+Oman,Asia,2018,4829476
+Oman,Asia,2019,4974992
+Oman,Asia,2020,5106622
+Pakistan,Asia,1990,107647918
+Pakistan,Asia,1991,110778655
+Pakistan,Asia,1992,113911126
+Pakistan,Asia,1993,117086680
+Pakistan,Asia,1994,120362764
+Pakistan,Asia,1995,123776835
+Pakistan,Asia,1996,127349293
+Pakistan,Asia,1997,131057432
+Pakistan,Asia,1998,134843233
+Pakistan,Asia,1999,138624625
+Pakistan,Asia,2000,142343583
+Pakistan,Asia,2001,145978408
+Pakistan,Asia,2002,149549695
+Pakistan,Asia,2003,153093371
+Pakistan,Asia,2004,156664698
+Pakistan,Asia,2005,160304007
+Pakistan,Asia,2006,164022626
+Pakistan,Asia,2007,167808106
+Pakistan,Asia,2008,171648984
+Pakistan,Asia,2009,175525610
+Pakistan,Asia,2010,179424643
+Pakistan,Asia,2011,183340168
+Pakistan,Asia,2012,187280125
+Pakistan,Asia,2013,191260799
+Pakistan,Asia,2014,195305012
+Pakistan,Asia,2015,199426953
+Pakistan,Asia,2016,203631356
+Pakistan,Asia,2017,207906210
+Pakistan,Asia,2018,212228288
+Pakistan,Asia,2019,216565317
+Pakistan,Asia,2020,220892331
+Panama,America,1990,2470946
+Panama,America,1991,2523115
+Panama,America,1992,2575949
+Panama,America,1993,2629584
+Panama,America,1994,2684117
+Panama,America,1995,2739667
+Panama,America,1996,2796291
+Panama,America,1997,2853907
+Panama,America,1998,2912318
+Panama,America,1999,2971197
+Panama,America,2000,3030333
+Panama,America,2001,3089641
+Panama,America,2002,3149195
+Panama,America,2003,3209056
+Panama,America,2004,3269356
+Panama,America,2005,3330222
+Panama,America,2006,3391673
+Panama,America,2007,3453671
+Panama,America,2008,3516204
+Panama,America,2009,3579215
+Panama,America,2010,3642691
+Panama,America,2011,3706479
+Panama,America,2012,3770635
+Panama,America,2013,3835447
+Panama,America,2014,3901311
+Panama,America,2015,3968490
+Panama,America,2016,4037073
+Panama,America,2017,4106764
+Panama,America,2018,4176868
+Panama,America,2019,4246440
+Panama,America,2020,4314768
+Peru,America,1990,22071433
+Peru,America,1991,22522383
+Peru,America,1992,22966822
+Peru,America,1993,23408135
+Peru,America,1994,23851405
+Peru,America,1995,24299168
+Peru,America,1996,24753825
+Peru,America,1997,25210957
+Peru,America,1998,25658070
+Peru,America,1999,26078295
+Peru,America,2000,26459944
+Peru,America,2001,26799289
+Peru,America,2002,27100964
+Peru,America,2003,27372217
+Peru,America,2004,27624226
+Peru,America,2005,27866140
+Peru,America,2006,28102055
+Peru,America,2007,28333050
+Peru,America,2008,28562321
+Peru,America,2009,28792663
+Peru,America,2010,29027680
+Peru,America,2011,29264314
+Peru,America,2012,29506790
+Peru,America,2013,29773986
+Peru,America,2014,30090372
+Peru,America,2015,30470739
+Peru,America,2016,30926036
+Peru,America,2017,31444299
+Peru,America,2018,31989265
+Peru,America,2019,32510462
+Peru,America,2020,32971846
+Philippines,Asia,1990,61895169
+Philippines,Asia,1991,63454785
+Philippines,Asia,1992,65020124
+Philippines,Asia,1993,66593904
+Philippines,Asia,1994,68180846
+Philippines,Asia,1995,69784087
+Philippines,Asia,1996,71401743
+Philippines,Asia,1997,73030879
+Philippines,Asia,1998,74672009
+Philippines,Asia,1999,76325927
+Philippines,Asia,2000,77991757
+Philippines,Asia,2001,79672869
+Philippines,Asia,2002,81365260
+Philippines,Asia,2003,83051970
+Philippines,Asia,2004,84710544
+Philippines,Asia,2005,86326251
+Philippines,Asia,2006,87888675
+Philippines,Asia,2007,89405482
+Philippines,Asia,2008,90901967
+Philippines,Asia,2009,92414161
+Philippines,Asia,2010,93966784
+Philippines,Asia,2011,95570049
+Philippines,Asia,2012,97212639
+Philippines,Asia,2013,98871558
+Philippines,Asia,2014,100513137
+Philippines,Asia,2015,102113206
+Philippines,Asia,2016,103663812
+Philippines,Asia,2017,105172921
+Philippines,Asia,2018,106651394
+Philippines,Asia,2019,108116622
+Philippines,Asia,2020,109581085
+Palau,Oceania,1990,15063
+Palau,Oceania,1991,15442
+Palau,Oceania,1992,15859
+Palau,Oceania,1993,16285
+Palau,Oceania,1994,16735
+Palau,Oceania,1995,17158
+Palau,Oceania,1996,17599
+Palau,Oceania,1997,18016
+Palau,Oceania,1998,18409
+Palau,Oceania,1999,18773
+Palau,Oceania,2000,19104
+Palau,Oceania,2001,19390
+Palau,Oceania,2002,19642
+Palau,Oceania,2003,19812
+Palau,Oceania,2004,19861
+Palau,Oceania,2005,19784
+Palau,Oceania,2006,19545
+Palau,Oceania,2007,19159
+Palau,Oceania,2008,18708
+Palau,Oceania,2009,18290
+Palau,Oceania,2010,17954
+Palau,Oceania,2011,17748
+Palau,Oceania,2012,17635
+Palau,Oceania,2013,17603
+Palau,Oceania,2014,17625
+Palau,Oceania,2015,17665
+Palau,Oceania,2016,17718
+Palau,Oceania,2017,17809
+Palau,Oceania,2018,17911
+Palau,Oceania,2019,18001
+Palau,Oceania,2020,18092
+Papua New Guinea,Oceania,1990,4615843
+Papua New Guinea,Oceania,1991,4725543
+Papua New Guinea,Oceania,1992,4836216
+Papua New Guinea,Oceania,1993,4949053
+Papua New Guinea,Oceania,1994,5065664
+Papua New Guinea,Oceania,1995,5187063
+Papua New Guinea,Oceania,1996,5314258
+Papua New Guinea,Oceania,1997,5446633
+Papua New Guinea,Oceania,1998,5581767
+Papua New Guinea,Oceania,1999,5716166
+Papua New Guinea,Oceania,2000,5847590
+Papua New Guinea,Oceania,2001,5974627
+Papua New Guinea,Oceania,2002,6098621
+Papua New Guinea,Oceania,2003,6223378
+Papua New Guinea,Oceania,2004,6354247
+Papua New Guinea,Oceania,2005,6494902
+Papua New Guinea,Oceania,2006,6646891
+Papua New Guinea,Oceania,2007,6808503
+Papua New Guinea,Oceania,2008,6976200
+Papua New Guinea,Oceania,2009,7144774
+Papua New Guinea,Oceania,2010,7310512
+Papua New Guinea,Oceania,2011,7472196
+Papua New Guinea,Oceania,2012,7631003
+Papua New Guinea,Oceania,2013,7788388
+Papua New Guinea,Oceania,2014,7946733
+Papua New Guinea,Oceania,2015,8107772
+Papua New Guinea,Oceania,2016,8271766
+Papua New Guinea,Oceania,2017,8438038
+Papua New Guinea,Oceania,2018,8606324
+Papua New Guinea,Oceania,2019,8776119
+Papua New Guinea,Oceania,2020,8947027
+Poland,Europe,1990,38110782
+Poland,Europe,1991,38246193
+Poland,Europe,1992,38363667
+Poland,Europe,1993,38461408
+Poland,Europe,1994,38542652
+Poland,Europe,1995,38594998
+Poland,Europe,1996,38624370
+Poland,Europe,1997,38649660
+Poland,Europe,1998,38663481
+Poland,Europe,1999,38660271
+Poland,Europe,2000,38258629
+Poland,Europe,2001,38248076
+Poland,Europe,2002,38230364
+Poland,Europe,2003,38204570
+Poland,Europe,2004,38182222
+Poland,Europe,2005,38165445
+Poland,Europe,2006,38141267
+Poland,Europe,2007,38120560
+Poland,Europe,2008,38125759
+Poland,Europe,2009,38151603
+Poland,Europe,2010,38042794
+Poland,Europe,2011,38063255
+Poland,Europe,2012,38063164
+Poland,Europe,2013,38040196
+Poland,Europe,2014,38011735
+Poland,Europe,2015,37986412
+Poland,Europe,2016,37970087
+Poland,Europe,2017,37974826
+Poland,Europe,2018,37974750
+Poland,Europe,2019,37965475
+Poland,Europe,2020,37950802
+"Korea, Dem. People's Rep.",Asia,1990,20293057
+"Korea, Dem. People's Rep.",Asia,1991,20609151
+"Korea, Dem. People's Rep.",Asia,1992,20937407
+"Korea, Dem. People's Rep.",Asia,1993,21265832
+"Korea, Dem. People's Rep.",Asia,1994,21577979
+"Korea, Dem. People's Rep.",Asia,1995,21862300
+"Korea, Dem. People's Rep.",Asia,1996,22113428
+"Korea, Dem. People's Rep.",Asia,1997,22335263
+"Korea, Dem. People's Rep.",Asia,1998,22536754
+"Korea, Dem. People's Rep.",Asia,1999,22731470
+"Korea, Dem. People's Rep.",Asia,2000,22929078
+"Korea, Dem. People's Rep.",Asia,2001,23132982
+"Korea, Dem. People's Rep.",Asia,2002,23339453
+"Korea, Dem. People's Rep.",Asia,2003,23542434
+"Korea, Dem. People's Rep.",Asia,2004,23732740
+"Korea, Dem. People's Rep.",Asia,2005,23904167
+"Korea, Dem. People's Rep.",Asia,2006,24054866
+"Korea, Dem. People's Rep.",Asia,2007,24188330
+"Korea, Dem. People's Rep.",Asia,2008,24310143
+"Korea, Dem. People's Rep.",Asia,2009,24428340
+"Korea, Dem. People's Rep.",Asia,2010,24548840
+"Korea, Dem. People's Rep.",Asia,2011,24673392
+"Korea, Dem. People's Rep.",Asia,2012,24800638
+"Korea, Dem. People's Rep.",Asia,2013,24929500
+"Korea, Dem. People's Rep.",Asia,2014,25057793
+"Korea, Dem. People's Rep.",Asia,2015,25183832
+"Korea, Dem. People's Rep.",Asia,2016,25307665
+"Korea, Dem. People's Rep.",Asia,2017,25429816
+"Korea, Dem. People's Rep.",Asia,2018,25549606
+"Korea, Dem. People's Rep.",Asia,2019,25666158
+"Korea, Dem. People's Rep.",Asia,2020,25778815
+Portugal,Europe,1990,9983218
+Portugal,Europe,1991,9960235
+Portugal,Europe,1992,9952494
+Portugal,Europe,1993,9964675
+Portugal,Europe,1994,9991525
+Portugal,Europe,1995,10026176
+Portugal,Europe,1996,10063945
+Portugal,Europe,1997,10108977
+Portugal,Europe,1998,10160196
+Portugal,Europe,1999,10217828
+Portugal,Europe,2000,10289898
+Portugal,Europe,2001,10362722
+Portugal,Europe,2002,10419631
+Portugal,Europe,2003,10458821
+Portugal,Europe,2004,10483861
+Portugal,Europe,2005,10503330
+Portugal,Europe,2006,10522288
+Portugal,Europe,2007,10542964
+Portugal,Europe,2008,10558177
+Portugal,Europe,2009,10568247
+Portugal,Europe,2010,10573100
+Portugal,Europe,2011,10557560
+Portugal,Europe,2012,10514844
+Portugal,Europe,2013,10457295
+Portugal,Europe,2014,10401062
+Portugal,Europe,2015,10358076
+Portugal,Europe,2016,10325452
+Portugal,Europe,2017,10300300
+Portugal,Europe,2018,10283822
+Portugal,Europe,2019,10286263
+Portugal,Europe,2020,10305564
+Paraguay,America,1990,4223413
+Paraguay,America,1991,4334348
+Paraguay,America,1992,4445019
+Paraguay,America,1993,4555518
+Paraguay,America,1994,4666096
+Paraguay,America,1995,4776838
+Paraguay,America,1996,4887638
+Paraguay,America,1997,4998096
+Paraguay,America,1998,5107840
+Paraguay,America,1999,5216346
+Paraguay,America,2000,5323202
+Paraguay,America,2001,5428442
+Paraguay,America,2002,5531958
+Paraguay,America,2003,5632983
+Paraguay,America,2004,5730556
+Paraguay,America,2005,5824095
+Paraguay,America,2006,5913212
+Paraguay,America,2007,5998430
+Paraguay,America,2008,6081296
+Paraguay,America,2009,6163970
+Paraguay,America,2010,6248017
+Paraguay,America,2011,6333981
+Paraguay,America,2012,6421510
+Paraguay,America,2013,6510273
+Paraguay,America,2014,6599524
+Paraguay,America,2015,6688746
+Paraguay,America,2016,6777878
+Paraguay,America,2017,6867058
+Paraguay,America,2018,6956069
+Paraguay,America,2019,7044639
+Paraguay,America,2020,7132530
+Qatar,Asia,1990,476275
+Qatar,Asia,1991,487354
+Qatar,Asia,1992,495403
+Qatar,Asia,1993,501479
+Qatar,Asia,1994,507044
+Qatar,Asia,1995,513447
+Qatar,Asia,1996,522531
+Qatar,Asia,1997,535320
+Qatar,Asia,1998,551566
+Qatar,Asia,1999,570486
+Qatar,Asia,2000,592467
+Qatar,Asia,2001,615013
+Qatar,Asia,2002,640872
+Qatar,Asia,2003,681791
+Qatar,Asia,2004,753332
+Qatar,Asia,2005,865410
+Qatar,Asia,2006,1022704
+Qatar,Asia,2007,1218441
+Qatar,Asia,2008,1436670
+Qatar,Asia,2009,1654944
+Qatar,Asia,2010,1856329
+Qatar,Asia,2011,2035862
+Qatar,Asia,2012,2196078
+Qatar,Asia,2013,2336579
+Qatar,Asia,2014,2459202
+Qatar,Asia,2015,2565708
+Qatar,Asia,2016,2654379
+Qatar,Asia,2017,2724727
+Qatar,Asia,2018,2781682
+Qatar,Asia,2019,2832071
+Qatar,Asia,2020,2881060
+Romania,Europe,1990,23201835
+Romania,Europe,1991,23001155
+Romania,Europe,1992,22794284
+Romania,Europe,1993,22763280
+Romania,Europe,1994,22730211
+Romania,Europe,1995,22684270
+Romania,Europe,1996,22619004
+Romania,Europe,1997,22553978
+Romania,Europe,1998,22507344
+Romania,Europe,1999,22472040
+Romania,Europe,2000,22442971
+Romania,Europe,2001,22131970
+Romania,Europe,2002,21730496
+Romania,Europe,2003,21574326
+Romania,Europe,2004,21451748
+Romania,Europe,2005,21319685
+Romania,Europe,2006,21193760
+Romania,Europe,2007,20882982
+Romania,Europe,2008,20537875
+Romania,Europe,2009,20367487
+Romania,Europe,2010,20246871
+Romania,Europe,2011,20147528
+Romania,Europe,2012,20058035
+Romania,Europe,2013,19983693
+Romania,Europe,2014,19908979
+Romania,Europe,2015,19815616
+Romania,Europe,2016,19702267
+Romania,Europe,2017,19588715
+Romania,Europe,2018,19473970
+Romania,Europe,2019,19371648
+Romania,Europe,2020,19286123
+Russian Federation,Europe,1990,147969407
+Russian Federation,Europe,1991,148394216
+Russian Federation,Europe,1992,148538197
+Russian Federation,Europe,1993,148458777
+Russian Federation,Europe,1994,148407912
+Russian Federation,Europe,1995,148375787
+Russian Federation,Europe,1996,148160129
+Russian Federation,Europe,1997,147915361
+Russian Federation,Europe,1998,147670784
+Russian Federation,Europe,1999,147214776
+Russian Federation,Europe,2000,146596869
+Russian Federation,Europe,2001,145976482
+Russian Federation,Europe,2002,145306497
+Russian Federation,Europe,2003,144648618
+Russian Federation,Europe,2004,144067316
+Russian Federation,Europe,2005,143518814
+Russian Federation,Europe,2006,143049637
+Russian Federation,Europe,2007,142805114
+Russian Federation,Europe,2008,142742366
+Russian Federation,Europe,2009,142785349
+Russian Federation,Europe,2010,142849468
+Russian Federation,Europe,2011,142960908
+Russian Federation,Europe,2012,143201721
+Russian Federation,Europe,2013,143506995
+Russian Federation,Europe,2014,143819667
+Russian Federation,Europe,2015,144096870
+Russian Federation,Europe,2016,144342397
+Russian Federation,Europe,2017,144496739
+Russian Federation,Europe,2018,144477859
+Russian Federation,Europe,2019,144406261
+Russian Federation,Europe,2020,144104080
+Rwanda,Africa,1990,7288883
+Rwanda,Africa,1991,7083928
+Rwanda,Africa,1992,6702239
+Rwanda,Africa,1993,6263758
+Rwanda,Africa,1994,5936253
+Rwanda,Africa,1995,5836490
+Rwanda,Africa,1996,6013112
+Rwanda,Africa,1997,6419898
+Rwanda,Africa,1998,6962800
+Rwanda,Africa,1999,7501238
+Rwanda,Africa,2000,7933688
+Rwanda,Africa,2001,8231150
+Rwanda,Africa,2002,8427061
+Rwanda,Africa,2003,8557160
+Rwanda,Africa,2004,8680516
+Rwanda,Africa,2005,8840220
+Rwanda,Africa,2006,9043342
+Rwanda,Africa,2007,9273759
+Rwanda,Africa,2008,9524532
+Rwanda,Africa,2009,9782770
+Rwanda,Africa,2010,10039338
+Rwanda,Africa,2011,10293333
+Rwanda,Africa,2012,10549668
+Rwanda,Africa,2013,10811538
+Rwanda,Africa,2014,11083629
+Rwanda,Africa,2015,11369066
+Rwanda,Africa,2016,11668829
+Rwanda,Africa,2017,11980960
+Rwanda,Africa,2018,12301969
+Rwanda,Africa,2019,12626938
+Rwanda,Africa,2020,12952209
+Saudi Arabia,Asia,1990,16233786
+Saudi Arabia,Asia,1991,16772695
+Saudi Arabia,Asia,1992,17282686
+Saudi Arabia,Asia,1993,17763297
+Saudi Arabia,Asia,1994,18214475
+Saudi Arabia,Asia,1995,18638790
+Saudi Arabia,Asia,1996,19033843
+Saudi Arabia,Asia,1997,19407138
+Saudi Arabia,Asia,1998,19783301
+Saudi Arabia,Asia,1999,20194531
+Saudi Arabia,Asia,2000,20663840
+Saudi Arabia,Asia,2001,21202646
+Saudi Arabia,Asia,2002,21805322
+Saudi Arabia,Asia,2003,22456645
+Saudi Arabia,Asia,2004,23132686
+Saudi Arabia,Asia,2005,23816175
+Saudi Arabia,Asia,2006,24498313
+Saudi Arabia,Asia,2007,25184589
+Saudi Arabia,Asia,2008,25888535
+Saudi Arabia,Asia,2009,26630303
+Saudi Arabia,Asia,2010,27421468
+Saudi Arabia,Asia,2011,28267591
+Saudi Arabia,Asia,2012,29154906
+Saudi Arabia,Asia,2013,30052058
+Saudi Arabia,Asia,2014,30916603
+Saudi Arabia,Asia,2015,31717676
+Saudi Arabia,Asia,2016,32443443
+Saudi Arabia,Asia,2017,33101183
+Saudi Arabia,Asia,2018,33702757
+Saudi Arabia,Asia,2019,34268529
+Saudi Arabia,Asia,2020,34813867
+Sudan,Africa,1990,20147592
+Sudan,Africa,1991,20891442
+Sudan,Africa,1992,21696240
+Sudan,Africa,1993,22527837
+Sudan,Africa,1994,23338465
+Sudan,Africa,1995,24094741
+Sudan,Africa,1996,24782384
+Sudan,Africa,1997,25413912
+Sudan,Africa,1998,26015518
+Sudan,Africa,1999,26626512
+Sudan,Africa,2000,27275019
+Sudan,Africa,2001,27971077
+Sudan,Africa,2002,28704786
+Sudan,Africa,2003,29460517
+Sudan,Africa,2004,30214189
+Sudan,Africa,2005,30949514
+Sudan,Africa,2006,31661824
+Sudan,Africa,2007,32360619
+Sudan,Africa,2008,33060844
+Sudan,Africa,2009,33783779
+Sudan,Africa,2010,34545014
+Sudan,Africa,2011,35349676
+Sudan,Africa,2012,36193781
+Sudan,Africa,2013,37072555
+Sudan,Africa,2014,37977657
+Sudan,Africa,2015,38902948
+Sudan,Africa,2016,39847433
+Sudan,Africa,2017,40813398
+Sudan,Africa,2018,41801532
+Sudan,Africa,2019,42813237
+Sudan,Africa,2020,43849269
+Senegal,Africa,1990,7526306
+Senegal,Africa,1991,7755503
+Senegal,Africa,1992,7990090
+Senegal,Africa,1993,8226749
+Senegal,Africa,1994,8461066
+Senegal,Africa,1995,8690155
+Senegal,Africa,1996,8912872
+Senegal,Africa,1997,9130876
+Senegal,Africa,1998,9347777
+Senegal,Africa,1999,9568717
+Senegal,Africa,2000,9797731
+Senegal,Africa,2001,10036102
+Senegal,Africa,2002,10283694
+Senegal,Africa,2003,10541470
+Senegal,Africa,2004,10810086
+Senegal,Africa,2005,11090123
+Senegal,Africa,2006,11382272
+Senegal,Africa,2007,11687078
+Senegal,Africa,2008,12004700
+Senegal,Africa,2009,12335092
+Senegal,Africa,2010,12678143
+Senegal,Africa,2011,13033814
+Senegal,Africa,2012,13401990
+Senegal,Africa,2013,13782429
+Senegal,Africa,2014,14174740
+Senegal,Africa,2015,14578450
+Senegal,Africa,2016,14993514
+Senegal,Africa,2017,15419354
+Senegal,Africa,2018,15854324
+Senegal,Africa,2019,16296362
+Senegal,Africa,2020,16743930
+Singapore,Asia,1990,3047132
+Singapore,Asia,1991,3135083
+Singapore,Asia,1992,3230698
+Singapore,Asia,1993,3313471
+Singapore,Asia,1994,3419048
+Singapore,Asia,1995,3524506
+Singapore,Asia,1996,3670704
+Singapore,Asia,1997,3796038
+Singapore,Asia,1998,3927213
+Singapore,Asia,1999,3958723
+Singapore,Asia,2000,4027887
+Singapore,Asia,2001,4138012
+Singapore,Asia,2002,4175950
+Singapore,Asia,2003,4114826
+Singapore,Asia,2004,4166664
+Singapore,Asia,2005,4265762
+Singapore,Asia,2006,4401365
+Singapore,Asia,2007,4588599
+Singapore,Asia,2008,4839396
+Singapore,Asia,2009,4987573
+Singapore,Asia,2010,5076732
+Singapore,Asia,2011,5183688
+Singapore,Asia,2012,5312437
+Singapore,Asia,2013,5399162
+Singapore,Asia,2014,5469724
+Singapore,Asia,2015,5535002
+Singapore,Asia,2016,5607283
+Singapore,Asia,2017,5612253
+Singapore,Asia,2018,5638676
+Singapore,Asia,2019,5703569
+Singapore,Asia,2020,5685807
+Solomon Islands,Oceania,1990,311869
+Solomon Islands,Oceania,1991,320781
+Solomon Islands,Oceania,1992,330004
+Solomon Islands,Oceania,1993,339501
+Solomon Islands,Oceania,1994,349273
+Solomon Islands,Oceania,1995,359276
+Solomon Islands,Oceania,1996,369517
+Solomon Islands,Oceania,1997,379998
+Solomon Islands,Oceania,1998,390702
+Solomon Islands,Oceania,1999,401592
+Solomon Islands,Oceania,2000,412665
+Solomon Islands,Oceania,2001,423949
+Solomon Islands,Oceania,2002,435434
+Solomon Islands,Oceania,2003,447016
+Solomon Islands,Oceania,2004,458549
+Solomon Islands,Oceania,2005,469918
+Solomon Islands,Oceania,2006,481086
+Solomon Islands,Oceania,2007,492133
+Solomon Islands,Oceania,2008,503366
+Solomon Islands,Oceania,2009,515182
+Solomon Islands,Oceania,2010,527861
+Solomon Islands,Oceania,2011,541522
+Solomon Islands,Oceania,2012,556066
+Solomon Islands,Oceania,2013,571329
+Solomon Islands,Oceania,2014,587079
+Solomon Islands,Oceania,2015,603133
+Solomon Islands,Oceania,2016,619438
+Solomon Islands,Oceania,2017,636030
+Solomon Islands,Oceania,2018,652856
+Solomon Islands,Oceania,2019,669821
+Solomon Islands,Oceania,2020,686878
+Sierra Leone,Africa,1990,4319763
+Sierra Leone,Africa,1991,4348663
+Sierra Leone,Africa,1992,4347727
+Sierra Leone,Africa,1993,4328965
+Sierra Leone,Africa,1994,4309780
+Sierra Leone,Africa,1995,4303953
+Sierra Leone,Africa,1996,4312660
+Sierra Leone,Africa,1997,4335295
+Sierra Leone,Africa,1998,4381484
+Sierra Leone,Africa,1999,4462374
+Sierra Leone,Africa,2000,4584570
+Sierra Leone,Africa,2001,4754069
+Sierra Leone,Africa,2002,4965770
+Sierra Leone,Africa,2003,5201074
+Sierra Leone,Africa,2004,5433995
+Sierra Leone,Africa,2005,5645629
+Sierra Leone,Africa,2006,5829240
+Sierra Leone,Africa,2007,5989641
+Sierra Leone,Africa,2008,6133599
+Sierra Leone,Africa,2009,6272735
+Sierra Leone,Africa,2010,6415636
+Sierra Leone,Africa,2011,6563238
+Sierra Leone,Africa,2012,6712586
+Sierra Leone,Africa,2013,6863975
+Sierra Leone,Africa,2014,7017153
+Sierra Leone,Africa,2015,7171909
+Sierra Leone,Africa,2016,7328846
+Sierra Leone,Africa,2017,7488427
+Sierra Leone,Africa,2018,7650149
+Sierra Leone,Africa,2019,7813207
+Sierra Leone,Africa,2020,7976985
+El Salvador,America,1990,5270074
+El Salvador,America,1991,5342190
+El Salvador,America,1992,5416327
+El Salvador,America,1993,5490478
+El Salvador,America,1994,5561916
+El Salvador,America,1995,5628602
+El Salvador,America,1996,5689943
+El Salvador,America,1997,5746288
+El Salvador,America,1998,5797764
+El Salvador,America,1999,5844834
+El Salvador,America,2000,5887930
+El Salvador,America,2001,5927001
+El Salvador,America,2002,5962139
+El Salvador,America,2003,5994075
+El Salvador,America,2004,6023801
+El Salvador,America,2005,6052124
+El Salvador,America,2006,6079395
+El Salvador,America,2007,6105810
+El Salvador,America,2008,6131767
+El Salvador,America,2009,6157678
+El Salvador,America,2010,6183877
+El Salvador,America,2011,6210567
+El Salvador,America,2012,6237922
+El Salvador,America,2013,6266076
+El Salvador,America,2014,6295124
+El Salvador,America,2015,6325121
+El Salvador,America,2016,6356137
+El Salvador,America,2017,6388124
+El Salvador,America,2018,6420740
+El Salvador,America,2019,6453550
+El Salvador,America,2020,6486201
+San Marino,Europe,1990,24124
+San Marino,Europe,1991,24454
+San Marino,Europe,1992,24830
+San Marino,Europe,1993,25208
+San Marino,Europe,1994,25588
+San Marino,Europe,1995,25925
+San Marino,Europe,1996,26253
+San Marino,Europe,1997,26563
+San Marino,Europe,1998,26851
+San Marino,Europe,1999,27141
+San Marino,Europe,2000,27460
+San Marino,Europe,2001,27818
+San Marino,Europe,2002,28175
+San Marino,Europe,2003,28561
+San Marino,Europe,2004,28942
+San Marino,Europe,2005,29324
+San Marino,Europe,2006,29694
+San Marino,Europe,2007,30068
+San Marino,Europe,2008,30434
+San Marino,Europe,2009,30825
+San Marino,Europe,2010,31221
+San Marino,Europe,2011,31655
+San Marino,Europe,2012,32103
+San Marino,Europe,2013,32554
+San Marino,Europe,2014,32941
+San Marino,Europe,2015,33270
+San Marino,Europe,2016,33503
+San Marino,Europe,2017,33671
+San Marino,Europe,2018,33784
+San Marino,Europe,2019,33864
+San Marino,Europe,2020,33938
+Somalia,Africa,1990,7225089
+Somalia,Africa,1991,7274026
+Somalia,Africa,1992,7295380
+Somalia,Africa,1993,7315864
+Somalia,Africa,1994,7372592
+Somalia,Africa,1995,7491647
+Somalia,Africa,1996,7682683
+Somalia,Africa,1997,7936122
+Somalia,Africa,1998,8235064
+Somalia,Africa,1999,8553595
+Somalia,Africa,2000,8872250
+Somalia,Africa,2001,9186719
+Somalia,Africa,2002,9501335
+Somalia,Africa,2003,9815412
+Somalia,Africa,2004,10130251
+Somalia,Africa,2005,10446856
+Somalia,Africa,2006,10763904
+Somalia,Africa,2007,11080122
+Somalia,Africa,2008,11397188
+Somalia,Africa,2009,11717691
+Somalia,Africa,2010,12043886
+Somalia,Africa,2011,12376305
+Somalia,Africa,2012,12715487
+Somalia,Africa,2013,13063711
+Somalia,Africa,2014,13423571
+Somalia,Africa,2015,13797204
+Somalia,Africa,2016,14185635
+Somalia,Africa,2017,14589165
+Somalia,Africa,2018,15008225
+Somalia,Africa,2019,15442906
+Somalia,Africa,2020,15893219
+Serbia,Europe,1990,7586000
+Serbia,Europe,1991,7595636
+Serbia,Europe,1992,7646424
+Serbia,Europe,1993,7699307
+Serbia,Europe,1994,7734639
+Serbia,Europe,1995,7625357
+Serbia,Europe,1996,7617794
+Serbia,Europe,1997,7596501
+Serbia,Europe,1998,7567745
+Serbia,Europe,1999,7540401
+Serbia,Europe,2000,7516346
+Serbia,Europe,2001,7503433
+Serbia,Europe,2002,7496522
+Serbia,Europe,2003,7480591
+Serbia,Europe,2004,7463157
+Serbia,Europe,2005,7440769
+Serbia,Europe,2006,7411569
+Serbia,Europe,2007,7381579
+Serbia,Europe,2008,7350222
+Serbia,Europe,2009,7320807
+Serbia,Europe,2010,7291436
+Serbia,Europe,2011,7234099
+Serbia,Europe,2012,7199077
+Serbia,Europe,2013,7164132
+Serbia,Europe,2014,7130576
+Serbia,Europe,2015,7095383
+Serbia,Europe,2016,7058322
+Serbia,Europe,2017,7020858
+Serbia,Europe,2018,6982604
+Serbia,Europe,2019,6945235
+Serbia,Europe,2020,6908224
+South Sudan,Africa,1990,5492620
+South Sudan,Africa,1991,5420179
+South Sudan,Africa,1992,5305449
+South Sudan,Africa,1993,5185712
+South Sudan,Africa,1994,5111371
+South Sudan,Africa,1995,5118084
+South Sudan,Africa,1996,5221925
+South Sudan,Africa,1997,5411653
+South Sudan,Africa,1998,5661934
+South Sudan,Africa,1999,5933884
+South Sudan,Africa,2000,6199396
+South Sudan,Africa,2001,6447791
+South Sudan,Africa,2002,6688225
+South Sudan,Africa,2003,6935665
+South Sudan,Africa,2004,7213354
+South Sudan,Africa,2005,7535931
+South Sudan,Africa,2006,7907407
+South Sudan,Africa,2007,8315144
+South Sudan,Africa,2008,8736932
+South Sudan,Africa,2009,9142258
+South Sudan,Africa,2010,9508372
+South Sudan,Africa,2011,9830695
+South Sudan,Africa,2012,10113648
+South Sudan,Africa,2013,10355030
+South Sudan,Africa,2014,10554882
+South Sudan,Africa,2015,10715657
+South Sudan,Africa,2016,10832520
+South Sudan,Africa,2017,10910774
+South Sudan,Africa,2018,10975924
+South Sudan,Africa,2019,11062114
+South Sudan,Africa,2020,11193729
+Sao Tome and Principe,Africa,1990,119211
+Sao Tome and Principe,Africa,1991,121949
+Sao Tome and Principe,Africa,1992,124574
+Sao Tome and Principe,Africa,1993,127066
+Sao Tome and Principe,Africa,1994,129426
+Sao Tome and Principe,Africa,1995,131679
+Sao Tome and Principe,Africa,1996,133799
+Sao Tome and Principe,Africa,1997,135831
+Sao Tome and Principe,Africa,1998,137855
+Sao Tome and Principe,Africa,1999,139964
+Sao Tome and Principe,Africa,2000,142264
+Sao Tome and Principe,Africa,2001,144760
+Sao Tome and Principe,Africa,2002,147450
+Sao Tome and Principe,Africa,2003,150405
+Sao Tome and Principe,Africa,2004,153736
+Sao Tome and Principe,Africa,2005,157472
+Sao Tome and Principe,Africa,2006,161676
+Sao Tome and Principe,Africa,2007,166297
+Sao Tome and Principe,Africa,2008,171122
+Sao Tome and Principe,Africa,2009,175877
+Sao Tome and Principe,Africa,2010,180372
+Sao Tome and Principe,Africa,2011,184521
+Sao Tome and Principe,Africa,2012,188394
+Sao Tome and Principe,Africa,2013,192076
+Sao Tome and Principe,Africa,2014,195727
+Sao Tome and Principe,Africa,2015,199439
+Sao Tome and Principe,Africa,2016,203221
+Sao Tome and Principe,Africa,2017,207086
+Sao Tome and Principe,Africa,2018,211032
+Sao Tome and Principe,Africa,2019,215048
+Sao Tome and Principe,Africa,2020,219161
+Suriname,America,1990,405169
+Suriname,America,1991,413009
+Suriname,America,1992,420658
+Suriname,America,1993,428028
+Suriname,America,1994,435099
+Suriname,America,1995,441851
+Suriname,America,1996,448207
+Suriname,America,1997,454165
+Suriname,America,1998,459838
+Suriname,America,1999,465380
+Suriname,America,2000,470944
+Suriname,America,2001,476574
+Suriname,America,2002,482228
+Suriname,America,2003,487938
+Suriname,America,2004,493680
+Suriname,America,2005,499461
+Suriname,America,2006,505292
+Suriname,America,2007,511181
+Suriname,America,2008,517122
+Suriname,America,2009,523113
+Suriname,America,2010,529126
+Suriname,America,2011,535177
+Suriname,America,2012,541247
+Suriname,America,2013,547295
+Suriname,America,2014,553278
+Suriname,America,2015,559136
+Suriname,America,2016,564883
+Suriname,America,2017,570501
+Suriname,America,2018,575987
+Suriname,America,2019,581363
+Suriname,America,2020,586634
+Slovenia,Europe,1990,1998161
+Slovenia,Europe,1991,1999429
+Slovenia,Europe,1992,1996498
+Slovenia,Europe,1993,1991746
+Slovenia,Europe,1994,1989443
+Slovenia,Europe,1995,1989872
+Slovenia,Europe,1996,1988628
+Slovenia,Europe,1997,1985956
+Slovenia,Europe,1998,1981629
+Slovenia,Europe,1999,1983045
+Slovenia,Europe,2000,1988925
+Slovenia,Europe,2001,1992060
+Slovenia,Europe,2002,1994530
+Slovenia,Europe,2003,1995733
+Slovenia,Europe,2004,1997012
+Slovenia,Europe,2005,2000474
+Slovenia,Europe,2006,2006868
+Slovenia,Europe,2007,2018122
+Slovenia,Europe,2008,2021316
+Slovenia,Europe,2009,2039669
+Slovenia,Europe,2010,2048583
+Slovenia,Europe,2011,2052843
+Slovenia,Europe,2012,2057159
+Slovenia,Europe,2013,2059953
+Slovenia,Europe,2014,2061980
+Slovenia,Europe,2015,2063531
+Slovenia,Europe,2016,2065042
+Slovenia,Europe,2017,2066388
+Slovenia,Europe,2018,2073894
+Slovenia,Europe,2019,2088385
+Slovenia,Europe,2020,2100126
+Sweden,Europe,1990,8558835
+Sweden,Europe,1991,8617375
+Sweden,Europe,1992,8668067
+Sweden,Europe,1993,8718561
+Sweden,Europe,1994,8780745
+Sweden,Europe,1995,8826939
+Sweden,Europe,1996,8840998
+Sweden,Europe,1997,8846062
+Sweden,Europe,1998,8850974
+Sweden,Europe,1999,8857874
+Sweden,Europe,2000,8872109
+Sweden,Europe,2001,8895960
+Sweden,Europe,2002,8924958
+Sweden,Europe,2003,8958229
+Sweden,Europe,2004,8993531
+Sweden,Europe,2005,9029572
+Sweden,Europe,2006,9080505
+Sweden,Europe,2007,9148092
+Sweden,Europe,2008,9219637
+Sweden,Europe,2009,9298515
+Sweden,Europe,2010,9378126
+Sweden,Europe,2011,9449213
+Sweden,Europe,2012,9519374
+Sweden,Europe,2013,9600379
+Sweden,Europe,2014,9696110
+Sweden,Europe,2015,9799186
+Sweden,Europe,2016,9923085
+Sweden,Europe,2017,10057698
+Sweden,Europe,2018,10175214
+Sweden,Europe,2019,10278887
+Sweden,Europe,2020,10353442
+Eswatini,Africa,1990,822423
+Eswatini,Africa,1991,845267
+Eswatini,Africa,1992,866995
+Eswatini,Africa,1993,887706
+Eswatini,Africa,1994,907622
+Eswatini,Africa,1995,926836
+Eswatini,Africa,1996,945506
+Eswatini,Africa,1997,963416
+Eswatini,Africa,1998,979922
+Eswatini,Africa,1999,994105
+Eswatini,Africa,2000,1005432
+Eswatini,Africa,2001,1013608
+Eswatini,Africa,2002,1019054
+Eswatini,Africa,2003,1022796
+Eswatini,Africa,2004,1026287
+Eswatini,Africa,2005,1030575
+Eswatini,Africa,2006,1036095
+Eswatini,Africa,2007,1042651
+Eswatini,Africa,2008,1049948
+Eswatini,Africa,2009,1057462
+Eswatini,Africa,2010,1064841
+Eswatini,Africa,2011,1072029
+Eswatini,Africa,2012,1079285
+Eswatini,Africa,2013,1086843
+Eswatini,Africa,2014,1095022
+Eswatini,Africa,2015,1104038
+Eswatini,Africa,2016,1113994
+Eswatini,Africa,2017,1124808
+Eswatini,Africa,2018,1136274
+Eswatini,Africa,2019,1148133
+Eswatini,Africa,2020,1160164
+Seychelles,Africa,1990,69507
+Seychelles,Africa,1991,70439
+Seychelles,Africa,1992,70763
+Seychelles,Africa,1993,72253
+Seychelles,Africa,1994,74205
+Seychelles,Africa,1995,75304
+Seychelles,Africa,1996,76417
+Seychelles,Africa,1997,77319
+Seychelles,Africa,1998,78846
+Seychelles,Africa,1999,80410
+Seychelles,Africa,2000,81131
+Seychelles,Africa,2001,81202
+Seychelles,Africa,2002,83723
+Seychelles,Africa,2003,82781
+Seychelles,Africa,2004,82475
+Seychelles,Africa,2005,82858
+Seychelles,Africa,2006,84600
+Seychelles,Africa,2007,85033
+Seychelles,Africa,2008,86956
+Seychelles,Africa,2009,87298
+Seychelles,Africa,2010,89770
+Seychelles,Africa,2011,87441
+Seychelles,Africa,2012,88303
+Seychelles,Africa,2013,89949
+Seychelles,Africa,2014,91359
+Seychelles,Africa,2015,93419
+Seychelles,Africa,2016,94677
+Seychelles,Africa,2017,95843
+Seychelles,Africa,2018,96762
+Seychelles,Africa,2019,97625
+Seychelles,Africa,2020,98462
+Syrian Arab Republic,Asia,1990,12446168
+Syrian Arab Republic,Asia,1991,12815400
+Syrian Arab Republic,Asia,1992,13187669
+Syrian Arab Republic,Asia,1993,13565074
+Syrian Arab Republic,Asia,1994,13950486
+Syrian Arab Republic,Asia,1995,14345491
+Syrian Arab Republic,Asia,1996,14754148
+Syrian Arab Republic,Asia,1997,15175308
+Syrian Arab Republic,Asia,1998,15599588
+Syrian Arab Republic,Asia,1999,16013992
+Syrian Arab Republic,Asia,2000,16410847
+Syrian Arab Republic,Asia,2001,16766555
+Syrian Arab Republic,Asia,2002,17084628
+Syrian Arab Republic,Asia,2003,17415214
+Syrian Arab Republic,Asia,2004,17827827
+Syrian Arab Republic,Asia,2005,18361178
+Syrian Arab Republic,Asia,2006,19059257
+Syrian Arab Republic,Asia,2007,19878257
+Syrian Arab Republic,Asia,2008,20664037
+Syrian Arab Republic,Asia,2009,21205873
+Syrian Arab Republic,Asia,2010,21362541
+Syrian Arab Republic,Asia,2011,21081814
+Syrian Arab Republic,Asia,2012,20438861
+Syrian Arab Republic,Asia,2013,19578466
+Syrian Arab Republic,Asia,2014,18710711
+Syrian Arab Republic,Asia,2015,17997411
+Syrian Arab Republic,Asia,2016,17465567
+Syrian Arab Republic,Asia,2017,17095669
+Syrian Arab Republic,Asia,2018,16945062
+Syrian Arab Republic,Asia,2019,17070132
+Syrian Arab Republic,Asia,2020,17500657
+Chad,Africa,1990,5963250
+Chad,Africa,1991,6157085
+Chad,Africa,1992,6356741
+Chad,Africa,1993,6563925
+Chad,Africa,1994,6781057
+Chad,Africa,1995,7010159
+Chad,Africa,1996,7250974
+Chad,Africa,1997,7503494
+Chad,Africa,1998,7770053
+Chad,Africa,1999,8053532
+Chad,Africa,2000,8355654
+Chad,Africa,2001,8678049
+Chad,Africa,2002,9019226
+Chad,Africa,2003,9373913
+Chad,Africa,2004,9734761
+Chad,Africa,2005,10096630
+Chad,Africa,2006,10457122
+Chad,Africa,2007,10818031
+Chad,Africa,2008,11183589
+Chad,Africa,2009,11560142
+Chad,Africa,2010,11952134
+Chad,Africa,2011,12360986
+Chad,Africa,2012,12784748
+Chad,Africa,2013,13220433
+Chad,Africa,2014,13663562
+Chad,Africa,2015,14110971
+Chad,Africa,2016,14561658
+Chad,Africa,2017,15016761
+Chad,Africa,2018,15477727
+Chad,Africa,2019,15946882
+Chad,Africa,2020,16425859
+Togo,Africa,1990,3774310
+Togo,Africa,1991,3862998
+Togo,Africa,1992,3945902
+Togo,Africa,1993,4029044
+Togo,Africa,1994,4120615
+Togo,Africa,1995,4226293
+Togo,Africa,1996,4348808
+Togo,Africa,1997,4485945
+Togo,Africa,1998,4632451
+Togo,Africa,1999,4780455
+Togo,Africa,2000,4924406
+Togo,Africa,2001,5062571
+Togo,Africa,2002,5197040
+Togo,Africa,2003,5330629
+Togo,Africa,2004,5467770
+Togo,Africa,2005,5611643
+Togo,Africa,2006,5762881
+Togo,Africa,2007,5920360
+Togo,Africa,2008,6083417
+Togo,Africa,2009,6250840
+Togo,Africa,2010,6421674
+Togo,Africa,2011,6595939
+Togo,Africa,2012,6773807
+Togo,Africa,2013,6954721
+Togo,Africa,2014,7137997
+Togo,Africa,2015,7323162
+Togo,Africa,2016,7509952
+Togo,Africa,2017,7698476
+Togo,Africa,2018,7889095
+Togo,Africa,2019,8082359
+Togo,Africa,2020,8278737
+Thailand,Asia,1990,56558196
+Thailand,Asia,1991,57232471
+Thailand,Asia,1992,57811025
+Thailand,Asia,1993,58337773
+Thailand,Asia,1994,58875275
+Thailand,Asia,1995,59467272
+Thailand,Asia,1996,60130190
+Thailand,Asia,1997,60846588
+Thailand,Asia,1998,61585103
+Thailand,Asia,1999,62298569
+Thailand,Asia,2000,62952639
+Thailand,Asia,2001,63539190
+Thailand,Asia,2002,64069093
+Thailand,Asia,2003,64549867
+Thailand,Asia,2004,64995303
+Thailand,Asia,2005,65416189
+Thailand,Asia,2006,65812540
+Thailand,Asia,2007,66182064
+Thailand,Asia,2008,66530980
+Thailand,Asia,2009,66866834
+Thailand,Asia,2010,67195032
+Thailand,Asia,2011,67518379
+Thailand,Asia,2012,67835969
+Thailand,Asia,2013,68144519
+Thailand,Asia,2014,68438748
+Thailand,Asia,2015,68714519
+Thailand,Asia,2016,68971313
+Thailand,Asia,2017,69209817
+Thailand,Asia,2018,69428454
+Thailand,Asia,2019,69625581
+Thailand,Asia,2020,69799978
+Tajikistan,Asia,1990,5283811
+Tajikistan,Asia,1991,5400636
+Tajikistan,Asia,1992,5502490
+Tajikistan,Asia,1993,5593317
+Tajikistan,Asia,1994,5679169
+Tajikistan,Asia,1995,5764806
+Tajikistan,Asia,1996,5851354
+Tajikistan,Asia,1997,5938404
+Tajikistan,Asia,1998,6027395
+Tajikistan,Asia,1999,6119664
+Tajikistan,Asia,2000,6216329
+Tajikistan,Asia,2001,6318510
+Tajikistan,Asia,2002,6426861
+Tajikistan,Asia,2003,6541550
+Tajikistan,Asia,2004,6662391
+Tajikistan,Asia,2005,6789318
+Tajikistan,Asia,2006,6922590
+Tajikistan,Asia,2007,7062667
+Tajikistan,Asia,2008,7209924
+Tajikistan,Asia,2009,7364752
+Tajikistan,Asia,2010,7527397
+Tajikistan,Asia,2011,7697507
+Tajikistan,Asia,2012,7874838
+Tajikistan,Asia,2013,8059782
+Tajikistan,Asia,2014,8252828
+Tajikistan,Asia,2015,8454019
+Tajikistan,Asia,2016,8663575
+Tajikistan,Asia,2017,8880270
+Tajikistan,Asia,2018,9100847
+Tajikistan,Asia,2019,9321023
+Tajikistan,Asia,2020,9537642
+Turkmenistan,Asia,1990,3683978
+Turkmenistan,Asia,1991,3789188
+Turkmenistan,Asia,1992,3899843
+Turkmenistan,Asia,1993,4010789
+Turkmenistan,Asia,1994,4115105
+Turkmenistan,Asia,1995,4207841
+Turkmenistan,Asia,1996,4287337
+Turkmenistan,Asia,1997,4355125
+Turkmenistan,Asia,1998,4413477
+Turkmenistan,Asia,1999,4466133
+Turkmenistan,Asia,2000,4516128
+Turkmenistan,Asia,2001,4564087
+Turkmenistan,Asia,2002,4610018
+Turkmenistan,Asia,2003,4655752
+Turkmenistan,Asia,2004,4703396
+Turkmenistan,Asia,2005,4754652
+Turkmenistan,Asia,2006,4810114
+Turkmenistan,Asia,2007,4870142
+Turkmenistan,Asia,2008,4935765
+Turkmenistan,Asia,2009,5007953
+Turkmenistan,Asia,2010,5087211
+Turkmenistan,Asia,2011,5174076
+Turkmenistan,Asia,2012,5267906
+Turkmenistan,Asia,2013,5366376
+Turkmenistan,Asia,2014,5466324
+Turkmenistan,Asia,2015,5565283
+Turkmenistan,Asia,2016,5662371
+Turkmenistan,Asia,2017,5757667
+Turkmenistan,Asia,2018,5850902
+Turkmenistan,Asia,2019,5942094
+Turkmenistan,Asia,2020,6031187
+Timor-Leste,Asia,1990,737814
+Timor-Leste,Asia,1991,759526
+Timor-Leste,Asia,1992,783204
+Timor-Leste,Asia,1993,806867
+Timor-Leste,Asia,1994,827828
+Timor-Leste,Asia,1995,844333
+Timor-Leste,Asia,1996,855358
+Timor-Leste,Asia,1997,861870
+Timor-Leste,Asia,1998,866523
+Timor-Leste,Asia,1999,873138
+Timor-Leste,Asia,2000,884366
+Timor-Leste,Asia,2001,901214
+Timor-Leste,Asia,2002,922699
+Timor-Leste,Asia,2003,947110
+Timor-Leste,Asia,2004,971889
+Timor-Leste,Asia,2005,995130
+Timor-Leste,Asia,2006,1016437
+Timor-Leste,Asia,2007,1036388
+Timor-Leste,Asia,2008,1055428
+Timor-Leste,Asia,2009,1074286
+Timor-Leste,Asia,2010,1093517
+Timor-Leste,Asia,2011,1113154
+Timor-Leste,Asia,2012,1133002
+Timor-Leste,Asia,2013,1153288
+Timor-Leste,Asia,2014,1174333
+Timor-Leste,Asia,2015,1196294
+Timor-Leste,Asia,2016,1219289
+Timor-Leste,Asia,2017,1243260
+Timor-Leste,Asia,2018,1267975
+Timor-Leste,Asia,2019,1293120
+Timor-Leste,Asia,2020,1318442
+Tonga,Oceania,1990,95069
+Tonga,Oceania,1991,95243
+Tonga,Oceania,1992,95398
+Tonga,Oceania,1993,95556
+Tonga,Oceania,1994,95739
+Tonga,Oceania,1995,95972
+Tonga,Oceania,1996,96267
+Tonga,Oceania,1997,96621
+Tonga,Oceania,1998,97036
+Tonga,Oceania,1999,97475
+Tonga,Oceania,2000,97962
+Tonga,Oceania,2001,98482
+Tonga,Oceania,2002,99023
+Tonga,Oceania,2003,99591
+Tonga,Oceania,2004,100214
+Tonga,Oceania,2005,100908
+Tonga,Oceania,2006,101714
+Tonga,Oceania,2007,102577
+Tonga,Oceania,2008,103384
+Tonga,Oceania,2009,103897
+Tonga,Oceania,2010,103981
+Tonga,Oceania,2011,103558
+Tonga,Oceania,2012,102736
+Tonga,Oceania,2013,101768
+Tonga,Oceania,2014,101023
+Tonga,Oceania,2015,100780
+Tonga,Oceania,2016,101143
+Tonga,Oceania,2017,102002
+Tonga,Oceania,2018,103199
+Tonga,Oceania,2019,104497
+Tonga,Oceania,2020,105697
+Trinidad and Tobago,America,1990,1221121
+Trinidad and Tobago,America,1991,1229108
+Trinidad and Tobago,America,1992,1236685
+Trinidad and Tobago,America,1993,1243605
+Trinidad and Tobago,America,1994,1249527
+Trinidad and Tobago,America,1995,1254200
+Trinidad and Tobago,America,1996,1257547
+Trinidad and Tobago,America,1997,1259838
+Trinidad and Tobago,America,1998,1261699
+Trinidad and Tobago,America,1999,1263927
+Trinidad and Tobago,America,2000,1267159
+Trinidad and Tobago,America,2001,1271627
+Trinidad and Tobago,America,2002,1277210
+Trinidad and Tobago,America,2003,1283564
+Trinidad and Tobago,America,2004,1290115
+Trinidad and Tobago,America,2005,1296497
+Trinidad and Tobago,America,2006,1302552
+Trinidad and Tobago,America,2007,1308450
+Trinidad and Tobago,America,2008,1314449
+Trinidad and Tobago,America,2009,1320921
+Trinidad and Tobago,America,2010,1328144
+Trinidad and Tobago,America,2011,1336180
+Trinidad and Tobago,America,2012,1344814
+Trinidad and Tobago,America,2013,1353708
+Trinidad and Tobago,America,2014,1362337
+Trinidad and Tobago,America,2015,1370332
+Trinidad and Tobago,America,2016,1377563
+Trinidad and Tobago,America,2017,1384060
+Trinidad and Tobago,America,2018,1389841
+Trinidad and Tobago,America,2019,1394969
+Trinidad and Tobago,America,2020,1399491
+Tunisia,Africa,1990,8242509
+Tunisia,Africa,1991,8427851
+Tunisia,Africa,1992,8613855
+Tunisia,Africa,1993,8795934
+Tunisia,Africa,1994,8967916
+Tunisia,Africa,1995,9125400
+Tunisia,Africa,1996,9267335
+Tunisia,Africa,1997,9395119
+Tunisia,Africa,1998,9509862
+Tunisia,Africa,1999,9613587
+Tunisia,Africa,2000,9708347
+Tunisia,Africa,2001,9793915
+Tunisia,Africa,2002,9871261
+Tunisia,Africa,2003,9945282
+Tunisia,Africa,2004,10022278
+Tunisia,Africa,2005,10106778
+Tunisia,Africa,2006,10201211
+Tunisia,Africa,2007,10304729
+Tunisia,Africa,2008,10414425
+Tunisia,Africa,2009,10525691
+Tunisia,Africa,2010,10635245
+Tunisia,Africa,2011,10741872
+Tunisia,Africa,2012,10846993
+Tunisia,Africa,2013,10952949
+Tunisia,Africa,2014,11063195
+Tunisia,Africa,2015,11179951
+Tunisia,Africa,2016,11303942
+Tunisia,Africa,2017,11433438
+Tunisia,Africa,2018,11565203
+Tunisia,Africa,2019,11694721
+Tunisia,Africa,2020,11818618
+Turkey,Asia,1990,53921758
+Turkey,Asia,1991,54840595
+Turkey,Asia,1992,55748946
+Turkey,Asia,1993,56653808
+Turkey,Asia,1994,57564209
+Turkey,Asia,1995,58486453
+Turkey,Asia,1996,59423278
+Turkey,Asia,1997,60372571
+Turkey,Asia,1998,61329665
+Turkey,Asia,1999,62287391
+Turkey,Asia,2000,63240196
+Turkey,Asia,2001,64192243
+Turkey,Asia,2002,65145357
+Turkey,Asia,2003,66089402
+Turkey,Asia,2004,67010930
+Turkey,Asia,2005,67903461
+Turkey,Asia,2006,68756809
+Turkey,Asia,2007,69581854
+Turkey,Asia,2008,70418612
+Turkey,Asia,2009,71321406
+Turkey,Asia,2010,72326992
+Turkey,Asia,2011,73443254
+Turkey,Asia,2012,74651046
+Turkey,Asia,2013,75925454
+Turkey,Asia,2014,77229262
+Turkey,Asia,2015,78529413
+Turkey,Asia,2016,79827868
+Turkey,Asia,2017,81116451
+Turkey,Asia,2018,82340090
+Turkey,Asia,2019,83429607
+Turkey,Asia,2020,84339067
+Tuvalu,Oceania,1990,8910
+Tuvalu,Oceania,1991,9014
+Tuvalu,Oceania,1992,9110
+Tuvalu,Oceania,1993,9194
+Tuvalu,Oceania,1994,9259
+Tuvalu,Oceania,1995,9298
+Tuvalu,Oceania,1996,9317
+Tuvalu,Oceania,1997,9328
+Tuvalu,Oceania,1998,9332
+Tuvalu,Oceania,1999,9344
+Tuvalu,Oceania,2000,9392
+Tuvalu,Oceania,2001,9478
+Tuvalu,Oceania,2002,9593
+Tuvalu,Oceania,2003,9724
+Tuvalu,Oceania,2004,9871
+Tuvalu,Oceania,2005,9997
+Tuvalu,Oceania,2006,10118
+Tuvalu,Oceania,2007,10219
+Tuvalu,Oceania,2008,10315
+Tuvalu,Oceania,2009,10413
+Tuvalu,Oceania,2010,10521
+Tuvalu,Oceania,2011,10626
+Tuvalu,Oceania,2012,10744
+Tuvalu,Oceania,2013,10849
+Tuvalu,Oceania,2014,10973
+Tuvalu,Oceania,2015,11099
+Tuvalu,Oceania,2016,11232
+Tuvalu,Oceania,2017,11365
+Tuvalu,Oceania,2018,11505
+Tuvalu,Oceania,2019,11655
+Tuvalu,Oceania,2020,11792
+Tanzania,Africa,1990,25203848
+Tanzania,Africa,1991,26056605
+Tanzania,Africa,1992,26961204
+Tanzania,Africa,1993,27887204
+Tanzania,Africa,1994,28792649
+Tanzania,Africa,1995,29649128
+Tanzania,Africa,1996,30444523
+Tanzania,Africa,1997,31192853
+Tanzania,Africa,1998,31924201
+Tanzania,Africa,1999,32682240
+Tanzania,Africa,2000,33499177
+Tanzania,Africa,2001,34385849
+Tanzania,Africa,2002,35334790
+Tanzania,Africa,2003,36337778
+Tanzania,Africa,2004,37379766
+Tanzania,Africa,2005,38450323
+Tanzania,Africa,2006,39548666
+Tanzania,Africa,2007,40681416
+Tanzania,Africa,2008,41853944
+Tanzania,Africa,2009,43073830
+Tanzania,Africa,2010,44346532
+Tanzania,Africa,2011,45673520
+Tanzania,Africa,2012,47053033
+Tanzania,Africa,2013,48483132
+Tanzania,Africa,2014,49960563
+Tanzania,Africa,2015,51482638
+Tanzania,Africa,2016,53049231
+Tanzania,Africa,2017,54660345
+Tanzania,Africa,2018,56313444
+Tanzania,Africa,2019,58005461
+Tanzania,Africa,2020,59734213
+Uganda,Africa,1990,17354395
+Uganda,Africa,1991,17953534
+Uganda,Africa,1992,18561668
+Uganda,Africa,1993,19175986
+Uganda,Africa,1994,19793541
+Uganda,Africa,1995,20413157
+Uganda,Africa,1996,21032817
+Uganda,Africa,1997,21655392
+Uganda,Africa,1998,22290787
+Uganda,Africa,1999,22952406
+Uganda,Africa,2000,23650159
+Uganda,Africa,2001,24388974
+Uganda,Africa,2002,25167261
+Uganda,Africa,2003,25980547
+Uganda,Africa,2004,26821300
+Uganda,Africa,2005,27684590
+Uganda,Africa,2006,28571475
+Uganda,Africa,2007,29486335
+Uganda,Africa,2008,30431734
+Uganda,Africa,2009,31411096
+Uganda,Africa,2010,32428164
+Uganda,Africa,2011,33476772
+Uganda,Africa,2012,34558700
+Uganda,Africa,2013,35694519
+Uganda,Africa,2014,36911530
+Uganda,Africa,2015,38225447
+Uganda,Africa,2016,39649173
+Uganda,Africa,2017,41166588
+Uganda,Africa,2018,42729032
+Uganda,Africa,2019,44269587
+Uganda,Africa,2020,45741000
+Ukraine,Europe,1990,51891400
+Ukraine,Europe,1991,52000500
+Ukraine,Europe,1992,52150400
+Ukraine,Europe,1993,52179200
+Ukraine,Europe,1994,51921400
+Ukraine,Europe,1995,51512800
+Ukraine,Europe,1996,51057800
+Ukraine,Europe,1997,50594600
+Ukraine,Europe,1998,50144500
+Ukraine,Europe,1999,49674000
+Ukraine,Europe,2000,49176500
+Ukraine,Europe,2001,48662400
+Ukraine,Europe,2002,48202470
+Ukraine,Europe,2003,47812949
+Ukraine,Europe,2004,47451626
+Ukraine,Europe,2005,47105171
+Ukraine,Europe,2006,46787786
+Ukraine,Europe,2007,46509355
+Ukraine,Europe,2008,46258189
+Ukraine,Europe,2009,46053331
+Ukraine,Europe,2010,45870741
+Ukraine,Europe,2011,45706086
+Ukraine,Europe,2012,45593342
+Ukraine,Europe,2013,45489648
+Ukraine,Europe,2014,45272155
+Ukraine,Europe,2015,45154036
+Ukraine,Europe,2016,45004673
+Ukraine,Europe,2017,44831135
+Ukraine,Europe,2018,44622518
+Ukraine,Europe,2019,44386203
+Ukraine,Europe,2020,44134693
+Uruguay,America,1990,3109598
+Uruguay,America,1991,3131657
+Uruguay,America,1992,3154459
+Uruguay,America,1993,3177734
+Uruguay,America,1994,3201149
+Uruguay,America,1995,3224275
+Uruguay,America,1996,3247383
+Uruguay,America,1997,3270158
+Uruguay,America,1998,3291053
+Uruguay,America,1999,3308005
+Uruguay,America,2000,3319734
+Uruguay,America,2001,3325471
+Uruguay,America,2002,3326046
+Uruguay,America,2003,3323661
+Uruguay,America,2004,3321486
+Uruguay,America,2005,3321799
+Uruguay,America,2006,3325403
+Uruguay,America,2007,3331753
+Uruguay,America,2008,3340221
+Uruguay,America,2009,3349676
+Uruguay,America,2010,3359273
+Uruguay,America,2011,3368926
+Uruguay,America,2012,3378975
+Uruguay,America,2013,3389436
+Uruguay,America,2014,3400439
+Uruguay,America,2015,3412013
+Uruguay,America,2016,3424139
+Uruguay,America,2017,3436645
+Uruguay,America,2018,3449290
+Uruguay,America,2019,3461731
+Uruguay,America,2020,3473727
+United States,America,1990,249623000
+United States,America,1991,252981000
+United States,America,1992,256514000
+United States,America,1993,259919000
+United States,America,1994,263126000
+United States,America,1995,266278000
+United States,America,1996,269394000
+United States,America,1997,272657000
+United States,America,1998,275854000
+United States,America,1999,279040000
+United States,America,2000,282162411
+United States,America,2001,284968955
+United States,America,2002,287625193
+United States,America,2003,290107933
+United States,America,2004,292805298
+United States,America,2005,295516599
+United States,America,2006,298379912
+United States,America,2007,301231207
+United States,America,2008,304093966
+United States,America,2009,306771529
+United States,America,2010,309327143
+United States,America,2011,311583481
+United States,America,2012,313877662
+United States,America,2013,316059947
+United States,America,2014,318386329
+United States,America,2015,320738994
+United States,America,2016,323071755
+United States,America,2017,325122128
+United States,America,2018,326838199
+United States,America,2019,328329953
+United States,America,2020,329484123
+Uzbekistan,Asia,1990,20510000
+Uzbekistan,Asia,1991,20952000
+Uzbekistan,Asia,1992,21449000
+Uzbekistan,Asia,1993,21942000
+Uzbekistan,Asia,1994,22377000
+Uzbekistan,Asia,1995,22785000
+Uzbekistan,Asia,1996,23225000
+Uzbekistan,Asia,1997,23667000
+Uzbekistan,Asia,1998,24051000
+Uzbekistan,Asia,1999,24311650
+Uzbekistan,Asia,2000,24650400
+Uzbekistan,Asia,2001,24964450
+Uzbekistan,Asia,2002,25271850
+Uzbekistan,Asia,2003,25567650
+Uzbekistan,Asia,2004,25864350
+Uzbekistan,Asia,2005,26167000
+Uzbekistan,Asia,2006,26488250
+Uzbekistan,Asia,2007,26868000
+Uzbekistan,Asia,2008,27302800
+Uzbekistan,Asia,2009,27767400
+Uzbekistan,Asia,2010,28562400
+Uzbekistan,Asia,2011,29339400
+Uzbekistan,Asia,2012,29774500
+Uzbekistan,Asia,2013,30243200
+Uzbekistan,Asia,2014,30757700
+Uzbekistan,Asia,2015,31298900
+Uzbekistan,Asia,2016,31847900
+Uzbekistan,Asia,2017,32388600
+Uzbekistan,Asia,2018,32956100
+Uzbekistan,Asia,2019,33580350
+Uzbekistan,Asia,2020,34232050
+"Venezuela, RB",America,1990,19632665
+"Venezuela, RB",America,1991,20096314
+"Venezuela, RB",America,1992,20557694
+"Venezuela, RB",America,1993,21016900
+"Venezuela, RB",America,1994,21474553
+"Venezuela, RB",America,1995,21931087
+"Venezuela, RB",America,1996,22385650
+"Venezuela, RB",America,1997,22837743
+"Venezuela, RB",America,1998,23288567
+"Venezuela, RB",America,1999,23739835
+"Venezuela, RB",America,2000,24192449
+"Venezuela, RB",America,2001,24646471
+"Venezuela, RB",America,2002,25100407
+"Venezuela, RB",America,2003,25551624
+"Venezuela, RB",America,2004,25996594
+"Venezuela, RB",America,2005,26432445
+"Venezuela, RB",America,2006,26850190
+"Venezuela, RB",America,2007,27247601
+"Venezuela, RB",America,2008,27635827
+"Venezuela, RB",America,2009,28031010
+"Venezuela, RB",America,2010,28439942
+"Venezuela, RB",America,2011,28887873
+"Venezuela, RB",America,2012,29360827
+"Venezuela, RB",America,2013,29781046
+"Venezuela, RB",America,2014,30042973
+"Venezuela, RB",America,2015,30081827
+"Venezuela, RB",America,2016,29851249
+"Venezuela, RB",America,2017,29402480
+"Venezuela, RB",America,2018,28887117
+"Venezuela, RB",America,2019,28515829
+"Venezuela, RB",America,2020,28435943
+Vietnam,Asia,1990,67988855
+Vietnam,Asia,1991,69436956
+Vietnam,Asia,1992,70883488
+Vietnam,Asia,1993,72300308
+Vietnam,Asia,1994,73651220
+Vietnam,Asia,1995,74910462
+Vietnam,Asia,1996,76068739
+Vietnam,Asia,1997,77133212
+Vietnam,Asia,1998,78115712
+Vietnam,Asia,1999,79035871
+Vietnam,Asia,2000,79910411
+Vietnam,Asia,2001,80742500
+Vietnam,Asia,2002,81534406
+Vietnam,Asia,2003,82301650
+Vietnam,Asia,2004,83062819
+Vietnam,Asia,2005,83832662
+Vietnam,Asia,2006,84617545
+Vietnam,Asia,2007,85419588
+Vietnam,Asia,2008,86243424
+Vietnam,Asia,2009,87092250
+Vietnam,Asia,2010,87967655
+Vietnam,Asia,2011,88871384
+Vietnam,Asia,2012,89801926
+Vietnam,Asia,2013,90752593
+Vietnam,Asia,2014,91713850
+Vietnam,Asia,2015,92677082
+Vietnam,Asia,2016,93640435
+Vietnam,Asia,2017,94600643
+Vietnam,Asia,2018,95545959
+Vietnam,Asia,2019,96462108
+Vietnam,Asia,2020,97338583
+Vanuatu,Oceania,1990,146575
+Vanuatu,Oceania,1991,150718
+Vanuatu,Oceania,1992,155176
+Vanuatu,Oceania,1993,159743
+Vanuatu,Oceania,1994,164128
+Vanuatu,Oceania,1995,168161
+Vanuatu,Oceania,1996,171721
+Vanuatu,Oceania,1997,174917
+Vanuatu,Oceania,1998,177987
+Vanuatu,Oceania,1999,181259
+Vanuatu,Oceania,2000,184964
+Vanuatu,Oceania,2001,189209
+Vanuatu,Oceania,2002,193927
+Vanuatu,Oceania,2003,198960
+Vanuatu,Oceania,2004,204123
+Vanuatu,Oceania,2005,209282
+Vanuatu,Oceania,2006,214379
+Vanuatu,Oceania,2007,219464
+Vanuatu,Oceania,2008,224700
+Vanuatu,Oceania,2009,230244
+Vanuatu,Oceania,2010,236216
+Vanuatu,Oceania,2011,242658
+Vanuatu,Oceania,2012,249505
+Vanuatu,Oceania,2013,256637
+Vanuatu,Oceania,2014,263888
+Vanuatu,Oceania,2015,271128
+Vanuatu,Oceania,2016,278326
+Vanuatu,Oceania,2017,285499
+Vanuatu,Oceania,2018,292675
+Vanuatu,Oceania,2019,299882
+Vanuatu,Oceania,2020,307150
+Samoa,Oceania,1990,162797
+Samoa,Oceania,1991,164000
+Samoa,Oceania,1992,165490
+Samoa,Oceania,1993,167117
+Samoa,Oceania,1994,168689
+Samoa,Oceania,1995,170050
+Samoa,Oceania,1996,171165
+Samoa,Oceania,1997,172065
+Samoa,Oceania,1998,172839
+Samoa,Oceania,1999,173606
+Samoa,Oceania,2000,174454
+Samoa,Oceania,2001,175394
+Samoa,Oceania,2002,176410
+Samoa,Oceania,2003,177481
+Samoa,Oceania,2004,178597
+Samoa,Oceania,2005,179722
+Samoa,Oceania,2006,180874
+Samoa,Oceania,2007,182045
+Samoa,Oceania,2008,183270
+Samoa,Oceania,2009,184553
+Samoa,Oceania,2010,185944
+Samoa,Oceania,2011,187469
+Samoa,Oceania,2012,189089
+Samoa,Oceania,2013,190712
+Samoa,Oceania,2014,192220
+Samoa,Oceania,2015,193510
+Samoa,Oceania,2016,194540
+Samoa,Oceania,2017,195358
+Samoa,Oceania,2018,196128
+Samoa,Oceania,2019,197093
+Samoa,Oceania,2020,198410
+"Yemen, Rep.",Asia,1990,11709987
+"Yemen, Rep.",Asia,1991,12302127
+"Yemen, Rep.",Asia,1992,12954157
+"Yemen, Rep.",Asia,1993,13634082
+"Yemen, Rep.",Asia,1994,14297617
+"Yemen, Rep.",Asia,1995,14913313
+"Yemen, Rep.",Asia,1996,15469274
+"Yemen, Rep.",Asia,1997,15975676
+"Yemen, Rep.",Asia,1998,16450306
+"Yemen, Rep.",Asia,1999,16921157
+"Yemen, Rep.",Asia,2000,17409071
+"Yemen, Rep.",Asia,2001,17918369
+"Yemen, Rep.",Asia,2002,18443684
+"Yemen, Rep.",Asia,2003,18985001
+"Yemen, Rep.",Asia,2004,19540096
+"Yemen, Rep.",Asia,2005,20107416
+"Yemen, Rep.",Asia,2006,20687648
+"Yemen, Rep.",Asia,2007,21282514
+"Yemen, Rep.",Asia,2008,21892149
+"Yemen, Rep.",Asia,2009,22516464
+"Yemen, Rep.",Asia,2010,23154854
+"Yemen, Rep.",Asia,2011,23807586
+"Yemen, Rep.",Asia,2012,24473176
+"Yemen, Rep.",Asia,2013,25147112
+"Yemen, Rep.",Asia,2014,25823488
+"Yemen, Rep.",Asia,2015,26497881
+"Yemen, Rep.",Asia,2016,27168210
+"Yemen, Rep.",Asia,2017,27834811
+"Yemen, Rep.",Asia,2018,28498683
+"Yemen, Rep.",Asia,2019,29161922
+"Yemen, Rep.",Asia,2020,29825968
+South Africa,Africa,1990,36800507
+South Africa,Africa,1991,37718952
+South Africa,Africa,1992,38672611
+South Africa,Africa,1993,39633754
+South Africa,Africa,1994,40564061
+South Africa,Africa,1995,41435761
+South Africa,Africa,1996,42241007
+South Africa,Africa,1997,42987456
+South Africa,Africa,1998,43682259
+South Africa,Africa,1999,44338551
+South Africa,Africa,2000,44967713
+South Africa,Africa,2001,45571272
+South Africa,Africa,2002,46150913
+South Africa,Africa,2003,46719203
+South Africa,Africa,2004,47291610
+South Africa,Africa,2005,47880595
+South Africa,Africa,2006,48489464
+South Africa,Africa,2007,49119766
+South Africa,Africa,2008,49779472
+South Africa,Africa,2009,50477013
+South Africa,Africa,2010,51216967
+South Africa,Africa,2011,52003759
+South Africa,Africa,2012,52832659
+South Africa,Africa,2013,53687125
+South Africa,Africa,2014,54544184
+South Africa,Africa,2015,55386369
+South Africa,Africa,2016,56207649
+South Africa,Africa,2017,57009751
+South Africa,Africa,2018,57792520
+South Africa,Africa,2019,58558267
+South Africa,Africa,2020,59308690
+Zambia,Africa,1990,8036849
+Zambia,Africa,1991,8246662
+Zambia,Africa,1992,8451346
+Zambia,Africa,1993,8656484
+Zambia,Africa,1994,8869745
+Zambia,Africa,1995,9096608
+Zambia,Africa,1996,9339740
+Zambia,Africa,1997,9597610
+Zambia,Africa,1998,9866474
+Zambia,Africa,1999,10140564
+Zambia,Africa,2000,10415942
+Zambia,Africa,2001,10692197
+Zambia,Africa,2002,10971704
+Zambia,Africa,2003,11256740
+Zambia,Africa,2004,11550641
+Zambia,Africa,2005,11856244
+Zambia,Africa,2006,12173518
+Zambia,Africa,2007,12502958
+Zambia,Africa,2008,12848531
+Zambia,Africa,2009,13215142
+Zambia,Africa,2010,13605986
+Zambia,Africa,2011,14023199
+Zambia,Africa,2012,14465148
+Zambia,Africa,2013,14926551
+Zambia,Africa,2014,15399793
+Zambia,Africa,2015,15879370
+Zambia,Africa,2016,16363449
+Zambia,Africa,2017,16853608
+Zambia,Africa,2018,17351714
+Zambia,Africa,2019,17861034
+Zambia,Africa,2020,18383956
+Zimbabwe,Africa,1990,10432409
+Zimbabwe,Africa,1991,10681008
+Zimbabwe,Africa,1992,10900511
+Zimbabwe,Africa,1993,11092775
+Zimbabwe,Africa,1994,11261752
+Zimbabwe,Africa,1995,11410721
+Zimbabwe,Africa,1996,11541215
+Zimbabwe,Africa,1997,11653254
+Zimbabwe,Africa,1998,11747079
+Zimbabwe,Africa,1999,11822722
+Zimbabwe,Africa,2000,11881482
+Zimbabwe,Africa,2001,11923906
+Zimbabwe,Africa,2002,11954293
+Zimbabwe,Africa,2003,11982219
+Zimbabwe,Africa,2004,12019911
+Zimbabwe,Africa,2005,12076697
+Zimbabwe,Africa,2006,12155496
+Zimbabwe,Africa,2007,12255920
+Zimbabwe,Africa,2008,12379553
+Zimbabwe,Africa,2009,12526964
+Zimbabwe,Africa,2010,12697728
+Zimbabwe,Africa,2011,12894323
+Zimbabwe,Africa,2012,13115149
+Zimbabwe,Africa,2013,13350378
+Zimbabwe,Africa,2014,13586710
+Zimbabwe,Africa,2015,13814642
+Zimbabwe,Africa,2016,14030338
+Zimbabwe,Africa,2017,14236599
+Zimbabwe,Africa,2018,14438812
+Zimbabwe,Africa,2019,14645473
+Zimbabwe,Africa,2020,14862927
+Zambia,Africa,1990,8036849.00
+Zambia,Africa,1991,8246662.00
+Zambia,Africa,1992,8451346.00
+Zambia,Africa,1993,8656484.00
+Zambia,Africa,1994,8869745.00
+Zambia,Africa,1995,9096608.00
+Zambia,Africa,1996,9339740.00
+Zambia,Africa,1997,9597610.00
+Zambia,Africa,1998,9866474.00
+Zambia,Africa,1999,10140564.00
+Zambia,Africa,2000,10415942.00
+Zambia,Africa,2001,10692197.00
+Zambia,Africa,2002,10971704.00
+Zambia,Africa,2003,11256740.00
+Zambia,Africa,2004,11550641.00
+Zambia,Africa,2005,11856244.00
+Zambia,Africa,2006,12173518.00
+Zambia,Africa,2007,12502958.00
+Zambia,Africa,2008,12848531.00
+Zambia,Africa,2009,13215142.00
+Zambia,Africa,2010,13605986.00
+Zambia,Africa,2011,14023199.00
+Zambia,Africa,2012,14465148.00
+Zambia,Africa,2013,14926551.00
+Zambia,Africa,2014,15399793.00
+Zambia,Africa,2015,15879370.00
+Zambia,Africa,2016,16363449.00
+Zambia,Africa,2017,16853608.00
+Zambia,Africa,2018,17351714.00
+Zambia,Africa,2019,17861034.00
+Zambia,Africa,2020,18383956.00
+Zimbabwe,Africa,1990,10432409.00
+Zimbabwe,Africa,1991,10681008.00
+Zimbabwe,Africa,1992,10900511.00
+Zimbabwe,Africa,1993,11092775.00
+Zimbabwe,Africa,1994,11261752.00
+Zimbabwe,Africa,1995,11410721.00
+Zimbabwe,Africa,1996,11541215.00
+Zimbabwe,Africa,1997,11653254.00
+Zimbabwe,Africa,1998,11747079.00
+Zimbabwe,Africa,1999,11822722.00
+Zimbabwe,Africa,2000,11881482.00
+Zimbabwe,Africa,2001,11923906.00
+Zimbabwe,Africa,2002,11954293.00
+Zimbabwe,Africa,2003,11982219.00
+Zimbabwe,Africa,2004,12019911.00
+Zimbabwe,Africa,2005,12076697.00
+Zimbabwe,Africa,2006,12155496.00
+Zimbabwe,Africa,2007,12255920.00
+Zimbabwe,Africa,2008,12379553.00
+Zimbabwe,Africa,2009,12526964.00
+Zimbabwe,Africa,2010,12697728.00
+Zimbabwe,Africa,2011,12894323.00
+Zimbabwe,Africa,2012,13115149.00
+Zimbabwe,Africa,2013,13350378.00
+Zimbabwe,Africa,2014,13586710.00
+Zimbabwe,Africa,2015,13814642.00
+Zimbabwe,Africa,2016,14030338.00
+Zimbabwe,Africa,2017,14236599.00
+Zimbabwe,Africa,2018,14438812.00
+Zimbabwe,Africa,2019,14645473.00
+Zimbabwe,Africa,2020,14862927.00

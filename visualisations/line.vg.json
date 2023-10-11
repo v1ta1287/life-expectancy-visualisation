@@ -3,6 +3,8 @@
   "config": {
     "background": "transparent"
   },
+  "width": "container",
+  "height": 230,
   "description": "Average Life Expectancy by Continent",
   "data": { "url": "data/timeseries.csv" },
   "transform": [

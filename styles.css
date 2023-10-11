@@ -21,12 +21,12 @@ body {
 .section {
   margin-top: 40px;
   background-color: rgb(248, 250, 252);
+  padding: 15px;
   border-radius: 10px;
 }
 .vis-container {
   width: 100%;
   background-color: rgb(248, 250, 252);
-  padding: 20px;
   border-radius: 10px;
 }
 
@@ -42,8 +42,7 @@ h1 {
 .description-left {
   width: 100%;
   background-color: rgb(248, 250, 252);
-  padding: 10px;
-  height: 315px;
+  height: 230px;
 }
 
 .pure-g {

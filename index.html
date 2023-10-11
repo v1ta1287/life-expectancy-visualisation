@@ -57,6 +57,17 @@
             </div>
           </div>
         </div>
+        <div class="pure-g">
+          <div class="pure-u-16-24">
+            <div id="area" class="vis-container"></div>
+          </div>
+          <div class="pure-u-6-24">
+            <div class="description description-left">
+              <h2>Bubble plot</h2>
+              <p>To-Do</p>
+            </div>
+          </div>
+        </div>
 
       </div>
       <!-- End section -->
@@ -88,6 +99,7 @@
       const bubble = "visualisations/bubble.vg.json";
       const parallel = "visualisations/parallel.vg.json";
       const line = "visualisations/line.vg.json";
+      const area = "visualisations/area.vg.json"
       vegaEmbed("#map", map, { mode: "vega-lite" })
         .then(console.log)
         .catch(console.warn);
@@ -98,6 +110,9 @@
         .then(console.log)
         .catch(console.warn);
       vegaEmbed("#line", line, { mode: "vega-lite" })
+        .then(console.log)
+        .catch(console.warn);
+        vegaEmbed("#area", area, { mode: "vega-lite" })
         .then(console.log)
         .catch(console.warn);
     </script>
