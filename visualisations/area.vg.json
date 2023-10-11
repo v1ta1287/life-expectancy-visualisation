@@ -3,6 +3,7 @@
   "config": {
     "background": "transparent"
   },
+  "title": "Population increase over the years",
   "width": "container",
   "height": 230,
   "data": {"url": "data/areachart.csv"},

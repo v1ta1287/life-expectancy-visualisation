@@ -36,10 +36,63 @@
       <!-- end pure grid group -->
 
       <!-- pure grid group -->
-
-      <div class="pure-g">
-        <div class="pure-u-1-1">
-          <div id="map" class="vis-container"></div>
+      <div class="section">
+        <div class="pure-g">
+          <div class="pure-u-1-1">
+            <div id="map" class="vis-container"></div>
+          </div>
+          <div class="pure-u-1-1">
+            <p>
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard dummy text
+              ever since the 1500s, when an unknown printer took a galley of
+              type and scrambled it to make a type specimen book. It has
+              survived not only five centuries, but also the leap into
+              electronic typesetting, remaining essentially unchanged. It was
+              popularised in the 1960s with the release of Letraset sheets
+              containing Lorem Ipsum passages, and more recently with desktop
+              publishing software like Aldus PageMaker including versions of
+              Lorem Ipsum.
+            </p>
+          </div>
+        </div>
+        <div class="pure-g">
+          <div class="pure-u-12-24">
+            <div id="bar" class="vis-container"></div>
+          </div>
+          <div class="pure-u-12-24">
+            <div id="donut" class="vis-container"></div>
+          </div>
+        </div>
+        <div class="pure-g">
+          <div class="pure-u-12-24">
+            <p>
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard dummy text
+              ever since the 1500s, when an unknown printer took a galley of
+              type and scrambled it to make a type specimen book. It has
+              survived not only five centuries, but also the leap into
+              electronic typesetting, remaining essentially unchanged. It was
+              popularised in the 1960s with the release of Letraset sheets
+              containing Lorem Ipsum passages, and more recently with desktop
+              publishing software like Aldus PageMaker including versions of
+              Lorem Ipsum.
+            </p>
+          </div>
+          <div class="pure-u-12-24">
+            <p>
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard dummy text
+              ever since the 1500s, when an unknown printer took a galley of
+              type and scrambled it to make a type specimen book. It has
+              survived not only five centuries, but also the leap into
+              electronic typesetting, remaining essentially unchanged. It was
+              popularised in the 1960s with the release of Letraset sheets
+              containing Lorem Ipsum passages, and more recently with desktop
+              publishing software like Aldus PageMaker including versions of
+              Lorem Ipsum.
+            </p>
+          </div>
         </div>
       </div>
 
@@ -50,9 +103,15 @@
             <div id="line" class="vis-container"></div>
           </div>
           <div class="pure-u-6-24">
-            <div class="description description-left">
-              <h2>Bubble plot</h2>
-              <p>To-Do</p>
+            <div class="description description-right">
+              <p>
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy
+                text ever since the 1500s, when an unknown printer took a galley
+                of type and scrambled it to make a type specimen book. It has
+                survived not only five centuries, but also the leap into
+                electronic typesetting
+              </p>
             </div>
           </div>
         </div>
@@ -61,13 +120,18 @@
             <div id="area" class="vis-container"></div>
           </div>
           <div class="pure-u-6-24">
-            <div class="description description-left">
-              <h2>Bubble plot</h2>
-              <p>To-Do</p>
+            <div class="description description-right">
+              <p>
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy
+                text ever since the 1500s, when an unknown printer took a galley
+                of type and scrambled it to make a type specimen book. It has
+                survived not only five centuries, but also the leap into
+                electronic typesetting
+              </p>
             </div>
           </div>
         </div>
-
       </div>
       <!-- End section -->
 
@@ -78,9 +142,17 @@
             <div id="bubble" class="vis-container"></div>
           </div>
           <div class="pure-u-6-24">
-            <div class="description description-left">
-              <h2>Bubble plot</h2>
-              <p>To-Do</p>
+            <div class="description description-right">
+              <p>
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy
+                text ever since the 1500s, when an unknown printer took a galley
+                of type and scrambled it to make a type specimen book. It has
+                survived not only five centuries, but also the leap into
+                electronic typesetting, remaining essentially unchanged. It was
+                popularised in the 1960s with the release of Letraset sheets
+                containing Lorem Ipsum passages
+              </p>
             </div>
           </div>
         </div>
@@ -98,20 +170,28 @@
       const bubble = "visualisations/bubble.vg.json";
       const parallel = "visualisations/parallel.vg.json";
       const line = "visualisations/line.vg.json";
-      const area = "visualisations/area.vg.json"
-      vegaEmbed("#map", map, { mode: "vega-lite" })
+      const area = "visualisations/area.vg.json";
+      const bar = "visualisations/barchart.vg.json";
+      const donut = "visualisations/donut.vg.json";
+      vegaEmbed("#map", map, { mode: "vega-lite", actions: false })
         .then(console.log)
         .catch(console.warn);
-      vegaEmbed("#bubble", bubble, { mode: "vega-lite" })
+      vegaEmbed("#bubble", bubble, { mode: "vega-lite", actions: false })
         .then(console.log)
         .catch(console.warn);
-      vegaEmbed("#parallel", parallel, { mode: "vega-lite" })
+      vegaEmbed("#parallel", parallel, { mode: "vega-lite", actions: false })
         .then(console.log)
         .catch(console.warn);
-      vegaEmbed("#line", line, { mode: "vega-lite" })
+      vegaEmbed("#line", line, { mode: "vega-lite", actions: false })
         .then(console.log)
         .catch(console.warn);
-        vegaEmbed("#area", area, { mode: "vega-lite" })
+      vegaEmbed("#area", area, { mode: "vega-lite", actions: false })
+        .then(console.log)
+        .catch(console.warn);
+      vegaEmbed("#bar", bar, { mode: "vega-lite", actions: false })
+        .then(console.log)
+        .catch(console.warn);
+      vegaEmbed("#donut", donut, { mode: "vega-lite", actions: false })
         .then(console.log)
         .catch(console.warn);
     </script>

@@ -3,6 +3,7 @@
   "data": {
     "url": "data/csvjson.json"
   },
+  "title": "Correlation of life expectancy with health",
   "width": "container",
   "height": 300,
   "transform": [

@@ -1,0 +1,38 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "background": "transparent"
+  },
+  "title": "Top 5 life expectancies",
+  "width": "container",
+  "height": 230,
+  "data": { "url": "data/global.json" },
+  "description": "A simple bar chart with embedded data.",
+  "transform": [
+    {
+      "window": [
+        {
+          "op": "rank",
+          "as": "rank"
+        }
+      ],
+      "sort": [{ "field": "Life expectancy", "order": "descending" }]
+    },
+    {
+      "filter": "datum.rank <= 5"
+    }
+  ],
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "Life expectancy",
+      "type": "quantitative",
+      "axis": { "tickCount": 6 , "format": ".2f"}
+    },
+    "y": {
+      "field": "Country",
+      "type": "nominal",
+      "sort": { "field": "Life expectancy", "op": "average", "order": "descending" }
+    }
+  }
+}

@@ -58,8 +58,6 @@
       "type": "quantitative",
       "axis": {"tickCount": 3},
       "scale": {"type": "log", "domain": [100, 100000]}
-      
-      
     },
     "y": {
       "field": "Life expectancy",

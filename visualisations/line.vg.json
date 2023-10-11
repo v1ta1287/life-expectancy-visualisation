@@ -5,6 +5,7 @@
   },
   "width": "container",
   "height": 230,
+  "title": "Life expectancy over the years",
   "description": "Average Life Expectancy by Continent",
   "data": { "url": "data/timeseries.csv" },
   "transform": [

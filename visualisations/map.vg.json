@@ -5,7 +5,7 @@
   },
   "title": "Global Life Expectancy At Birth",
   "width": "container",
-  "height": 300,
+  "height": 350,
   "data": {
     "url": "data/ne_110m_admin_0_countries.topojson",
     "format": { "type": "topojson", "feature": "ne_110m_admin_0_countries" }

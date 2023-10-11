@@ -1,0 +1,36 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "config": {
+    "background": "transparent"
+  },
+  "title": "Continents by population",
+  "width": "container",
+  "height": 230,
+  "description": "Average Life Expectancy by Continent",
+  "data": { "url": "data/global.json" },
+  "transform": [
+    {
+      "aggregate": [
+        {
+          "op": "mean",
+          "field": "Population",
+          "as": "Average Life Expectancy"
+        }
+      ],
+      "groupby": ["Continent"]
+    }
+  ],
+  "mark": { "type": "arc", "innerRadius": 50 },
+  "encoding": {
+    "theta": { "field": "Average Life Expectancy", "type": "quantitative" },
+    "color": {
+      "field": "Continent",
+      "type": "nominal",
+      "scale": {
+        "domain": ["America", "Europe", "Africa", "Asia", "Oceania"],
+        "range": ["#984ea3", "#ff7f00", "#a6cee3", "#377eb8", "#a65628"]
+      },
+      "legend": { "labelFontSize": 10, "symbolSize": 10, "titleFontSize": 10 }
+    }
+  }
+}
