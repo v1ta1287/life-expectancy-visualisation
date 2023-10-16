@@ -18,8 +18,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap"
       rel="stylesheet"
+      href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;lang=en"
     />
 
     <!-- CSS file -->
@@ -28,31 +28,36 @@
   <body>
     <div class="page">
       <!-- pure grid group -->
-      <div class="pure-g">
-        <div class="pure-u-1-1">
-          <h1>Global life expectancy and population</h1>
+      <div class="section">
+        <div class="pure-g">
+          <div class="pure-u-1-1">
+            <h1></h1>
+            <h1>Global life expectancy and population</h1>
+            <h2>A visualisation by Andy Zhong</h2>
+          </div>
         </div>
       </div>
       <!-- end pure grid group -->
 
       <!-- pure grid group -->
       <div class="section">
+        <h3>A snapshot of the world</h3>
         <div class="pure-g">
           <div class="pure-u-1-1">
             <div id="map" class="vis-container"></div>
           </div>
           <div class="pure-u-1-1">
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book. It has
-              survived not only five centuries, but also the leap into
-              electronic typesetting, remaining essentially unchanged. It was
-              popularised in the 1960s with the release of Letraset sheets
-              containing Lorem Ipsum passages, and more recently with desktop
-              publishing software like Aldus PageMaker including versions of
-              Lorem Ipsum.
+              The global life expectancy varies drastically around the world,
+              even in the modern era. From the map we can see that
+              <span class="developed"
+                >Europe, North America, Australia and East Asia</span
+              >
+              have relatively high life expectancies, while
+              <span class="undeveloped">Africa and South Asia</span> have
+              relatively low life expectancies. We can also see that the range 
+              of life expectancy is 60-80 for most countries, although there 
+              are some exceptions at both extremes of this range.
             </p>
           </div>
         </div>
@@ -61,7 +66,7 @@
             <div id="bar" class="vis-container"></div>
           </div>
           <div class="pure-u-12-24">
-            <div id="donut" class="vis-container"></div>
+            <div id="bar2" class="vis-container"></div>
           </div>
         </div>
         <div class="pure-g">
@@ -98,6 +103,7 @@
 
       <!-- Start section -->
       <div class="section">
+        <h3>How has the world changed over time?</h3>
         <div class="pure-g">
           <div class="pure-u-16-24">
             <div id="line" class="vis-container"></div>
@@ -137,6 +143,7 @@
 
       <!-- Start section -->
       <div class="section">
+        <h3>What factors affect life expectancy?</h3>
         <div class="pure-g">
           <div class="pure-u-16-24">
             <div id="bubble" class="vis-container"></div>
@@ -186,7 +193,7 @@
       const line = "visualisations/line.vg.json";
       const area = "visualisations/area.vg.json";
       const bar = "visualisations/barchart.vg.json";
-      const donut = "visualisations/donut.vg.json";
+      const bar2 = "visualisations/barchart2.vg.json";
       vegaEmbed("#map", map, { mode: "vega-lite", actions: false })
         .then(console.log)
         .catch(console.warn);
@@ -205,7 +212,7 @@
       vegaEmbed("#bar", bar, { mode: "vega-lite", actions: false })
         .then(console.log)
         .catch(console.warn);
-      vegaEmbed("#donut", donut, { mode: "vega-lite", actions: false })
+      vegaEmbed("#bar2", bar2, { mode: "vega-lite", actions: false })
         .then(console.log)
         .catch(console.warn);
     </script>

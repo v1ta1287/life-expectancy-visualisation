@@ -5,13 +5,13 @@
     "font": "Roboto"
   },
   "title": {
-    "text": "Continents by average life expectancy",
+    "text": "Continents by average population",
     "offset": 20
   },
   "width": "container",
   "height": 270,
   "description": "Average Life Expectancy by Continent",
-  "data": { "url": "data/life_expectancy.json" },
+  "data": { "url": "data/areachart.json" },
   "params": [
     {
       "name": "Year",
@@ -26,13 +26,13 @@
     }
   ],
   "transform": [
-    { "filter": "datum.Year == Year" },
+    {"filter": "datum.Year == Year"},
     {
       "aggregate": [
         {
           "op": "mean",
-          "field": "Life Expectancy",
-          "as": "Average Life Expectancy"
+          "field": "Population",
+          "as": "Average Population"
         }
       ],
       "groupby": ["Continent"]
@@ -43,9 +43,9 @@
       "mark": "bar",
       "encoding": {
         "x": {
-          "field": "Average Life Expectancy",
+          "field": "Average Population",
           "type": "quantitative",
-          "axis": { "tickCount": 6, "format": "f" }
+          "axis": { "tickCount": 4 , "format": ".1s" }
         },
         "y": {
           "field": "Continent",
@@ -61,9 +61,9 @@
         },
         "tooltip": [
           {
-            "field": "Average Life Expectancy",
+            "field": "Average Population",
             "type": "quantitative",
-            "format": ".2f"
+            "format": ".0f"
           },
           { "field": "Continent", "type": "nominal" }
         ]
@@ -78,16 +78,16 @@
       },
       "encoding": {
         "x": {
-          "field": "Average Life Expectancy",
+          "field": "Average Population",
           "type": "quantitative",
-          "scale": { "zero": false }
+          "axis": { "tickCount": 4, "format": ".1s" }
         },
         "y": {
           "field": "Continent",
           "type": "nominal"
         },
-        "text": { "field": "Average Life Expectancy", "format": ".2f" },
-        "color": { "value": "black" }
+        "text": { "field": "Average Population", "format": ".4s" },
+        "color": { "value": "black" } 
       }
     }
   ]

@@ -1,12 +1,19 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "config": {
-    "background": "transparent"
+    "background": "transparent",
+    "font": "Verdana"
   },
   "title": "Population increase over the years",
   "width": "container",
   "height": 230,
   "data": {"url": "data/areachart.csv"},
+  "transform": [
+    {
+      "calculate": "indexof(['Asia','Africa','America', 'Europe','Oceania'], datum.Continent)",
+      "as": "order"
+    }
+  ],
   "mark": "area",
   "encoding": {
     "x": {
@@ -21,8 +28,12 @@
       "scale": {
         "domain": ["America", "Europe", "Africa", "Asia", "Oceania"],
         "range": ["#984ea3", "#ff7f00", "#a6cee3", "#377eb8", "#a65628"]
-      },
-      "legend": { "labelFontSize": 10, "symbolSize": 10, "titleFontSize": 10 }
-    }
+      }
+    },
+    "tooltip": [
+      {"field": "Continent", "type": "nominal"},
+      {"field": "Population", "type": "quantitative", "aggregate": "sum", "title": "Total Population", "format": ".0f"}
+    ],
+    "order": {"field": "order", "type": "ordinal"}
   }
 }

@@ -1,7 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "config": {
-    "background": "transparent"
+    "background": "transparent",
+    "font": "Roboto"
   },
   "width": "container",
   "height": 230,
@@ -39,8 +40,15 @@
       "scale": {
         "domain": ["America", "Europe", "Africa", "Asia", "Oceania"],
         "range": ["#984ea3", "#ff7f00", "#a6cee3", "#377eb8", "#a65628"]
+      }
+    },
+    "tooltip": [
+      {
+        "field": "Average Life Expectancy",
+        "type": "quantitative",
+        "format": ".2f"
       },
-      "legend": { "labelFontSize": 10, "symbolSize": 10, "titleFontSize": 10 }
-    }
+      { "field": "Continent", "type": "nominal" }
+    ]
   }
 }

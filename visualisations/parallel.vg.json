@@ -50,15 +50,10 @@
           "scale": {
             "domain": ["America", "Europe", "Africa", "Asia", "Oceania"],
             "range": ["#984ea3", "#ff7f00", "#a6cee3", "#377eb8", "#a65628"]
-          },
-          "legend": {
-            "labelFontSize": 10,
-            "symbolSize": 10,
-            "titleFontSize": 10
           }
         },
         "detail": { "type": "nominal", "field": "index" },
-        "opacity": { "value": 0.3 },
+        "opacity": { "value": 0.4 },
         "x": { "type": "nominal", "field": "key" },
         "y": { "type": "quantitative", "field": "norm_val", "axis": null },
         "tooltip": [
@@ -158,6 +153,7 @@
   ],
   "config": {
     "background": "transparent",
+    "font": "Roboto",
     "axisX": {
       "domain": false,
       "labelAngle": 0,

@@ -1,13 +1,46 @@
-body *{
-  font-family: 'Open Sans', sans-serif;
+body {
+  background-color: rgb(230, 239, 247);
 }
 
 h1 {
   font-weight: 900;
+  font-size: 40px;
+  margin-top: 30px;
+	margin-bottom: 30px;
+  color: rgb(52, 51, 51);
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
-body {
-  background-color: rgb(230, 239, 247);
+h2 {
+  font-weight: 900;
+  font-size: 15px;
+  text-align: center;
+  color: rgb(74, 72, 72);
+}
+
+h3 {
+	color: rgb(74, 72, 72);
+	font-weight: 900;
+  font-size: 25pt;
+  width: 100%;
+	border-bottom: 3px solid rgb(74, 72, 72);
+	display: block;
+	margin-bottom: 20px;
+}
+
+
+.underline {
+  border-bottom: 2px solid black;
+  width: 100%;
+  display: block;
+}
+
+
+p {
+  font-size: 18px;
+  padding: 10px;
 }
 
 .page {
@@ -23,10 +56,11 @@ body {
   background-color: rgb(248, 250, 252);
   border-radius: 10px;
   padding: 10px;
+  box-shadow: 0.8em 0.5em 0.4em #bfc5c5, -0.8em 0.5em 0.4em #bfc5c5;
 }
 .vis-container {
   width: 100%;
-  background-color: rgb(248, 250, 252); 
+  background-color: rgb(248, 250, 252);
   border-radius: 10px;
 }
 
@@ -52,15 +86,11 @@ h1 {
   margin-bottom: 40px;
 }
 
-.small-font {
-  font-size: 14px;
+.developed {
+  color: rgb(28,71,2);
+  font-weight: bold;
 }
-
-h1 {
-  text-align: center;
-}
-
-p {
-  font-size: 13px;
-  padding: 10px;
+.undeveloped {
+  color: rgb(159,	196,	137);
+  font-weight: bold;
 }

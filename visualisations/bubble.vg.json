@@ -1,7 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "config": {
-    "background": "transparent"
+    "background": "transparent",
+    "font": "Roboto"
   },
   "width": "container",
   "title": "Life expectancy vs GDP Per Capita",
@@ -98,8 +99,7 @@
               "#377eb8",
               "#a65628"
             ]
-          },
-          "legend": {"labelFontSize": 10, "symbolSize":10, "titleFontSize": 10}
+          }
         },
         "opacity": {"value": 0.6},
         "tooltip": [

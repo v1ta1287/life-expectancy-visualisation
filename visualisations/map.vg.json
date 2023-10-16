@@ -1,9 +1,14 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "config": {
-    "background": "transparent"
+    "background": "transparent",
+    "font": "Roboto"
   },
-  "title": "Global Life Expectancy At Birth",
+  "title": {
+    "text": "Global life expectancy (2020)",
+    "offset": 20,
+    "fontSize": 20
+  },
   "width": "container",
   "height": 350,
   "data": {
@@ -59,7 +64,7 @@
           "type": "quantitative",
           "scale": {
             "type": "linear",
-            "domain": [50, 90],
+            "domain": [50,90],
             "range": ["#9fc489", "#67c72e", "#388f04", "#1c4702"]
           },
           "legend": {
@@ -73,7 +78,9 @@
         "tooltip": [
           {
             "field": "Life Expectancy at Birth (2021)",
-            "type": "quantitative"
+            "title": "Life expectancy at birth",
+            "type": "quantitative",
+            "format": ".2f"
           },
           { "field": "Country", "type": "nominal" }
         ]
