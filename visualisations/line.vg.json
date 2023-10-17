@@ -11,7 +11,7 @@
     "offset": 20,
     "fontSize": 20
   },
-  "description": "Average Life Expectancy by Continent",
+  "description": "Average Life Expectancy by Continent ",
   "layer": [
     {
       "data": { "url": "data/timeseries.csv" },
