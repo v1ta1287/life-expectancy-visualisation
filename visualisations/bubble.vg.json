@@ -2,10 +2,15 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "config": {
     "background": "transparent",
-    "font": "Roboto"
+    "font": "Arial"
   },
   "width": "container",
-  "title": "Life expectancy vs GDP Per Capita",
+  "height": 350,
+  "title": {
+    "text": "Correlation of life expectancy with wealth",
+    "offset": 20,
+    "fontSize": 20
+  },
   "data": {
     "url": "data/global_data.csv"
   },
@@ -58,7 +63,8 @@
       "field": "GDPPerCapita",
       "type": "quantitative",
       "axis": {"tickCount": 3},
-      "scale": {"type": "log", "domain": [100, 100000]}
+      "scale": {"type": "log", "domain": [100, 100000]},
+      "title": "GDP per Capita"
     },
     "y": {
       "field": "Life expectancy",

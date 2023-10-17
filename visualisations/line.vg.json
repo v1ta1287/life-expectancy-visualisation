@@ -2,53 +2,73 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "config": {
     "background": "transparent",
-    "font": "Roboto"
+    "font": "Arial"
   },
   "width": "container",
-  "height": 230,
-  "title": "Life expectancy over the years",
+  "height": 270,
+  "title": {
+    "text": "Life expectancy over time",
+    "offset": 20,
+    "fontSize": 20
+  },
   "description": "Average Life Expectancy by Continent",
-  "data": { "url": "data/timeseries.csv" },
-  "transform": [
+  "layer": [
     {
-      "aggregate": [
+      "data": { "url": "data/timeseries.csv" },
+      "transform": [
         {
-          "op": "mean",
-          "field": "Life Expectancy",
-          "as": "Average Life Expectancy"
+          "aggregate": [
+            {
+              "op": "mean",
+              "field": "Life Expectancy",
+              "as": "Average Life Expectancy"
+            }
+          ],
+          "groupby": ["Year", "Continent"]
         }
       ],
-      "groupby": ["Year", "Continent"]
-    }
-  ],
-  "mark": "line",
-  "encoding": {
-    "x": {
-      "field": "Year",
-      "type": "temporal",
-      "axis": { "tickCount": 5 }
-    },
-    "y": {
-      "field": "Average Life Expectancy",
-      "type": "quantitative",
-      "axis": { "tickCount": 6 },
-      "scale": { "domain": [50, 85] }
-    },
-    "color": {
-      "field": "Continent",
-      "type": "nominal",
-      "scale": {
-        "domain": ["America", "Europe", "Africa", "Asia", "Oceania"],
-        "range": ["#984ea3", "#ff7f00", "#a6cee3", "#377eb8", "#a65628"]
+      "mark": {
+        "type": "line",
+        "point": true
+      },
+      "encoding": {
+        "x": {
+          "field": "Year",
+          "type": "temporal",
+          "axis": { "tickCount": 10 }
+        },
+        "y": {
+          "field": "Average Life Expectancy",
+          "type": "quantitative",
+          "axis": { "tickCount": 6 },
+          "scale": { "domain": [50, 85] }
+        },
+        "color": {
+          "field": "Continent",
+          "type": "nominal",
+          "scale": {
+            "domain": ["America", "Europe", "Africa", "Asia", "Oceania"],
+            "range": ["#984ea3", "#ff7f00", "#a6cee3", "#377eb8", "#a65628"]
+          }
+        },
+        "tooltip": [
+          {
+            "field": "Average Life Expectancy",
+            "type": "quantitative",
+            "format": ".2f"
+          },
+          { "field": "Continent", "type": "nominal" },
+          { "field": "Year", "type": "temporal" }
+        ]
       }
     },
-    "tooltip": [
-      {
-        "field": "Average Life Expectancy",
-        "type": "quantitative",
-        "format": ".2f"
-      },
-      { "field": "Continent", "type": "nominal" }
-    ]
-  }
+    {
+      "data": { "values": [{}] },
+      "mark": { "type": "rule", "strokeDash": [2, 2], "size": 2 },
+      "encoding": {
+        "x": { "datum": { "year": 2019 } },
+        "tooltip": { "value": "Covid-19 hits earth!" }
+      }
+    }
+  ]
 }

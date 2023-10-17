@@ -2,38 +2,75 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "config": {
     "background": "transparent",
-    "font": "Verdana"
+    "font": "Arial"
   },
-  "title": "Population increase over the years",
+  "title": {
+    "text": "Population increase over time",
+    "offset": 20,
+    "fontSize": 20
+  },
   "width": "container",
-  "height": 230,
-  "data": {"url": "data/areachart.csv"},
-  "transform": [
+  "height": 270,
+  "layer": [
     {
-      "calculate": "indexof(['Asia','Africa','America', 'Europe','Oceania'], datum.Continent)",
-      "as": "order"
-    }
-  ],
-  "mark": "area",
-  "encoding": {
-    "x": {
-      "timeUnit": "yearmonth", "field": "Year"
-    },
-    "y": {
-      "aggregate": "sum", "field": "Population"
-    },
-    "color": {
-      "field": "Continent",
-      "type": "nominal",
-      "scale": {
-        "domain": ["America", "Europe", "Africa", "Asia", "Oceania"],
-        "range": ["#984ea3", "#ff7f00", "#a6cee3", "#377eb8", "#a65628"]
+      "data": { "url": "data/areachart.csv" },
+      "transform": [
+        {
+          "calculate": "indexof(['Asia','Africa','America', 'Europe','Oceania'], datum.Continent)",
+          "as": "order"
+        }
+      ],
+      "mark": "area",
+      "encoding": {
+        "x": {
+          "timeUnit": "year",
+          "field": "Year",
+          "title": "Year",
+          "axis": { "tickCount": 10 }
+        },
+        "y": {
+          "aggregate": "sum",
+          "field": "Population",
+          "title": "Population",
+          "axis": { "format": ".1s" }
+        },
+        "color": {
+          "field": "Continent",
+          "type": "nominal",
+          "scale": {
+            "domain": ["America", "Europe", "Africa", "Asia", "Oceania"],
+            "range": ["#984ea3", "#ff7f00", "#a6cee3", "#377eb8", "#a65628"]
+          }
+        },
+        "tooltip": [
+          { "field": "Continent", "type": "nominal" },
+          {
+            "field": "Population",
+            "type": "quantitative",
+            "aggregate": "sum",
+            "title": "Total Population",
+            "format": ".0f"
+          },
+          { "field": "Year", "type": "temporal" }
+        ],
+        "order": { "field": "order", "type": "ordinal" }
       }
     },
-    "tooltip": [
-      {"field": "Continent", "type": "nominal"},
-      {"field": "Population", "type": "quantitative", "aggregate": "sum", "title": "Total Population", "format": ".0f"}
-    ],
-    "order": {"field": "order", "type": "ordinal"}
-  }
+    {
+      "data": { "values": [{}] },
+      "mark": { "type": "rule", "strokeDash": [2, 2], "size": 2 },
+      "encoding": {
+        "x": { "datum": { "year": 1995 } },
+        "tooltip": { "value": "Africa overtakes Europe." }
+      }
+    },
+    {
+      "data": { "values": [{}] },
+      "mark": { "type": "rule", "strokeDash": [2, 2], "size": 2 },
+      "encoding": {
+        "x": { "datum": { "year": 2002 } },
+        "tooltip": { "value": "Africa overtakes America." }
+      }
+    }
+  ]
 }

@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "config": {
     "background": "transparent",
-    "font": "Roboto"
+    "font": "Arial"
   },
   "title": {
     "text": "Global life expectancy (2020)",

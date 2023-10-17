@@ -2,11 +2,12 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "config": {
     "background": "transparent",
-    "font": "Roboto"
+    "font": "Arial"
   },
   "title": {
     "text": "Continents by average population",
-    "offset": 20
+    "offset": 20,
+    "fontSize": 20
   },
   "width": "container",
   "height": 270,
